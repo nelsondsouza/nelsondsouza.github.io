@@ -21,7 +21,7 @@ Complete overview of all features in the Data Science Learning Dashboard.
 
 ### Layout
 - ✅ Fixed top navigation bar (70px height)
-- ✅ Left sidebar (280px desktop, collapsible mobile)
+- ✅ Right sidebar (280px desktop, collapsible mobile)
 - ✅ Main content area with proper spacing
 - ✅ Footer section
 - ✅ Clean whitespace and margins
@@ -37,7 +37,7 @@ Complete overview of all features in the Data Science Learning Dashboard.
 - ✅ Shadow on scroll
 - ✅ Responsive behavior
 
-### Left Sidebar
+### Right Sidebar
 - ✅ User profile section
   - Avatar placeholder (or image support)
   - Name display

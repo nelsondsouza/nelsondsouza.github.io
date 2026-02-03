@@ -7,7 +7,7 @@ A comprehensive, modern, and responsive learning dashboard for tracking data sci
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Professional UI**: Clean, modern interface with blue/gray color scheme
 - **Top Navigation**: Fixed navigation bar with logo and menu items
-- **Collapsible Sidebar**: Left sidebar with user profile and learning path navigation
+- **Collapsible Sidebar**: Right sidebar with user profile and learning path navigation
 - **Multiple Learning Paths**:
   - Python for Data Science
   - ML & Notebooks

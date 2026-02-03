@@ -2,7 +2,7 @@
    Sidebar Navigation Styles
    ============================================
    
-   Left sidebar with user profile and navigation menu.
+   Right sidebar with user profile and navigation menu.
    Collapsible on mobile devices.
    Easy to customize for CMS integration.
 ============================================ */
@@ -14,11 +14,11 @@
 .sidebar {
     position: fixed;
     top: 70px;
-    left: 0;
+    right: 0;
     width: 280px;
     height: calc(100vh - 70px);
     background: white;
-    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.05);
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -206,7 +206,7 @@
 
 @media (max-width: 768px) {
     .sidebar {
-        transform: translateX(-100%);
+        transform: translateX(100%);
     }
     
     .sidebar.active {
@@ -218,7 +218,7 @@
         content: '';
         position: fixed;
         top: 70px;
-        left: 280px;
+        left: -100vw;
         right: 0;
         bottom: 0;
         background: rgba(0, 0, 0, 0.5);
@@ -236,7 +236,8 @@
     }
     
     .main-content {
-        margin-left: 240px;
+        margin-right: 240px;
+        margin-left: 0;
     }
     
     .sidebar-profile {
@@ -265,9 +266,9 @@
    Sidebar Animations
 ============================================ */
 
-@keyframes slideInFromLeft {
+@keyframes slideInFromRight {
     from {
-        transform: translateX(-100%);
+        transform: translateX(100%);
     }
     to {
         transform: translateX(0);
@@ -275,7 +276,7 @@
 }
 
 .sidebar.active {
-    animation: slideInFromLeft 0.3s ease-out;
+    animation: slideInFromRight 0.3s ease-out;
 }
 
 /* ============================================

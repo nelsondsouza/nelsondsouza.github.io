@@ -11,7 +11,7 @@ A comprehensive, professional data science learning dashboard has been created w
 ### Core Requirements ✅
 
 - ✅ **Top Navigation Bar** - Fixed header with logo, menu, and dark mode toggle
-- ✅ **Left Sidebar** - Collapsible navigation with user profile
+- ✅ **Right Sidebar** - Collapsible navigation with user profile
 - ✅ **Responsive Design** - Mobile-first, works on all devices
 - ✅ **Professional Color Scheme** - Blue (#1e3a5f, #3b82f6) and Gray (#f5f7fa)
 - ✅ **Static HTML5/CSS** - No build process, CMS-friendly
@@ -26,7 +26,7 @@ A comprehensive, professional data science learning dashboard has been created w
 - ✅ Mobile hamburger menu
 - ✅ Smooth scrolling to sections
 
-#### Left Sidebar
+#### Right Sidebar
 - ✅ User profile section with avatar placeholder
 - ✅ 9 Learning path sections:
   1. Python for Data Science
