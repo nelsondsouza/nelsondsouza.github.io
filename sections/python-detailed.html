@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Python for Data Science - Detailed Learning Path">
+    <title>Python for Data Science | DS Learning Hub</title>
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/navigation.css">
+    <link rel="stylesheet" href="../css/sidebar.css">
+</head>
+<body>
+    <!-- Top Navigation Bar -->
+    <nav class="top-navbar">
+        <div class="navbar-container">
+            <div class="navbar-logo">
+                <h1>DS Learning Hub</h1>
+                <span class="logo-subtitle">Data Science Dashboard</span>
+            </div>
+            
+            <ul class="navbar-menu">
+                <li><a href="../index.html" class="nav-link">Home</a></li>
+                <li><a href="../index.html#projects" class="nav-link">Projects</a></li>
+                <li><a href="../index.html#resources" class="nav-link">Resources</a></li>
+                <li><a href="../index.html#about" class="nav-link">About</a></li>
+            </ul>
+            
+            <div class="navbar-actions">
+                <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                
+                <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Layout Container -->
+    <div class="layout-container">
+        <!-- Left Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <!-- User Profile Section -->
+            <div class="sidebar-profile">
+                <div class="profile-avatar">
+                    <span class="avatar-placeholder">ND</span>
+                </div>
+                <div class="profile-info">
+                    <h3 class="profile-name">Nelson D'Souza</h3>
+                    <p class="profile-title">Data Science Student</p>
+                    <p class="profile-subtitle">IIT Madras</p>
+                </div>
+            </div>
+
+            <!-- Sidebar Navigation -->
+            <nav class="sidebar-nav">
+                <h4 class="sidebar-heading">Python Topics</h4>
+                
+                <ul class="sidebar-menu">
+                    <li class="sidebar-item">
+                        <a href="#basics" class="sidebar-link active">
+                            <span class="sidebar-icon">📝</span>
+                            <span class="sidebar-text">Python Basics</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#numpy" class="sidebar-link">
+                            <span class="sidebar-icon">🔢</span>
+                            <span class="sidebar-text">NumPy</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#pandas" class="sidebar-link">
+                            <span class="sidebar-icon">🐼</span>
+                            <span class="sidebar-text">Pandas</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#visualization" class="sidebar-link">
+                            <span class="sidebar-icon">📊</span>
+                            <span class="sidebar-text">Data Visualization</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#projects" class="sidebar-link">
+                            <span class="sidebar-icon">🚀</span>
+                            <span class="sidebar-text">Practice Projects</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Sidebar Footer -->
+            <div class="sidebar-footer">
+                <a href="../index.html" class="btn btn-small btn-outline" style="width: 100%; text-align: center; display: block;">
+                    ← Back to Dashboard
+                </a>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Hero Section -->
+            <section class="hero-section">
+                <div class="hero-content">
+                    <h1 class="hero-title">🐍 Python for Data Science</h1>
+                    <p class="hero-subtitle">Complete learning path from basics to advanced data analysis</p>
+                </div>
+            </section>
+
+            <!-- Python Basics Section -->
+            <section id="basics" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">Python Basics</h2>
+                    <p class="section-description">Foundation concepts for data science with Python</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Variables & Data Types</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Understanding Python's core data types</p>
+                            <ul class="card-list">
+                                <li>Integers, Floats, Strings</li>
+                                <li>Lists, Tuples, Dictionaries</li>
+                                <li>Type Conversion</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">View Lesson →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Control Flow</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Conditional statements and loops</p>
+                            <ul class="card-list">
+                                <li>If-Else Statements</li>
+                                <li>For and While Loops</li>
+                                <li>List Comprehensions</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">View Lesson →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Functions</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Creating reusable code blocks</p>
+                            <ul class="card-list">
+                                <li>Defining Functions</li>
+                                <li>Parameters & Arguments</li>
+                                <li>Lambda Functions</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">View Lesson →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- NumPy Section -->
+            <section id="numpy" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">NumPy - Numerical Computing</h2>
+                    <p class="section-description">Efficient array operations and numerical computing</p>
+                </div>
+                
+                <div class="about-content">
+                    <div class="about-card">
+                        <h3>Introduction to NumPy</h3>
+                        <p>
+                            NumPy is the fundamental package for scientific computing in Python. It provides 
+                            a powerful N-dimensional array object and tools for working with these arrays.
+                        </p>
+                        <ul>
+                            <li>N-dimensional array object</li>
+                            <li>Broadcasting functions</li>
+                            <li>Linear algebra operations</li>
+                            <li>Random number generation</li>
+                        </ul>
+                        <div class="contact-links">
+                            <a href="#" class="btn btn-small">View Tutorial</a>
+                            <a href="#" class="btn btn-small btn-outline">Practice</a>
+                        </div>
+                    </div>
+
+                    <div class="about-card">
+                        <h3>Key Concepts</h3>
+                        <p><strong>Array Creation:</strong> Creating arrays from lists, ranges, and special functions</p>
+                        <p><strong>Array Operations:</strong> Element-wise operations, mathematical functions</p>
+                        <p><strong>Indexing & Slicing:</strong> Accessing and modifying array elements</p>
+                        <p><strong>Statistical Operations:</strong> Mean, median, standard deviation, etc.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Pandas Section -->
+            <section id="pandas" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">Pandas - Data Analysis</h2>
+                    <p class="section-description">Data manipulation and analysis with DataFrames</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Series & DataFrames</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Core Pandas data structures</p>
+                            <ul class="card-list">
+                                <li>Creating Series and DataFrames</li>
+                                <li>Reading CSV and Excel files</li>
+                                <li>Data inspection methods</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Data Cleaning</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Preparing data for analysis</p>
+                            <ul class="card-list">
+                                <li>Handling Missing Values</li>
+                                <li>Removing Duplicates</li>
+                                <li>Data Type Conversion</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Data Transformation</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Reshaping and aggregating data</p>
+                            <ul class="card-list">
+                                <li>GroupBy Operations</li>
+                                <li>Pivot Tables</li>
+                                <li>Merging & Joining</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Visualization Section -->
+            <section id="visualization" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">Data Visualization</h2>
+                    <p class="section-description">Creating compelling visualizations with Python</p>
+                </div>
+                
+                <div class="gallery-grid">
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">📊</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">Matplotlib Basics</h3>
+                            <p class="gallery-description">Line plots, scatter plots, and bar charts</p>
+                            <span class="gallery-tag">Matplotlib</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">📈</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">Seaborn Styling</h3>
+                            <p class="gallery-description">Statistical visualizations with beautiful defaults</p>
+                            <span class="gallery-tag">Seaborn</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">🎨</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">Plotly Interactive</h3>
+                            <p class="gallery-description">Interactive charts for web applications</p>
+                            <span class="gallery-tag">Plotly</span>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Practice Projects Section -->
+            <section id="projects" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">Practice Projects</h2>
+                    <p class="section-description">Hands-on projects to reinforce your learning</p>
+                </div>
+                
+                <div class="projects-list">
+                    <article class="project-card">
+                        <div class="project-header">
+                            <h3 class="project-title">Data Analysis with Pandas</h3>
+                            <span class="project-status status-complete">Completed</span>
+                        </div>
+                        <p class="project-description">
+                            Analyze a real-world dataset using Pandas. Load data, clean it, perform exploratory 
+                            data analysis, and create visualizations to uncover insights.
+                        </p>
+                        <div class="project-tags">
+                            <span class="tag">Pandas</span>
+                            <span class="tag">EDA</span>
+                            <span class="tag">Matplotlib</span>
+                        </div>
+                        <div class="project-footer">
+                            <a href="#" class="btn btn-small">View Project</a>
+                            <a href="#" class="btn btn-small btn-outline">Code</a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <div class="project-header">
+                            <h3 class="project-title">NumPy Array Operations</h3>
+                            <span class="project-status status-progress">In Progress</span>
+                        </div>
+                        <p class="project-description">
+                            Build a collection of NumPy functions for common data science operations including 
+                            statistical calculations, matrix operations, and array manipulations.
+                        </p>
+                        <div class="project-tags">
+                            <span class="tag">NumPy</span>
+                            <span class="tag">Linear Algebra</span>
+                            <span class="tag">Statistics</span>
+                        </div>
+                        <div class="project-footer">
+                            <a href="#" class="btn btn-small">View Project</a>
+                            <a href="#" class="btn btn-small btn-outline">Code</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Nelson D'Souza. All rights reserved.</p>
+            <p>Built with ❤️ for learning and sharing knowledge</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="../js/sidebar-toggle.js"></script>
+</body>
+</html>

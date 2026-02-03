@@ -3,12 +3,763 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nelson D'Souza</title>
+    <meta name="description" content="Data Science Learning Dashboard - A comprehensive resource for learning Python, Machine Learning, SQL, Data Visualization and more">
+    <title>Data Science Learning Dashboard | Nelson D'Souza</title>
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/navigation.css">
+    <link rel="stylesheet" href="css/sidebar.css">
 </head>
 <body>
-    <h1>Nelson D'Souza</h1>
-    <p>System Analyst at <a href="https://gckuwait.com">Gulf Consult</a>, Kuwait.</p>
-    <p>I am also pursuing a <a href="https://study.iitm.ac.in/ds/">Bachelor of Science (BS) Degree in Data Science and Applications</a> at <a href="https://www.iitm.ac.in/">IIT Madras</a>.</p>
-    <p>Contact Me: <a href="mailto:22f1001290@ds.study.iitm.ac.in">22f1001290@ds.study.iitm.ac.in</a></p>
+    <!-- Top Navigation Bar -->
+    <nav class="top-navbar">
+        <div class="navbar-container">
+            <div class="navbar-logo">
+                <h1>DS Learning Hub</h1>
+                <span class="logo-subtitle">Data Science Dashboard</span>
+            </div>
+            
+            <ul class="navbar-menu">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#resources" class="nav-link">Resources</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+            </ul>
+            
+            <div class="navbar-actions">
+                <!-- Dark mode toggle (future implementation) -->
+                <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                
+                <!-- Mobile menu toggle -->
+                <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle menu">
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                    <span class="hamburger"></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Layout Container -->
+    <div class="layout-container">
+        <!-- Left Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <!-- User Profile Section -->
+            <div class="sidebar-profile">
+                <div class="profile-avatar">
+                    <span class="avatar-placeholder">ND</span>
+                </div>
+                <div class="profile-info">
+                    <h3 class="profile-name">Nelson D'Souza</h3>
+                    <p class="profile-title">Data Science Student</p>
+                    <p class="profile-subtitle">IIT Madras</p>
+                </div>
+            </div>
+
+            <!-- Sidebar Navigation -->
+            <nav class="sidebar-nav">
+                <h4 class="sidebar-heading">Learning Paths</h4>
+                
+                <ul class="sidebar-menu">
+                    <li class="sidebar-item">
+                        <a href="#python" class="sidebar-link">
+                            <span class="sidebar-icon">🐍</span>
+                            <span class="sidebar-text">Python for Data Science</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#ml-notebooks" class="sidebar-link">
+                            <span class="sidebar-icon">🤖</span>
+                            <span class="sidebar-text">ML & Notebooks</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#java-js" class="sidebar-link">
+                            <span class="sidebar-icon">☕</span>
+                            <span class="sidebar-text">Java & JavaScript</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#excel-powerbi" class="sidebar-link">
+                            <span class="sidebar-icon">📊</span>
+                            <span class="sidebar-text">Excel & Power BI</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#sql-databases" class="sidebar-link">
+                            <span class="sidebar-icon">🗄️</span>
+                            <span class="sidebar-text">SQL & Databases</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#dataviz" class="sidebar-link">
+                            <span class="sidebar-icon">📈</span>
+                            <span class="sidebar-text">Data Visualization Gallery</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#project-showcase" class="sidebar-link">
+                            <span class="sidebar-icon">🚀</span>
+                            <span class="sidebar-text">Project Showcase</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#learning-resources" class="sidebar-link">
+                            <span class="sidebar-icon">📚</span>
+                            <span class="sidebar-text">Learning Resources</span>
+                        </a>
+                    </li>
+                    
+                    <li class="sidebar-item">
+                        <a href="#blog" class="sidebar-link">
+                            <span class="sidebar-icon">✍️</span>
+                            <span class="sidebar-text">Blog/Articles</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Sidebar Footer -->
+            <div class="sidebar-footer">
+                <h4 class="sidebar-heading">Connect</h4>
+                <div class="social-links">
+                    <a href="https://github.com" class="social-link" aria-label="GitHub" title="GitHub">
+                        <span>🔗</span> GitHub
+                    </a>
+                    <a href="https://linkedin.com" class="social-link" aria-label="LinkedIn" title="LinkedIn">
+                        <span>💼</span> LinkedIn
+                    </a>
+                    <a href="mailto:22f1001290@ds.study.iitm.ac.in" class="social-link" aria-label="Email" title="Email">
+                        <span>📧</span> Email
+                    </a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Hero Section -->
+            <section id="home" class="hero-section">
+                <div class="hero-content">
+                    <h1 class="hero-title">Welcome to Your Data Science Journey</h1>
+                    <p class="hero-subtitle">A comprehensive learning dashboard covering Python, Machine Learning, SQL, and more</p>
+                    <div class="hero-stats">
+                        <div class="stat-card">
+                            <span class="stat-number">9</span>
+                            <span class="stat-label">Learning Paths</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-number">∞</span>
+                            <span class="stat-label">Projects</span>
+                        </div>
+                        <div class="stat-card">
+                            <span class="stat-number">24/7</span>
+                            <span class="stat-label">Access</span>
+                        </div>
+                    </div>
+                    <div class="hero-actions">
+                        <a href="#python" class="btn btn-primary">Start Learning</a>
+                        <a href="#project-showcase" class="btn btn-secondary">View Projects</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Python for Data Science Section -->
+            <section id="python" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">🐍 Python for Data Science</h2>
+                    <p class="section-description">Master Python fundamentals and data science libraries</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Python Basics</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Learn Python syntax, data structures, and control flow</p>
+                            <ul class="card-list">
+                                <li>Variables and Data Types</li>
+                                <li>Functions and Modules</li>
+                                <li>Object-Oriented Programming</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">NumPy & Pandas</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Data manipulation and numerical computing</p>
+                            <ul class="card-list">
+                                <li>Arrays and DataFrames</li>
+                                <li>Data Cleaning</li>
+                                <li>Statistical Analysis</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Data Visualization</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Create compelling visualizations with Python</p>
+                            <ul class="card-list">
+                                <li>Matplotlib Basics</li>
+                                <li>Seaborn for Statistics</li>
+                                <li>Plotly Interactive Charts</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- ML & Notebooks Section -->
+            <section id="ml-notebooks" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">🤖 Machine Learning & Notebooks</h2>
+                    <p class="section-description">Build and deploy machine learning models</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Supervised Learning</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Classification and regression algorithms</p>
+                            <ul class="card-list">
+                                <li>Linear & Logistic Regression</li>
+                                <li>Decision Trees & Random Forests</li>
+                                <li>Support Vector Machines</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Explore →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Unsupervised Learning</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Clustering and dimensionality reduction</p>
+                            <ul class="card-list">
+                                <li>K-Means Clustering</li>
+                                <li>PCA & t-SNE</li>
+                                <li>Anomaly Detection</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Explore →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Jupyter Notebooks</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Interactive computing and documentation</p>
+                            <ul class="card-list">
+                                <li>Notebook Best Practices</li>
+                                <li>Reproducible Research</li>
+                                <li>Sharing & Collaboration</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Explore →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Java & JavaScript Section -->
+            <section id="java-js" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">☕ Java & JavaScript</h2>
+                    <p class="section-description">Full-stack development and enterprise solutions</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Java Fundamentals</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Enterprise-level programming with Java</p>
+                            <ul class="card-list">
+                                <li>Core Java Concepts</li>
+                                <li>Spring Framework</li>
+                                <li>Data Processing</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">JavaScript & ES6+</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Modern JavaScript for web development</p>
+                            <ul class="card-list">
+                                <li>ES6+ Features</li>
+                                <li>Async Programming</li>
+                                <li>DOM Manipulation</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Web Frameworks</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Build modern web applications</p>
+                            <ul class="card-list">
+                                <li>React & Vue.js</li>
+                                <li>Node.js Backend</li>
+                                <li>RESTful APIs</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Excel & Power BI Section -->
+            <section id="excel-powerbi" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">📊 Excel & Power BI</h2>
+                    <p class="section-description">Business intelligence and data analysis tools</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Advanced Excel</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Master Excel for data analysis</p>
+                            <ul class="card-list">
+                                <li>Formulas & Functions</li>
+                                <li>Pivot Tables</li>
+                                <li>Data Visualization</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Explore →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Power BI</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Create interactive dashboards</p>
+                            <ul class="card-list">
+                                <li>Data Modeling</li>
+                                <li>DAX Formulas</li>
+                                <li>Report Design</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Explore →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Business Analytics</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Data-driven decision making</p>
+                            <ul class="card-list">
+                                <li>KPI Development</li>
+                                <li>Financial Modeling</li>
+                                <li>Forecasting</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Explore →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- SQL & Databases Section -->
+            <section id="sql-databases" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">🗄️ SQL & Databases</h2>
+                    <p class="section-description">Database design and query optimization</p>
+                </div>
+                
+                <div class="card-grid">
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">SQL Fundamentals</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Master database querying</p>
+                            <ul class="card-list">
+                                <li>SELECT, JOIN, GROUP BY</li>
+                                <li>Subqueries & CTEs</li>
+                                <li>Window Functions</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Database Design</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Create efficient database schemas</p>
+                            <ul class="card-list">
+                                <li>Normalization</li>
+                                <li>Entity Relationships</li>
+                                <li>Indexing Strategies</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">NoSQL Databases</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">Modern database technologies</p>
+                            <ul class="card-list">
+                                <li>MongoDB</li>
+                                <li>Redis</li>
+                                <li>Graph Databases</li>
+                            </ul>
+                        </div>
+                        <div class="card-footer">
+                            <a href="#" class="card-link">Learn More →</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Data Visualization Gallery Section -->
+            <section id="dataviz" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">📈 Data Visualization Gallery</h2>
+                    <p class="section-description">Showcase of data visualization projects</p>
+                </div>
+                
+                <div class="gallery-grid">
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">📊</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">Sales Dashboard</h3>
+                            <p class="gallery-description">Interactive sales performance visualization</p>
+                            <span class="gallery-tag">Power BI</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">📈</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">COVID-19 Tracker</h3>
+                            <p class="gallery-description">Real-time pandemic data visualization</p>
+                            <span class="gallery-tag">Python</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">🗺️</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">Geographic Analysis</h3>
+                            <p class="gallery-description">Location-based data insights</p>
+                            <span class="gallery-tag">D3.js</span>
+                        </div>
+                    </article>
+
+                    <article class="gallery-card">
+                        <div class="gallery-image">
+                            <div class="placeholder-image">💹</div>
+                        </div>
+                        <div class="gallery-info">
+                            <h3 class="gallery-title">Financial Charts</h3>
+                            <p class="gallery-description">Stock market trend analysis</p>
+                            <span class="gallery-tag">Tableau</span>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Project Showcase Section -->
+            <section id="project-showcase" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">🚀 Project Showcase</h2>
+                    <p class="section-description">Featured data science projects and case studies</p>
+                </div>
+                
+                <div class="projects-list">
+                    <article class="project-card">
+                        <div class="project-header">
+                            <h3 class="project-title">Customer Churn Prediction</h3>
+                            <span class="project-status status-complete">Completed</span>
+                        </div>
+                        <p class="project-description">
+                            Built a machine learning model to predict customer churn with 89% accuracy using Python, scikit-learn, and advanced feature engineering techniques.
+                        </p>
+                        <div class="project-tags">
+                            <span class="tag">Python</span>
+                            <span class="tag">Machine Learning</span>
+                            <span class="tag">Classification</span>
+                        </div>
+                        <div class="project-footer">
+                            <a href="#" class="btn btn-small">View Details</a>
+                            <a href="#" class="btn btn-small btn-outline">GitHub</a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <div class="project-header">
+                            <h3 class="project-title">Sales Forecasting Dashboard</h3>
+                            <span class="project-status status-progress">In Progress</span>
+                        </div>
+                        <p class="project-description">
+                            Interactive Power BI dashboard for forecasting sales trends using historical data, seasonal patterns, and external factors.
+                        </p>
+                        <div class="project-tags">
+                            <span class="tag">Power BI</span>
+                            <span class="tag">Time Series</span>
+                            <span class="tag">Business Analytics</span>
+                        </div>
+                        <div class="project-footer">
+                            <a href="#" class="btn btn-small">View Details</a>
+                            <a href="#" class="btn btn-small btn-outline">Demo</a>
+                        </div>
+                    </article>
+
+                    <article class="project-card">
+                        <div class="project-header">
+                            <h3 class="project-title">Natural Language Processing</h3>
+                            <span class="project-status status-complete">Completed</span>
+                        </div>
+                        <p class="project-description">
+                            Sentiment analysis system for social media data using BERT transformers and deployed as a REST API using Flask.
+                        </p>
+                        <div class="project-tags">
+                            <span class="tag">NLP</span>
+                            <span class="tag">Deep Learning</span>
+                            <span class="tag">API</span>
+                        </div>
+                        <div class="project-footer">
+                            <a href="#" class="btn btn-small">View Details</a>
+                            <a href="#" class="btn btn-small btn-outline">GitHub</a>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Learning Resources Section -->
+            <section id="learning-resources" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">📚 Learning Resources</h2>
+                    <p class="section-description">Curated resources for your data science journey</p>
+                </div>
+                
+                <div class="resources-grid">
+                    <div class="resource-category">
+                        <h3 class="category-title">📖 Books</h3>
+                        <ul class="resource-list">
+                            <li><a href="#" class="resource-link">Python for Data Analysis (McKinney)</a></li>
+                            <li><a href="#" class="resource-link">Hands-On Machine Learning (Géron)</a></li>
+                            <li><a href="#" class="resource-link">The Art of Statistics (Spiegelhalter)</a></li>
+                            <li><a href="#" class="resource-link">Storytelling with Data (Nussbaumer)</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="resource-category">
+                        <h3 class="category-title">🎓 Online Courses</h3>
+                        <ul class="resource-list">
+                            <li><a href="#" class="resource-link">IIT Madras BS in Data Science</a></li>
+                            <li><a href="#" class="resource-link">Coursera: Machine Learning Specialization</a></li>
+                            <li><a href="#" class="resource-link">DataCamp: Data Science Track</a></li>
+                            <li><a href="#" class="resource-link">Fast.ai: Practical Deep Learning</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="resource-category">
+                        <h3 class="category-title">🛠️ Tools & Libraries</h3>
+                        <ul class="resource-list">
+                            <li><a href="#" class="resource-link">Pandas Documentation</a></li>
+                            <li><a href="#" class="resource-link">Scikit-learn User Guide</a></li>
+                            <li><a href="#" class="resource-link">TensorFlow Tutorials</a></li>
+                            <li><a href="#" class="resource-link">Matplotlib Gallery</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="resource-category">
+                        <h3 class="category-title">🌐 Communities</h3>
+                        <ul class="resource-list">
+                            <li><a href="#" class="resource-link">Kaggle Competitions</a></li>
+                            <li><a href="#" class="resource-link">Stack Overflow</a></li>
+                            <li><a href="#" class="resource-link">Reddit: r/datascience</a></li>
+                            <li><a href="#" class="resource-link">GitHub Awesome Lists</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Blog/Articles Section -->
+            <section id="blog" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">✍️ Blog & Articles</h2>
+                    <p class="section-description">Insights, tutorials, and reflections on data science</p>
+                </div>
+                
+                <div class="blog-grid">
+                    <article class="blog-card">
+                        <div class="blog-meta">
+                            <span class="blog-date">January 15, 2024</span>
+                            <span class="blog-category">Tutorial</span>
+                        </div>
+                        <h3 class="blog-title">Getting Started with Pandas: A Beginner's Guide</h3>
+                        <p class="blog-excerpt">
+                            Learn the fundamentals of Pandas, Python's powerful data manipulation library. We'll cover DataFrames, Series, and essential operations...
+                        </p>
+                        <a href="#" class="blog-read-more">Read More →</a>
+                    </article>
+
+                    <article class="blog-card">
+                        <div class="blog-meta">
+                            <span class="blog-date">January 8, 2024</span>
+                            <span class="blog-category">Case Study</span>
+                        </div>
+                        <h3 class="blog-title">Building a Real-Time Sales Dashboard</h3>
+                        <p class="blog-excerpt">
+                            A step-by-step guide to creating an interactive sales dashboard using Power BI, including data modeling, DAX formulas, and visualization best practices...
+                        </p>
+                        <a href="#" class="blog-read-more">Read More →</a>
+                    </article>
+
+                    <article class="blog-card">
+                        <div class="blog-meta">
+                            <span class="blog-date">December 28, 2023</span>
+                            <span class="blog-category">Opinion</span>
+                        </div>
+                        <h3 class="blog-title">The Future of Data Science Education</h3>
+                        <p class="blog-excerpt">
+                            Reflections on modern data science education, online learning platforms, and the importance of practical project experience in skill development...
+                        </p>
+                        <a href="#" class="blog-read-more">Read More →</a>
+                    </article>
+                </div>
+            </section>
+
+            <!-- About Section -->
+            <section id="about" class="content-section">
+                <div class="section-header">
+                    <h2 class="section-title">About This Dashboard</h2>
+                    <p class="section-description">Learn more about this learning platform</p>
+                </div>
+                
+                <div class="about-content">
+                    <div class="about-card">
+                        <h3>About Me</h3>
+                        <p>
+                            I'm Nelson D'Souza, a System Analyst at <a href="https://gckuwait.com">Gulf Consult</a>, Kuwait, 
+                            and currently pursuing a Bachelor of Science (BS) Degree in Data Science and Applications at 
+                            <a href="https://www.iitm.ac.in/">IIT Madras</a>.
+                        </p>
+                        <p>
+                            This dashboard serves as a comprehensive resource for my data science learning journey, 
+                            documenting projects, notes, and resources across various domains including Python, 
+                            Machine Learning, SQL, and Business Intelligence tools.
+                        </p>
+                    </div>
+
+                    <div class="about-card">
+                        <h3>Purpose</h3>
+                        <p>
+                            This learning dashboard is designed to:
+                        </p>
+                        <ul>
+                            <li>Organize learning materials across multiple domains</li>
+                            <li>Showcase data science projects and case studies</li>
+                            <li>Share knowledge through tutorials and articles</li>
+                            <li>Track progress and document the learning journey</li>
+                            <li>Provide a central hub for all data science resources</li>
+                        </ul>
+                    </div>
+
+                    <div class="about-card">
+                        <h3>Contact</h3>
+                        <p>
+                            Feel free to reach out for collaboration, questions, or just to connect:
+                        </p>
+                        <p>
+                            <strong>Email:</strong> <a href="mailto:22f1001290@ds.study.iitm.ac.in">22f1001290@ds.study.iitm.ac.in</a>
+                        </p>
+                        <div class="contact-links">
+                            <a href="https://github.com" class="btn btn-small">GitHub</a>
+                            <a href="https://linkedin.com" class="btn btn-small">LinkedIn</a>
+                            <a href="tds/" class="btn btn-small">Quick Contact</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Nelson D'Souza. All rights reserved.</p>
+            <p>Built with ❤️ for learning and sharing knowledge</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/sidebar-toggle.js"></script>
 </body>
 </html>

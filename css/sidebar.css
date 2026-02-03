@@ -1,0 +1,363 @@
+/* ============================================
+   Sidebar Navigation Styles
+   ============================================
+   
+   Left sidebar with user profile and navigation menu.
+   Collapsible on mobile devices.
+   Easy to customize for CMS integration.
+============================================ */
+
+/* ============================================
+   Sidebar Container
+============================================ */
+
+.sidebar {
+    position: fixed;
+    top: 70px;
+    left: 0;
+    width: 280px;
+    height: calc(100vh - 70px);
+    background: white;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    z-index: 900;
+    transition: transform 0.3s ease;
+}
+
+/* ============================================
+   Scrollbar Styling
+============================================ */
+
+.sidebar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+    background: #f1f5f9;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+}
+
+.sidebar::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+/* ============================================
+   User Profile Section
+============================================ */
+
+.sidebar-profile {
+    padding: 2rem 1.5rem;
+    border-bottom: 2px solid #f1f5f9;
+    text-align: center;
+}
+
+.profile-avatar {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 1rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.avatar-placeholder {
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.profile-name {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #1e3a5f;
+    margin: 0;
+}
+
+.profile-title {
+    font-size: 0.875rem;
+    color: #64748b;
+    margin: 0;
+}
+
+.profile-subtitle {
+    font-size: 0.75rem;
+    color: #94a3b8;
+    margin: 0;
+}
+
+/* ============================================
+   Sidebar Navigation
+============================================ */
+
+.sidebar-nav {
+    flex: 1;
+    padding: 1.5rem 0;
+}
+
+.sidebar-heading {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #94a3b8;
+    letter-spacing: 0.05em;
+    margin: 0 0 0.5rem 0;
+}
+
+.sidebar-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-item {
+    margin: 0.25rem 0.75rem;
+}
+
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.875rem 1rem;
+    color: #475569;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.sidebar-link:hover {
+    background: #f1f5f9;
+    color: #1e3a5f;
+    transform: translateX(3px);
+}
+
+.sidebar-link.active {
+    background: linear-gradient(135deg, #1e3a5f 0%, #2d5a8f 100%);
+    color: white;
+    box-shadow: 0 4px 12px rgba(30, 58, 95, 0.2);
+}
+
+.sidebar-icon {
+    font-size: 1.25rem;
+    flex-shrink: 0;
+}
+
+.sidebar-text {
+    font-size: 0.9375rem;
+    font-weight: 500;
+}
+
+/* ============================================
+   Sidebar Footer
+============================================ */
+
+.sidebar-footer {
+    padding: 1.5rem;
+    border-top: 2px solid #f1f5f9;
+    margin-top: auto;
+}
+
+.social-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    color: #475569;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    font-size: 0.875rem;
+}
+
+.social-link:hover {
+    background: #f1f5f9;
+    color: #3b82f6;
+    transform: translateX(3px);
+}
+
+.social-link span {
+    font-size: 1.125rem;
+}
+
+/* ============================================
+   Mobile Sidebar
+============================================ */
+
+@media (max-width: 768px) {
+    .sidebar {
+        transform: translateX(-100%);
+    }
+    
+    .sidebar.active {
+        transform: translateX(0);
+    }
+    
+    /* Overlay when sidebar is open on mobile */
+    .sidebar.active::before {
+        content: '';
+        position: fixed;
+        top: 70px;
+        left: 280px;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: -1;
+    }
+}
+
+/* ============================================
+   Tablet Adjustments
+============================================ */
+
+@media (max-width: 1024px) and (min-width: 769px) {
+    .sidebar {
+        width: 240px;
+    }
+    
+    .main-content {
+        margin-left: 240px;
+    }
+    
+    .sidebar-profile {
+        padding: 1.5rem 1rem;
+    }
+    
+    .profile-avatar {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .avatar-placeholder {
+        font-size: 1.5rem;
+    }
+    
+    .profile-name {
+        font-size: 1rem;
+    }
+    
+    .sidebar-text {
+        font-size: 0.875rem;
+    }
+}
+
+/* ============================================
+   Sidebar Animations
+============================================ */
+
+@keyframes slideInFromLeft {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+.sidebar.active {
+    animation: slideInFromLeft 0.3s ease-out;
+}
+
+/* ============================================
+   Badge/Notification Indicator
+   (For future use - add to sidebar items)
+============================================ */
+
+.sidebar-badge {
+    display: inline-block;
+    background: #ef4444;
+    color: white;
+    font-size: 0.75rem;
+    padding: 0.125rem 0.5rem;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+/* ============================================
+   Collapsible Sidebar Sections
+   (For future implementation)
+============================================ */
+
+.sidebar-section {
+    margin: 0.5rem 0;
+}
+
+.sidebar-section-toggle {
+    width: 100%;
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 1.5rem;
+    color: #94a3b8;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.sidebar-section-toggle:hover {
+    color: #64748b;
+}
+
+.sidebar-section-icon {
+    transition: transform 0.3s ease;
+}
+
+.sidebar-section.collapsed .sidebar-section-icon {
+    transform: rotate(-90deg);
+}
+
+.sidebar-section.collapsed .sidebar-menu {
+    display: none;
+}
+
+/* ============================================
+   Accessibility
+============================================ */
+
+.sidebar-link:focus,
+.social-link:focus {
+    outline: 3px solid #3b82f6;
+    outline-offset: 2px;
+}
+
+/* ============================================
+   Dark Mode Support (Future Implementation)
+============================================ */
+
+@media (prefers-color-scheme: dark) {
+    /* Dark mode styles can be added here */
+}
+
+/* ============================================
+   Print Styles
+============================================ */
+
+@media print {
+    .sidebar {
+        display: none;
+    }
+}
