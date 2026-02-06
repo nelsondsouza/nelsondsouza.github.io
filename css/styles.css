@@ -73,21 +73,21 @@ img {
 
 .main-content {
     flex: 1;
-    margin-left: 280px;
+    margin-right: 280px;
     padding: 2rem;
     background-color: #f5f7fa;
-    transition: margin-left 0.3s ease;
+    transition: margin-right 0.3s ease;
 }
 
 /* Mobile: full width when sidebar is hidden */
 @media (max-width: 768px) {
     .main-content {
-        margin-left: 0;
+        margin-right: 0;
         padding: 1.5rem 1rem;
     }
     
     .sidebar.active ~ .main-content {
-        margin-left: 0;
+        margin-right: 0;
     }
 }
 
