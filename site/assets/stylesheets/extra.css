@@ -1,0 +1,13 @@
+/* Keep customization deliberately small so theme upgrades remain easy. */
+
+.md-typeset {
+  font-size: 0.82rem;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+.learning-path {
+  font-weight: 600;
+}
