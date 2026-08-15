@@ -78,6 +78,7 @@ nav:
           - "T01 — How Computers Work": tutorials/foundations/t01-how-computers-work.md
           - "T02 — Files, Folders & Paths": tutorials/foundations/t02-files-folders-paths.md
           - "T03 — Command Line from Zero": tutorials/foundations/t03-command-line-from-zero.md
+          - "T04 — VS Code from Zero": tutorials/foundations/t04-vscode-from-zero.md
   - Career Paths:
       - career-paths/index.md
       - Developer: career-paths/developer.md

@@ -4,7 +4,11 @@
 
 **Tutorial:** T03
 
-**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md) | [T01 — How Computers Work](t01-how-computers-work.md) | [T02 — Files, Folders &amp; Paths](t02-files-folders-paths.md)
+**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md)
+
+[T01 — How Computers Work](t01-how-computers-work.md)
+
+[T02 — Files, Folders &amp; Paths](t02-files-folders-paths.md)
 
 **Practice:** [GitHub companion](https://github.com/nelsondsouza/learn-with-nelson/tree/main/foundations/t03-command-line-from-zero)
 

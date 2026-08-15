@@ -11,7 +11,7 @@ These tutorials support multiple career paths.
 | T01 | [How Computers Work](t01-how-computers-work.md) | Published |
 | T02 | [Files, Folders & Paths](t02-files-folders-paths.md) | Published |
 | T03 | [Command Line from Zero](t03-command-line-from-zero.md) | Published |
-| T04 | VS Code from Zero | Planned |
+| T04 | [VS Code from Zero](t04-vscode-from-zero.md) | Published |
 | T05 | Git from Zero | Planned |
 | T06 | GitHub from Zero | Planned |
 | T07 | Python from Zero | Planned |
