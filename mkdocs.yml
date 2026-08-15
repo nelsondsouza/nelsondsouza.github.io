@@ -76,6 +76,7 @@ nav:
       - Foundations:
           - tutorials/foundations/index.md
           - "T01 — How Computers Work": tutorials/foundations/t01-how-computers-work.md
+          - "T02 — Files, Folders & Paths": tutorials/foundations/t02-files-folders-paths.md
   - Career Paths:
       - career-paths/index.md
       - Developer: career-paths/developer.md

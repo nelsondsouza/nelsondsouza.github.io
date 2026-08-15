@@ -1,11 +1,10 @@
-
 # How Computers Work
 
 **Level:** Starter
 
 **Tutorial:** T01
 
-**Prerequisites:** T00 — How to Start Learning Tech
+**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md)
 
 **Practice:** [GitHub companion](https://github.com/nelsondsouza/learn-with-nelson/tree/main/foundations/t01-how-computers-work)
 
