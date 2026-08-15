@@ -2,9 +2,14 @@
 # How Computers Work
 
 **Level:** Starter
+
 **Tutorial:** T01
+
 **Prerequisites:** T00 — How to Start Learning Tech
+
 **Practice:** [GitHub companion](https://github.com/nelsondsouza/learn-with-nelson/tree/main/foundations/t01-how-computers-work)
+
+---
 
 Every time you open a browser, run Excel, execute Python, watch a video, query a database, or ask an AI assistant a question, a computer is doing an enormous amount of work underneath.
 
