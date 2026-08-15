@@ -8,7 +8,7 @@ These tutorials support multiple career paths.
 
 | Tutorial | Topic | Status |
 |---|---|---|
-| T01 | How Computers Work | Planned |
+| T01 | [How Computers Work](t01-how-computers-work.md) | Published |
 | T02 | Files, Folders & Paths | Planned |
 | T03 | Command Line from Zero | Planned |
 | T04 | VS Code from Zero | Planned |

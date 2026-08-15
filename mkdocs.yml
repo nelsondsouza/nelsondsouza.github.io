@@ -75,6 +75,7 @@ nav:
           - "T00 — How to Start Learning Tech": tutorials/start-here/t00-how-to-start-learning-tech.md
       - Foundations:
           - tutorials/foundations/index.md
+          - "T01 — How Computers Work": tutorials/foundations/t01-how-computers-work.md
   - Career Paths:
       - career-paths/index.md
       - Developer: career-paths/developer.md
