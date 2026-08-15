@@ -1,8 +1,13 @@
 # Files, Folders & Paths
 
 **Level:** Starter
+
 **Tutorial:** T02
-**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md) · [T01 — How Computers Work](t01-how-computers-work.md)
+
+**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md)
+
+. [T01 — How Computers Work](t01-how-computers-work.md)
+
 **Practice:** [GitHub companion](https://github.com/nelsondsouza/learn-with-nelson/tree/main/foundations/t02-files-folders-paths)
 
 Every file on your computer lives somewhere.
@@ -352,22 +357,22 @@ The extension commonly helps software and operating systems identify the expecte
 
 You'll encounter many of these throughout the tutorial series.
 
-| Extension        | Common use                       |
-| ---------------- | -------------------------------- |
-| `.txt`           | Plain text                       |
-| `.md`            | Markdown                         |
-| `.pdf`           | PDF document                     |
-| `.docx`          | Microsoft Word document          |
-| `.xlsx`          | Microsoft Excel workbook         |
-| `.csv`           | Delimited text data              |
+| Extension            | Common use                       |
+| -------------------- | -------------------------------- |
+| `.txt`             | Plain text                       |
+| `.md`              | Markdown                         |
+| `.pdf`             | PDF document                     |
+| `.docx`            | Microsoft Word document          |
+| `.xlsx`            | Microsoft Excel workbook         |
+| `.csv`             | Delimited text data              |
 | `.jpg` / `.jpeg` | JPEG image                       |
-| `.png`           | PNG image                        |
-| `.html`          | HTML document                    |
-| `.css`           | Stylesheet                       |
-| `.js`            | JavaScript source                |
-| `.py`            | Python source                    |
-| `.sql`           | SQL source/query                 |
-| `.json`          | Structured text data             |
+| `.png`             | PNG image                        |
+| `.html`            | HTML document                    |
+| `.css`             | Stylesheet                       |
+| `.js`              | JavaScript source                |
+| `.py`              | Python source                    |
+| `.sql`             | SQL source/query                 |
+| `.json`            | Structured text data             |
 | `.yaml` / `.yml` | Configuration or structured data |
 
 Don't try to memorize the entire table.
@@ -1808,20 +1813,20 @@ After you've finished, compare your reasoning with:
 | Folder            | Container used to organize files/folders            |
 | Directory         | Technical term commonly used for folder             |
 | Filename          | Name assigned to a file                             |
-| Extension         | Filename suffix such as `.pdf` or `.py`             |
+| Extension         | Filename suffix such as`.pdf` or `.py`          |
 | Path              | Description of a file-system location               |
 | Absolute Path     | Path from a complete/root starting point            |
 | Relative Path     | Path relative to the current location               |
 | Current Directory | Directory a tool/process is currently working from  |
-| `.`               | Current directory in common path notation           |
-| `..`              | Parent directory                                    |
+| `.`             | Current directory in common path notation           |
+| `..`            | Parent directory                                    |
 | Parent            | Directory containing another item                   |
 | Child             | Item directly contained by a directory              |
 | Root              | Top-level starting point of a file-system hierarchy |
 | Home Directory    | User's personal file-system location                |
 | Hidden File       | File normally omitted from standard views/listings  |
-| `\`               | Common Windows path separator                       |
-| `/`               | Unix-style path separator                           |
+| `\`             | Common Windows path separator                       |
+| `/`             | Unix-style path separator                           |
 
 ### Windows pattern
 
