@@ -4,9 +4,7 @@
 
 **Tutorial:** T02
 
-**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md)
-
-. [T01 — How Computers Work](t01-how-computers-work.md)
+**Prerequisites:** [T00 — How to Start Learning Tech](../start-here/t00-how-to-start-learning-tech.md), [T01 — How Computers Work](t01-how-computers-work.md)
 
 **Practice:** [GitHub companion](https://github.com/nelsondsouza/learn-with-nelson/tree/main/foundations/t02-files-folders-paths)
 
