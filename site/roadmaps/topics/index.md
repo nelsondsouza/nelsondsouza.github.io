@@ -749,7 +749,7 @@ The rest of the ecosystem helps you turn that direction into capability.
 
 If you know the career you want:
 
-Ã¢â€ â€™ [Explore Career Roadmaps Ã¢â€ â€™](../index.md)
+Ã¢â€ â€™ [Explore Career Roadmaps Ã¢â€ â€™](../careers/index.md)
 
 If you know the skill you want:
 
@@ -757,7 +757,7 @@ If you know the skill you want:
 
 If you are completely new:
 
-Ã¢â€ â€™ [Start Here Ã¢â€ â€™](../tutorials/start-here/t00-how-to-start-learning-tech.md)
+Ã¢â€ â€™ [Start Here Ã¢â€ â€™](../../tutorials/start-here/t00-how-to-start-learning-tech.md)
 
 If you want to browse everything:
 

@@ -1,0 +1,86 @@
+[
+  {
+    "code": "DEV",
+    "title": "Developer",
+    "slug": "developer",
+    "description": "Learn to build applications, software features, APIs and practical solutions."
+  },
+  {
+    "code": "DA",
+    "title": "Data Analyst",
+    "slug": "data-analyst",
+    "description": "Learn to work with data, analyze information, create insights and support decisions."
+  },
+  {
+    "code": "DE",
+    "title": "Data Engineer",
+    "slug": "data-engineer",
+    "description": "Learn to build data pipelines, platforms, storage systems and reliable data infrastructure."
+  },
+  {
+    "code": "ML",
+    "title": "ML Engineer",
+    "slug": "ml-engineer",
+    "description": "Learn to build, deploy and operate machine learning systems."
+  },
+  {
+    "code": "AI",
+    "title": "AI Engineer",
+    "slug": "ai-engineer",
+    "description": "Learn to build AI-powered applications, systems, agents and production AI solutions."
+  },
+  {
+    "code": "SE",
+    "title": "Software Engineer",
+    "slug": "software-engineer",
+    "description": "Learn to engineer reliable, maintainable and production-quality software systems."
+  },
+  {
+    "code": "DO",
+    "title": "Cloud & DevOps",
+    "slug": "cloud-devops",
+    "description": "Learn to build, deploy, automate, operate and observe modern cloud infrastructure and delivery systems."
+  },
+  {
+    "code": "CY",
+    "title": "Cybersecurity",
+    "slug": "cybersecurity",
+    "description": "Learn to protect applications, systems, networks, infrastructure and data."
+  },
+  {
+    "code": "QA",
+    "title": "Software Testing & QA",
+    "slug": "software-testing-qa",
+    "description": "Learn to test software, automate quality checks and build quality into software delivery."
+  },
+  {
+    "code": "SA",
+    "title": "Software Architect",
+    "slug": "software-architect",
+    "description": "Learn to design reliable, scalable, secure and maintainable software systems."
+  },
+  {
+    "code": "PM",
+    "title": "Project Manager",
+    "slug": "project-manager",
+    "description": "Learn to initiate, plan, coordinate, monitor and close projects."
+  },
+  {
+    "code": "PC",
+    "title": "Project Controls",
+    "slug": "project-controls",
+    "description": "Learn to control project scope, schedule, cost, progress, risk and performance."
+  },
+  {
+    "code": "PS",
+    "title": "Planning & Scheduling",
+    "slug": "planning-scheduling",
+    "description": "Learn to develop, manage, update and analyze project plans and schedules."
+  },
+  {
+    "code": "CC",
+    "title": "Cost & Commercial",
+    "slug": "cost-commercial",
+    "description": "Learn to manage estimating, budgeting, commitments, cost, contracts and commercial performance."
+  }
+]

@@ -90,6 +90,33 @@ nav:
       - ML Engineer: career-paths/ml-engineer.md
   - Roadmaps:
       - roadmaps/index.md
+      - Careers:
+          - roadmaps/careers/index.md
+          - "AI Engineer Roadmaps": roadmaps/careers/ai-engineer.md
+          - "Cloud & DevOps Roadmaps": roadmaps/careers/cloud-devops.md
+          - "Cost & Commercial Roadmaps": roadmaps/careers/cost-commercial.md
+          - "Cybersecurity Roadmaps": roadmaps/careers/cybersecurity.md
+          - "Data Analyst Roadmaps": roadmaps/careers/data-analyst.md
+          - "Data Engineer Roadmaps": roadmaps/careers/data-engineer.md
+          - "Developer Roadmaps": roadmaps/careers/developer.md
+          - "ML Engineer Roadmaps": roadmaps/careers/ml-engineer.md
+          - "Planning & Scheduling Roadmaps": roadmaps/careers/planning-scheduling.md
+          - "Project Controls Roadmaps": roadmaps/careers/project-controls.md
+          - "Project Manager Roadmaps": roadmaps/careers/project-manager.md
+          - "Software Architect Roadmaps": roadmaps/careers/software-architect.md
+          - "Software Engineer Roadmaps": roadmaps/careers/software-engineer.md
+          - "Software Testing & QA Roadmaps": roadmaps/careers/software-testing-qa.md
+      - Topics:
+          - roadmaps/topics/index.md
+          - "Docker Roadmap": roadmaps/topics/docker.md
+          - "Excel Roadmap": roadmaps/topics/excel.md
+          - "Git & GitHub Roadmap": roadmaps/topics/git-github.md
+          - "Java Roadmap": roadmaps/topics/java.md
+          - "Kubernetes Roadmap": roadmaps/topics/kubernetes.md
+          - "Power BI Roadmap": roadmaps/topics/power-bi.md
+          - "Programming Fundamentals": roadmaps/topics/programming-fundamentals.md
+          - "Python Roadmap": roadmaps/topics/python.md
+          - "SQL Roadmap": roadmaps/topics/sql.md
       - Seasons:
           - "Season 1":
               - roadmaps/seasons/season-01/index.md
