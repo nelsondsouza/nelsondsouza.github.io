@@ -1,0 +1,25 @@
+# Season 2
+
+Archive index — source artwork is preserved unchanged.
+
+- [01 — AWS](roadmaps/aws.md)
+- [02 — Azure](roadmaps/azure.md)
+- [03 — Google Cloud Platform](roadmaps/google-cloud-platform.md)
+- [04 — Docker](roadmaps/docker.md)
+- [05 — Kubernetes](roadmaps/kubernetes.md)
+- [06 — Terraform](roadmaps/terraform.md)
+- [07 — DevOps](roadmaps/devops.md)
+- [08 — Linux](roadmaps/linux.md)
+- [09 — Bash](roadmaps/bash.md)
+- [10 — Jenkins](roadmaps/jenkins.md)
+- [11 — Git GitHub](roadmaps/git-github.md)
+- [12 — GitHub Actions](roadmaps/github-actions.md)
+- [13 — Ansible](roadmaps/ansible.md)
+- [14 — Prometheus](roadmaps/prometheus.md)
+- [15 — Grafana](roadmaps/grafana.md)
+- [16 — Nginx](roadmaps/nginx.md)
+- [17 — Apache Kafka](roadmaps/apache-kafka.md)
+- [18 — Apache Airflow](roadmaps/apache-airflow.md)
+- [19 — Apache Spark](roadmaps/apache-spark.md)
+- [20 — Databricks](roadmaps/databricks.md)
+- [21 — Snowflake](roadmaps/snowflake.md)

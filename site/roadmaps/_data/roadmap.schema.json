@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Learn with Nelson Roadmap Metadata",
+  "type": "object",
+  "required": [
+    "id",
+    "season",
+    "number",
+    "title",
+    "slug",
+    "source_file",
+    "filename",
+    "status",
+    "career_paths",
+    "topics",
+    "tutorials",
+    "projects",
+    "ai_at_work"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "season": {
+      "type": "integer"
+    },
+    "number": {
+      "type": "integer"
+    },
+    "title": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "source_file": {
+      "type": "string"
+    },
+    "filename": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "career_paths": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tutorials": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ai_at_work": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

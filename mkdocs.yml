@@ -10,6 +10,10 @@ edit_uri: edit/main/site/
 docs_dir: site
 site_dir: _site
 
+exclude_docs: |
+  roadmaps/_templates/**
+  roadmaps/seasons/**/import-manifest.md
+
 theme:
   name: material
   language: en
@@ -84,6 +88,337 @@ nav:
       - Developer: career-paths/developer.md
       - Data Analyst: career-paths/data-analyst.md
       - ML Engineer: career-paths/ml-engineer.md
+  - Roadmaps:
+      - roadmaps/index.md
+      - Seasons:
+          - "Season 1":
+              - roadmaps/seasons/season-01/index.md
+              - "01 — Python": roadmaps/seasons/season-01/roadmaps/python.md
+              - "02 — SQL": roadmaps/seasons/season-01/roadmaps/sql.md
+              - "03 — Excel Beginner": roadmaps/seasons/season-01/roadmaps/excel-beginner.md
+              - "04 — Excel Intermediate": roadmaps/seasons/season-01/roadmaps/excel-intermediate.md
+              - "05 — Excel Advanced": roadmaps/seasons/season-01/roadmaps/excel-advanced.md
+              - "06 — PowerBI": roadmaps/seasons/season-01/roadmaps/powerbi.md
+              - "07 — Data Analyst": roadmaps/seasons/season-01/roadmaps/data-analyst.md
+              - "08 — Java": roadmaps/seasons/season-01/roadmaps/java.md
+              - "09 — Frontend Developer": roadmaps/seasons/season-01/roadmaps/frontend-developer.md
+              - "10 — Backend Developer": roadmaps/seasons/season-01/roadmaps/backend-developer.md
+              - "11 — Fullstack Developer": roadmaps/seasons/season-01/roadmaps/fullstack-developer.md
+              - "12 — Technical Writer": roadmaps/seasons/season-01/roadmaps/technical-writer.md
+              - "13 — API Design": roadmaps/seasons/season-01/roadmaps/api-design.md
+              - "14 — AI Product Builder": roadmaps/seasons/season-01/roadmaps/ai-product-builder.md
+              - "15 — AI Governance Officer": roadmaps/seasons/season-01/roadmaps/ai-governance-officer.md
+              - "16 — Business Intelligence (BI) Analyst": roadmaps/seasons/season-01/roadmaps/business-intelligence-bi-analyst.md
+              - "17 — Machine Learning Engineer": roadmaps/seasons/season-01/roadmaps/machine-learning-engineer.md
+              - "18 — Data Scientist": roadmaps/seasons/season-01/roadmaps/data-scientist.md
+              - "19 — Software Architect": roadmaps/seasons/season-01/roadmaps/software-architect.md
+              - "20 — Software Engineer": roadmaps/seasons/season-01/roadmaps/software-engineer.md
+              - "21 — Cyber Security": roadmaps/seasons/season-01/roadmaps/cyber-security.md
+              - "22 — OpenAI": roadmaps/seasons/season-01/roadmaps/openai.md
+              - "23 — Claude Code": roadmaps/seasons/season-01/roadmaps/claude-code.md
+              - "24 — Google Gemini": roadmaps/seasons/season-01/roadmaps/google-gemini.md
+              - "25 — Vibe Coding": roadmaps/seasons/season-01/roadmaps/vibe-coding.md
+              - "26 — LeetCode": roadmaps/seasons/season-01/roadmaps/leetcode.md
+              - "27 — HackerRank": roadmaps/seasons/season-01/roadmaps/hackerrank.md
+          - "Season 2":
+              - roadmaps/seasons/season-02/index.md
+              - "01 — AWS": roadmaps/seasons/season-02/roadmaps/aws.md
+              - "02 — Azure": roadmaps/seasons/season-02/roadmaps/azure.md
+              - "03 — Google Cloud Platform": roadmaps/seasons/season-02/roadmaps/google-cloud-platform.md
+              - "04 — Docker": roadmaps/seasons/season-02/roadmaps/docker.md
+              - "05 — Kubernetes": roadmaps/seasons/season-02/roadmaps/kubernetes.md
+              - "06 — Terraform": roadmaps/seasons/season-02/roadmaps/terraform.md
+              - "07 — DevOps": roadmaps/seasons/season-02/roadmaps/devops.md
+              - "08 — Linux": roadmaps/seasons/season-02/roadmaps/linux.md
+              - "09 — Bash": roadmaps/seasons/season-02/roadmaps/bash.md
+              - "10 — Jenkins": roadmaps/seasons/season-02/roadmaps/jenkins.md
+              - "11 — Git GitHub": roadmaps/seasons/season-02/roadmaps/git-github.md
+              - "12 — GitHub Actions": roadmaps/seasons/season-02/roadmaps/github-actions.md
+              - "13 — Ansible": roadmaps/seasons/season-02/roadmaps/ansible.md
+              - "14 — Prometheus": roadmaps/seasons/season-02/roadmaps/prometheus.md
+              - "15 — Grafana": roadmaps/seasons/season-02/roadmaps/grafana.md
+              - "16 — Nginx": roadmaps/seasons/season-02/roadmaps/nginx.md
+              - "17 — Apache Kafka": roadmaps/seasons/season-02/roadmaps/apache-kafka.md
+              - "18 — Apache Airflow": roadmaps/seasons/season-02/roadmaps/apache-airflow.md
+              - "19 — Apache Spark": roadmaps/seasons/season-02/roadmaps/apache-spark.md
+              - "20 — Databricks": roadmaps/seasons/season-02/roadmaps/databricks.md
+              - "21 — Snowflake": roadmaps/seasons/season-02/roadmaps/snowflake.md
+          - "Season 3":
+              - roadmaps/seasons/season-03/index.md
+              - "01 — MongoDB": roadmaps/seasons/season-03/roadmaps/mongodb.md
+              - "02 — PostgreSQL": roadmaps/seasons/season-03/roadmaps/postgresql.md
+              - "03 — Redis": roadmaps/seasons/season-03/roadmaps/redis.md
+              - "04 — Node js": roadmaps/seasons/season-03/roadmaps/node-js.md
+              - "05 — Express js": roadmaps/seasons/season-03/roadmaps/express-js.md
+              - "06 — Django": roadmaps/seasons/season-03/roadmaps/django.md
+              - "07 — FastAPI": roadmaps/seasons/season-03/roadmaps/fastapi.md
+              - "08 — Spring Boot": roadmaps/seasons/season-03/roadmaps/spring-boot.md
+              - "09 — React": roadmaps/seasons/season-03/roadmaps/react.md
+              - "10 — Next js": roadmaps/seasons/season-03/roadmaps/next-js.md
+              - "11 — Angular": roadmaps/seasons/season-03/roadmaps/angular.md
+              - "12 — Vue js": roadmaps/seasons/season-03/roadmaps/vue-js.md
+              - "13 — Flutter": roadmaps/seasons/season-03/roadmaps/flutter.md
+              - "14 — React Native": roadmaps/seasons/season-03/roadmaps/react-native.md
+              - "15 — LangChain": roadmaps/seasons/season-03/roadmaps/langchain.md
+              - "16 — LangGraph": roadmaps/seasons/season-03/roadmaps/langgraph.md
+              - "17 — Model Context Protocol (MCP)": roadmaps/seasons/season-03/roadmaps/model-context-protocol-mcp.md
+              - "18 — Vector Databases": roadmaps/seasons/season-03/roadmaps/vector-databases.md
+              - "19 — Retrieval Augmented Generation (RAG)": roadmaps/seasons/season-03/roadmaps/retrieval-augmented-generation-rag.md
+              - "20 — AI Agents": roadmaps/seasons/season-03/roadmaps/ai-agents.md
+              - "21 — Prompt Engineering": roadmaps/seasons/season-03/roadmaps/prompt-engineering.md
+              - "22 — MLflow": roadmaps/seasons/season-03/roadmaps/mlflow.md
+              - "23 — Kubeflow": roadmaps/seasons/season-03/roadmaps/kubeflow.md
+              - "24 — BentoML": roadmaps/seasons/season-03/roadmaps/bentoml.md
+              - "25 — vLLM": roadmaps/seasons/season-03/roadmaps/vllm.md
+              - "26 — Ollama": roadmaps/seasons/season-03/roadmaps/ollama.md
+              - "27 — Microservices": roadmaps/seasons/season-03/roadmaps/microservices.md
+              - "28 — System Design": roadmaps/seasons/season-03/roadmaps/system-design.md
+              - "29 — Design Patterns": roadmaps/seasons/season-03/roadmaps/design-patterns.md
+              - "30 — Event Driven Architecture": roadmaps/seasons/season-03/roadmaps/event-driven-architecture.md
+              - "31 — Context Engineering": roadmaps/seasons/season-03/roadmaps/context-engineering.md
+          - "Season 4":
+              - roadmaps/seasons/season-04/index.md
+              - "01 — Apache Hadoop": roadmaps/seasons/season-04/roadmaps/apache-hadoop.md
+              - "02 — HDFS": roadmaps/seasons/season-04/roadmaps/hdfs.md
+              - "03 — Apache Pig": roadmaps/seasons/season-04/roadmaps/apache-pig.md
+              - "04 — Apache Hive": roadmaps/seasons/season-04/roadmaps/apache-hive.md
+              - "05 — Apache Flink": roadmaps/seasons/season-04/roadmaps/apache-flink.md
+              - "06 — Apache NiFi": roadmaps/seasons/season-04/roadmaps/apache-nifi.md
+              - "07 — dbt": roadmaps/seasons/season-04/roadmaps/dbt.md
+              - "08 — Trino": roadmaps/seasons/season-04/roadmaps/trino.md
+              - "09 — Presto": roadmaps/seasons/season-04/roadmaps/presto.md
+              - "10 — Apache Iceberg": roadmaps/seasons/season-04/roadmaps/apache-iceberg.md
+              - "11 — Delta Lake": roadmaps/seasons/season-04/roadmaps/delta-lake.md
+              - "12 — Apache Hudi": roadmaps/seasons/season-04/roadmaps/apache-hudi.md
+              - "13 — Data Warehousing": roadmaps/seasons/season-04/roadmaps/data-warehousing.md
+              - "14 — Data Lakes": roadmaps/seasons/season-04/roadmaps/data-lakes.md
+              - "15 — Lakehouse Architecture": roadmaps/seasons/season-04/roadmaps/lakehouse-architecture.md
+              - "16 — ETL": roadmaps/seasons/season-04/roadmaps/etl.md
+              - "17 — ELT": roadmaps/seasons/season-04/roadmaps/elt.md
+              - "18 — Data Pipelines": roadmaps/seasons/season-04/roadmaps/data-pipelines.md
+              - "19 — Data Modeling": roadmaps/seasons/season-04/roadmaps/data-modeling.md
+              - "20 — Data Governance": roadmaps/seasons/season-04/roadmaps/data-governance.md
+              - "21 — Data Quality": roadmaps/seasons/season-04/roadmaps/data-quality.md
+              - "22 — Data Lineage": roadmaps/seasons/season-04/roadmaps/data-lineage.md
+              - "23 — Master Data Management (MDM)": roadmaps/seasons/season-04/roadmaps/master-data-management-mdm.md
+              - "24 — Change Data Capture (CDC)": roadmaps/seasons/season-04/roadmaps/change-data-capture-cdc.md
+              - "25 — Stream Processing": roadmaps/seasons/season-04/roadmaps/stream-processing.md
+              - "26 — Batch Processing": roadmaps/seasons/season-04/roadmaps/batch-processing.md
+              - "27 — Feature Stores": roadmaps/seasons/season-04/roadmaps/feature-stores.md
+              - "28 — Data Mesh": roadmaps/seasons/season-04/roadmaps/data-mesh.md
+              - "29 — Data Fabric": roadmaps/seasons/season-04/roadmaps/data-fabric.md
+              - "30 — Data Observability": roadmaps/seasons/season-04/roadmaps/data-observability.md
+              - "31 — Data Engineer": roadmaps/seasons/season-04/roadmaps/data-engineer.md
+          - "Season 5":
+              - roadmaps/seasons/season-05/index.md
+              - "01 — Networking Fundamentals": roadmaps/seasons/season-05/roadmaps/networking-fundamentals.md
+              - "02 — TCP IP": roadmaps/seasons/season-05/roadmaps/tcp-ip.md
+              - "03 — DNS": roadmaps/seasons/season-05/roadmaps/dns.md
+              - "04 — HTTP HTTPS": roadmaps/seasons/season-05/roadmaps/http-https.md
+              - "05 — Linux Security": roadmaps/seasons/season-05/roadmaps/linux-security.md
+              - "06 — Windows Security": roadmaps/seasons/season-05/roadmaps/windows-security.md
+              - "07 — IAM": roadmaps/seasons/season-05/roadmaps/iam.md
+              - "08 — OAuth2": roadmaps/seasons/season-05/roadmaps/oauth2.md
+              - "09 — OpenID Connect": roadmaps/seasons/season-05/roadmaps/openid-connect.md
+              - "10 — JWT": roadmaps/seasons/season-05/roadmaps/jwt.md
+              - "11 — Encryption": roadmaps/seasons/season-05/roadmaps/encryption.md
+              - "12 — PKI": roadmaps/seasons/season-05/roadmaps/pki.md
+              - "13 — OWASP Top 10": roadmaps/seasons/season-05/roadmaps/owasp-top-10.md
+              - "14 — Secure Coding": roadmaps/seasons/season-05/roadmaps/secure-coding.md
+              - "15 — Web Security": roadmaps/seasons/season-05/roadmaps/web-security.md
+              - "16 — API Security": roadmaps/seasons/season-05/roadmaps/api-security.md
+              - "17 — Cloud Security": roadmaps/seasons/season-05/roadmaps/cloud-security.md
+              - "18 — Container Security": roadmaps/seasons/season-05/roadmaps/container-security.md
+              - "19 — Kubernetes Security": roadmaps/seasons/season-05/roadmaps/kubernetes-security.md
+              - "20 — Secrets Management": roadmaps/seasons/season-05/roadmaps/secrets-management.md
+              - "21 — SIEM": roadmaps/seasons/season-05/roadmaps/siem.md
+              - "22 — SOC": roadmaps/seasons/season-05/roadmaps/soc.md
+              - "23 — Zero Trust": roadmaps/seasons/season-05/roadmaps/zero-trust.md
+              - "24 — Threat Modeling": roadmaps/seasons/season-05/roadmaps/threat-modeling.md
+              - "25 — Incident Response": roadmaps/seasons/season-05/roadmaps/incident-response.md
+              - "26 — Digital Forensics": roadmaps/seasons/season-05/roadmaps/digital-forensics.md
+              - "27 — Penetration Testing": roadmaps/seasons/season-05/roadmaps/penetration-testing.md
+              - "28 — Ethical Hacking": roadmaps/seasons/season-05/roadmaps/ethical-hacking.md
+              - "29 — Cybersecurity Analyst": roadmaps/seasons/season-05/roadmaps/cybersecurity-analyst.md
+              - "30 — Security Engineer": roadmaps/seasons/season-05/roadmaps/security-engineer.md
+          - "Season 6":
+              - roadmaps/seasons/season-06/index.md
+              - "01 — Clean Architecture": roadmaps/seasons/season-06/roadmaps/clean-architecture.md
+              - "02 — Hexagonal Architecture": roadmaps/seasons/season-06/roadmaps/hexagonal-architecture.md
+              - "03 — Onion Architecture": roadmaps/seasons/season-06/roadmaps/onion-architecture.md
+              - "04 — Layered Architecture": roadmaps/seasons/season-06/roadmaps/layered-architecture.md
+              - "05 — Vertical Slice Architecture": roadmaps/seasons/season-06/roadmaps/vertical-slice-architecture.md
+              - "06 — Modular Monolith": roadmaps/seasons/season-06/roadmaps/modular-monolith.md
+              - "07 — API Design": roadmaps/seasons/season-06/roadmaps/api-design.md
+              - "08 — REST": roadmaps/seasons/season-06/roadmaps/rest.md
+              - "09 — GraphQL": roadmaps/seasons/season-06/roadmaps/graphql.md
+              - "10 — gRPC": roadmaps/seasons/season-06/roadmaps/grpc.md
+              - "11 — WebSockets": roadmaps/seasons/season-06/roadmaps/websockets.md
+              - "12 — Domain Driven Design": roadmaps/seasons/season-06/roadmaps/domain-driven-design.md
+              - "13 — CQRS": roadmaps/seasons/season-06/roadmaps/cqrs.md
+              - "14 — Event Sourcing": roadmaps/seasons/season-06/roadmaps/event-sourcing.md
+              - "15 — Saga Pattern": roadmaps/seasons/season-06/roadmaps/saga-pattern.md
+              - "16 — Outbox Pattern": roadmaps/seasons/season-06/roadmaps/outbox-pattern.md
+              - "17 — Distributed Transactions": roadmaps/seasons/season-06/roadmaps/distributed-transactions.md
+              - "18 — CAP Theorem": roadmaps/seasons/season-06/roadmaps/cap-theorem.md
+              - "19 — Consistency Models": roadmaps/seasons/season-06/roadmaps/consistency-models.md
+              - "20 — Service Mesh": roadmaps/seasons/season-06/roadmaps/service-mesh.md
+              - "21 — Caching Strategies": roadmaps/seasons/season-06/roadmaps/caching-strategies.md
+              - "22 — Load Balancing": roadmaps/seasons/season-06/roadmaps/load-balancing.md
+              - "23 — High Availability": roadmaps/seasons/season-06/roadmaps/high-availability.md
+              - "24 — Disaster Recovery": roadmaps/seasons/season-06/roadmaps/disaster-recovery.md
+              - "25 — Observability": roadmaps/seasons/season-06/roadmaps/observability.md
+              - "26 — Chaos Engineering": roadmaps/seasons/season-06/roadmaps/chaos-engineering.md
+              - "27 — Platform Engineering": roadmaps/seasons/season-06/roadmaps/platform-engineering.md
+              - "28 — Microservices Architecture": roadmaps/seasons/season-06/roadmaps/microservices-architecture.md
+              - "29 — Monolith vs Microservices": roadmaps/seasons/season-06/roadmaps/monolith-vs-microservices.md
+              - "30 — Event Driven Architecture": roadmaps/seasons/season-06/roadmaps/event-driven-architecture.md
+              - "31 — Message Brokers": roadmaps/seasons/season-06/roadmaps/message-brokers.md
+              - "32 — Design Patterns (GoF) for Architects": roadmaps/seasons/season-06/roadmaps/design-patterns-gof-for-architects.md
+              - "33 — System Design Fundamentals": roadmaps/seasons/season-06/roadmaps/system-design-fundamentals.md
+              - "34 — Architecture Decision Records (ADR)": roadmaps/seasons/season-06/roadmaps/architecture-decision-records-adr.md
+              - "35 — Twelve Factor App": roadmaps/seasons/season-06/roadmaps/twelve-factor-app.md
+              - "36 — Multi Tenancy": roadmaps/seasons/season-06/roadmaps/multi-tenancy.md
+              - "37 — Security Architecture": roadmaps/seasons/season-06/roadmaps/security-architecture.md
+              - "38 — Software Architect": roadmaps/seasons/season-06/roadmaps/software-architect.md
+          - "Season 7":
+              - roadmaps/seasons/season-07/index.md
+              - "01 — AI Infrastructure": roadmaps/seasons/season-07/roadmaps/ai-infrastructure.md
+              - "02 — AI Gateways": roadmaps/seasons/season-07/roadmaps/ai-gateways.md
+              - "03 — LLMOps": roadmaps/seasons/season-07/roadmaps/llmops.md
+              - "04 — AI Workflow Automation": roadmaps/seasons/season-07/roadmaps/ai-workflow-automation.md
+              - "05 — AI Memory": roadmaps/seasons/season-07/roadmaps/ai-memory.md
+              - "06 — Advanced Retrieval Strategies (RAG)": roadmaps/seasons/season-07/roadmaps/advanced-retrieval-strategies-rag.md
+              - "07 — Knowledge Graphs": roadmaps/seasons/season-07/roadmaps/knowledge-graphs.md
+              - "08 — Multi Agent Systems": roadmaps/seasons/season-07/roadmaps/multi-agent-systems.md
+              - "09 — MCP (Advanced)": roadmaps/seasons/season-07/roadmaps/mcp-advanced.md
+              - "10 — AI Evaluation": roadmaps/seasons/season-07/roadmaps/ai-evaluation.md
+              - "11 — AI Monitoring": roadmaps/seasons/season-07/roadmaps/ai-monitoring.md
+              - "12 — AI Observability": roadmaps/seasons/season-07/roadmaps/ai-observability.md
+              - "13 — AI Guardrails": roadmaps/seasons/season-07/roadmaps/ai-guardrails.md
+              - "14 — AI Security": roadmaps/seasons/season-07/roadmaps/ai-security.md
+              - "15 — AI Red Teaming": roadmaps/seasons/season-07/roadmaps/ai-red-teaming.md
+              - "16 — AI Governance": roadmaps/seasons/season-07/roadmaps/ai-governance.md
+              - "17 — AI Compliance": roadmaps/seasons/season-07/roadmaps/ai-compliance.md
+              - "18 — Fine Tuning": roadmaps/seasons/season-07/roadmaps/fine-tuning.md
+              - "19 — PEFT": roadmaps/seasons/season-07/roadmaps/peft.md
+              - "20 — LoRA": roadmaps/seasons/season-07/roadmaps/lora.md
+              - "21 — RLHF": roadmaps/seasons/season-07/roadmaps/rlhf.md
+              - "22 — Synthetic Data": roadmaps/seasons/season-07/roadmaps/synthetic-data.md
+              - "23 — Multimodal AI": roadmaps/seasons/season-07/roadmaps/multimodal-ai.md
+              - "24 — Voice AI": roadmaps/seasons/season-07/roadmaps/voice-ai.md
+              - "25 — Speech AI": roadmaps/seasons/season-07/roadmaps/speech-ai.md
+              - "26 — Computer Vision": roadmaps/seasons/season-07/roadmaps/computer-vision.md
+              - "27 — AI Product Management": roadmaps/seasons/season-07/roadmaps/ai-product-management.md
+              - "28 — AI Solutions Architect": roadmaps/seasons/season-07/roadmaps/ai-solutions-architect.md
+              - "29 — AI Cost Optimization": roadmaps/seasons/season-07/roadmaps/ai-cost-optimization.md
+              - "30 — Enterprise AI Architecture": roadmaps/seasons/season-07/roadmaps/enterprise-ai-architecture.md
+          - "Season 8":
+              - roadmaps/seasons/season-08/index.md
+              - "01 — Software Engineering Fundamentals": roadmaps/seasons/season-08/roadmaps/software-engineering-fundamentals.md
+              - "02 — SDLC": roadmaps/seasons/season-08/roadmaps/sdlc.md
+              - "03 — Software Development Methodologies": roadmaps/seasons/season-08/roadmaps/software-development-methodologies.md
+              - "04 — Agile Software Development": roadmaps/seasons/season-08/roadmaps/agile-software-development.md
+              - "05 — Scrum": roadmaps/seasons/season-08/roadmaps/scrum.md
+              - "06 — Kanban": roadmaps/seasons/season-08/roadmaps/kanban.md
+              - "07 — Lean Software Development": roadmaps/seasons/season-08/roadmaps/lean-software-development.md
+              - "08 — Extreme Programming (XP)": roadmaps/seasons/season-08/roadmaps/extreme-programming-xp.md
+              - "09 — Clean Code": roadmaps/seasons/season-08/roadmaps/clean-code.md
+              - "10 — Refactoring": roadmaps/seasons/season-08/roadmaps/refactoring.md
+              - "11 — Code Reviews": roadmaps/seasons/season-08/roadmaps/code-reviews.md
+              - "12 — Pair Programming": roadmaps/seasons/season-08/roadmaps/pair-programming.md
+              - "13 — Coding Standards & Style Guides": roadmaps/seasons/season-08/roadmaps/coding-standards-style-guides.md
+              - "14 — Software Documentation": roadmaps/seasons/season-08/roadmaps/software-documentation.md
+              - "15 — Build Systems & Dependency Management": roadmaps/seasons/season-08/roadmaps/build-systems-dependency-management.md
+              - "16 — Versioning & Semantic Versioning": roadmaps/seasons/season-08/roadmaps/versioning-semantic-versioning.md
+              - "17 — Git Workflows": roadmaps/seasons/season-08/roadmaps/git-workflows.md
+              - "18 — Feature Flags": roadmaps/seasons/season-08/roadmaps/feature-flags.md
+              - "19 — Release Management": roadmaps/seasons/season-08/roadmaps/release-management.md
+              - "20 — Debugging": roadmaps/seasons/season-08/roadmaps/debugging.md
+              - "21 — Logging": roadmaps/seasons/season-08/roadmaps/logging.md
+              - "22 — Error Handling": roadmaps/seasons/season-08/roadmaps/error-handling.md
+              - "23 — Performance Optimization": roadmaps/seasons/season-08/roadmaps/performance-optimization.md
+              - "24 — Technical Debt": roadmaps/seasons/season-08/roadmaps/technical-debt.md
+              - "25 — CI_CD for Developers": roadmaps/seasons/season-08/roadmaps/ci-cd-for-developers.md
+              - "26 — Software Maintenance": roadmaps/seasons/season-08/roadmaps/software-maintenance.md
+              - "27 — Legacy System Modernization": roadmaps/seasons/season-08/roadmaps/legacy-system-modernization.md
+              - "28 — Engineering Metrics": roadmaps/seasons/season-08/roadmaps/engineering-metrics.md
+              - "29 — Developer Experience (DevEx)": roadmaps/seasons/season-08/roadmaps/developer-experience-devex.md
+              - "30 — Software Engineer": roadmaps/seasons/season-08/roadmaps/software-engineer.md
+          - "Season 9":
+              - roadmaps/seasons/season-09/index.md
+              - "01 — Software Testing Fundamentals": roadmaps/seasons/season-09/roadmaps/software-testing-fundamentals.md
+              - "02 — Software Development Life Cycle (Testing Perspective)": roadmaps/seasons/season-09/roadmaps/software-development-life-cycle-testing-perspective.md
+              - "03 — Software Testing Process (STLC)": roadmaps/seasons/season-09/roadmaps/software-testing-process-stlc.md
+              - "04 — Test Planning & Test Management": roadmaps/seasons/season-09/roadmaps/test-planning-test-management.md
+              - "05 — Test Design Techniques": roadmaps/seasons/season-09/roadmaps/test-design-techniques.md
+              - "06 — Test Pyramid": roadmaps/seasons/season-09/roadmaps/test-pyramid.md
+              - "07 — Unit Testing": roadmaps/seasons/season-09/roadmaps/unit-testing.md
+              - "08 — Integration Testing": roadmaps/seasons/season-09/roadmaps/integration-testing.md
+              - "09 — Contract Testing": roadmaps/seasons/season-09/roadmaps/contract-testing.md
+              - "10 — System Testing": roadmaps/seasons/season-09/roadmaps/system-testing.md
+              - "11 — User Acceptance Testing (UAT)": roadmaps/seasons/season-09/roadmaps/user-acceptance-testing-uat.md
+              - "12 — Regression Testing": roadmaps/seasons/season-09/roadmaps/regression-testing.md
+              - "13 — Smoke & Sanity Testing": roadmaps/seasons/season-09/roadmaps/smoke-sanity-testing.md
+              - "14 — Exploratory Testing": roadmaps/seasons/season-09/roadmaps/exploratory-testing.md
+              - "15 — API Testing": roadmaps/seasons/season-09/roadmaps/api-testing.md
+              - "16 — UI Testing": roadmaps/seasons/season-09/roadmaps/ui-testing.md
+              - "17 — Mobile Testing": roadmaps/seasons/season-09/roadmaps/mobile-testing.md
+              - "18 — Performance Testing": roadmaps/seasons/season-09/roadmaps/performance-testing.md
+              - "19 — Load Testing": roadmaps/seasons/season-09/roadmaps/load-testing.md
+              - "20 — Stress Testing": roadmaps/seasons/season-09/roadmaps/stress-testing.md
+              - "21 — Chaos Testing": roadmaps/seasons/season-09/roadmaps/chaos-testing.md
+              - "22 — Security Testing": roadmaps/seasons/season-09/roadmaps/security-testing.md
+              - "23 — Accessibility Testing": roadmaps/seasons/season-09/roadmaps/accessibility-testing.md
+              - "24 — Graph Based Testing": roadmaps/seasons/season-09/roadmaps/graph-based-testing.md
+              - "25 — Logic Based Testing": roadmaps/seasons/season-09/roadmaps/logic-based-testing.md
+              - "26 — Symbolic & Concolic Testing": roadmaps/seasons/season-09/roadmaps/symbolic-concolic-testing.md
+              - "27 — Specification Based Testing": roadmaps/seasons/season-09/roadmaps/specification-based-testing.md
+              - "28 — Mutation Testing": roadmaps/seasons/season-09/roadmaps/mutation-testing.md
+              - "29 — Object Oriented Testing": roadmaps/seasons/season-09/roadmaps/object-oriented-testing.md
+              - "30 — Web Application Testing": roadmaps/seasons/season-09/roadmaps/web-application-testing.md
+              - "31 — Test Automation": roadmaps/seasons/season-09/roadmaps/test-automation.md
+              - "32 — Selenium": roadmaps/seasons/season-09/roadmaps/selenium.md
+              - "33 — Cypress": roadmaps/seasons/season-09/roadmaps/cypress.md
+              - "34 — Playwright": roadmaps/seasons/season-09/roadmaps/playwright.md
+              - "35 — JMeter": roadmaps/seasons/season-09/roadmaps/jmeter.md
+              - "36 — Postman for Testing": roadmaps/seasons/season-09/roadmaps/postman-for-testing.md
+              - "37 — Mocking & Test Doubles": roadmaps/seasons/season-09/roadmaps/mocking-test-doubles.md
+              - "38 — Test Driven Development (TDD)": roadmaps/seasons/season-09/roadmaps/test-driven-development-tdd.md
+              - "39 — Behavior Driven Development (BDD)": roadmaps/seasons/season-09/roadmaps/behavior-driven-development-bdd.md
+              - "40 — Shift Left Testing & Quality Engineering": roadmaps/seasons/season-09/roadmaps/shift-left-testing-quality-engineering.md
+          - "Season 10":
+              - roadmaps/seasons/season-10/index.md
+              - "01 — Project Management Fundamentals": roadmaps/seasons/season-10/roadmaps/project-management-fundamentals.md
+              - "02 — Project Lifecycle": roadmaps/seasons/season-10/roadmaps/project-lifecycle.md
+              - "03 — Project Management Methodologies": roadmaps/seasons/season-10/roadmaps/project-management-methodologies.md
+              - "04 — Predictive Waterfall Project Management": roadmaps/seasons/season-10/roadmaps/predictive-waterfall-project-management.md
+              - "05 — Agile Project Management": roadmaps/seasons/season-10/roadmaps/agile-project-management.md
+              - "06 — Hybrid Project Management": roadmaps/seasons/season-10/roadmaps/hybrid-project-management.md
+              - "07 — Project Initiation": roadmaps/seasons/season-10/roadmaps/project-initiation.md
+              - "08 — Business Case & Feasibility Study": roadmaps/seasons/season-10/roadmaps/business-case-feasibility-study.md
+              - "09 — Project Charter": roadmaps/seasons/season-10/roadmaps/project-charter.md
+              - "10 — Project Planning": roadmaps/seasons/season-10/roadmaps/project-planning.md
+              - "11 — Scope Management": roadmaps/seasons/season-10/roadmaps/scope-management.md
+              - "12 — Requirements Management": roadmaps/seasons/season-10/roadmaps/requirements-management.md
+              - "13 — Work Breakdown Structure (WBS)": roadmaps/seasons/season-10/roadmaps/work-breakdown-structure-wbs.md
+              - "14 — Schedule Management": roadmaps/seasons/season-10/roadmaps/schedule-management.md
+              - "15 — Critical Path Method (CPM)": roadmaps/seasons/season-10/roadmaps/critical-path-method-cpm.md
+              - "16 — Cost Management & Budgeting": roadmaps/seasons/season-10/roadmaps/cost-management-budgeting.md
+              - "17 — Resource Management": roadmaps/seasons/season-10/roadmaps/resource-management.md
+              - "18 — Risk Management": roadmaps/seasons/season-10/roadmaps/risk-management.md
+              - "19 — Quality Management": roadmaps/seasons/season-10/roadmaps/quality-management.md
+              - "20 — Stakeholder Management": roadmaps/seasons/season-10/roadmaps/stakeholder-management.md
+              - "21 — Communication Management": roadmaps/seasons/season-10/roadmaps/communication-management.md
+              - "22 — Procurement Management": roadmaps/seasons/season-10/roadmaps/procurement-management.md
+              - "23 — Change Management & Change Control": roadmaps/seasons/season-10/roadmaps/change-management-change-control.md
+              - "24 — Issue Management": roadmaps/seasons/season-10/roadmaps/issue-management.md
+              - "25 — Project Monitoring & Control": roadmaps/seasons/season-10/roadmaps/project-monitoring-control.md
+              - "26 — Project Reporting & Dashboards": roadmaps/seasons/season-10/roadmaps/project-reporting-dashboards.md
+              - "27 — Project Governance": roadmaps/seasons/season-10/roadmaps/project-governance.md
+              - "28 — Project Closure & Lessons Learned": roadmaps/seasons/season-10/roadmaps/project-closure-lessons-learned.md
+              - "29 — PMO Fundamentals": roadmaps/seasons/season-10/roadmaps/pmo-fundamentals.md
+              - "30 — Project Manager": roadmaps/seasons/season-10/roadmaps/project-manager.md
   - Projects:
       - projects/index.md
   - AI at Work:
