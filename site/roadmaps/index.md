@@ -1,4 +1,4 @@
-# Learn with Nelson Ã¢â‚¬â€ Topic Roadmaps
+# Learn with Nelson — Topic Roadmaps
 
 **Choose a skill. Learn the technology. Build your capability.**
 
@@ -6,15 +6,15 @@ You don't always start with a career.
 
 Sometimes you simply want to learn:
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Docker
+- [Python](topics/python.md)
+- [SQL](topics/sql.md)
+- [Excel](topics/excel.md)
+- [Power BI](topics/power-bi.md)
+- [Docker](topics/docker.md)
 - AWS
 - React
-- Java
-- Kubernetes
+- [Java](topics/java.md)
+- [Kubernetes](topics/kubernetes.md)
 - System Design
 - AI
 - Cybersecurity
@@ -37,7 +37,7 @@ A topic roadmap focuses on one technology, skill, platform, concept or disciplin
 
 For example:
 
-**Python**
+**[Python](topics/python.md)**
 
 can support:
 
@@ -48,9 +48,9 @@ can support:
 - AI Engineer
 - Software Engineer
 
-You therefore don't need a separate Python roadmap for every career.
+You therefore don't need a separate [Python](topics/python.md) roadmap for every career.
 
-**One Topic Ã¢â€ â€™ Multiple Careers**
+**One Topic → Multiple Careers**
 
 ---
 
@@ -60,13 +60,13 @@ If you are completely new to technology, don't start by randomly choosing advanc
 
 Start with:
 
-**Computer Basics Ã¢â€ â€™ Programming Basics Ã¢â€ â€™ Data Basics Ã¢â€ â€™ Software Basics Ã¢â€ â€™ Choose a Direction**
+**Computer Basics → Programming Basics → Data Basics → Software Basics → Choose a Direction**
 
 Then select the topic that matches what you want to learn.
 
 If you're not sure where to begin:
 
-[Start Here Ã¢â€ â€™](../index.md)
+[Start Here →](../index.md)
 
 ---
 
@@ -82,17 +82,17 @@ Programming is the foundation for building software and automating work.
 
 Explore topics such as:
 
-- Python
-- Java
+- [Python](topics/python.md)
+- [Java](topics/java.md)
 - JavaScript
 - TypeScript
-- Programming Fundamentals
+- [Programming Fundamentals](topics/programming-fundamentals.md)
 - Object-Oriented Programming
 - Data Structures & Algorithms
 
 **Good for:**
 
-Developer Ã‚Â· Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer
+Developer · Data Analyst · Data Engineer · ML Engineer · AI Engineer · Software Engineer
 
 ---
 
@@ -102,9 +102,9 @@ Learn how to work with, analyze and communicate data.
 
 Explore:
 
-- SQL
-- Excel
-- Power BI
+- [SQL](topics/sql.md)
+- [Excel](topics/excel.md)
+- [Power BI](topics/power-bi.md)
 - Data Analysis
 - Data Visualization
 - Statistics
@@ -112,7 +112,7 @@ Explore:
 
 **Good for:**
 
-Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Developer Ã‚Â· Software Engineer
+Data Analyst · Data Engineer · ML Engineer · AI Engineer · Developer · Software Engineer
 
 ---
 
@@ -128,11 +128,11 @@ Explore:
 - Database Fundamentals
 - Data Modeling
 - Database Design
-- SQL
+- [SQL](topics/sql.md)
 
 **Good for:**
 
-Developer Ã‚Â· Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer Ã‚Â· Software Architect
+Developer · Data Analyst · Data Engineer · ML Engineer · AI Engineer · Software Engineer · Software Architect
 
 ---
 
@@ -155,7 +155,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer Ã‚Â· AI Engineer Ã‚Â· Data Engineer Ã‚Â· Software Architect
+Developer · Software Engineer · AI Engineer · Data Engineer · Software Architect
 
 ---
 
@@ -176,7 +176,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer
+Developer · Software Engineer
 
 ---
 
@@ -195,7 +195,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer Ã‚Â· Cloud & DevOps Ã‚Â· Cybersecurity Ã‚Â· Software Architect
+Developer · Data Engineer · ML Engineer · AI Engineer · Software Engineer · Cloud & DevOps · Cybersecurity · Software Architect
 
 ---
 
@@ -208,8 +208,8 @@ Explore:
 - Linux
 - Bash
 - Git
-- Docker
-- Kubernetes
+- [Docker](topics/docker.md)
+- [Kubernetes](topics/kubernetes.md)
 - Terraform
 - Jenkins
 - GitHub Actions
@@ -220,7 +220,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer Ã‚Â· Cloud & DevOps Ã‚Â· Software Architect Ã‚Â· Cybersecurity
+Developer · Software Engineer · Cloud & DevOps · Software Architect · Cybersecurity
 
 ---
 
@@ -247,7 +247,7 @@ Explore:
 
 **Good for:**
 
-Data Engineer Ã‚Â· Data Analyst Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer
+Data Engineer · Data Analyst · ML Engineer · AI Engineer · Software Engineer
 
 ---
 
@@ -268,7 +268,7 @@ Explore:
 
 **Good for:**
 
-ML Engineer Ã‚Â· AI Engineer Ã‚Â· Data Analyst Ã‚Â· Data Engineer
+ML Engineer · AI Engineer · Data Analyst · Data Engineer
 
 ---
 
@@ -295,7 +295,7 @@ Explore:
 
 **Good for:**
 
-AI Engineer Ã‚Â· ML Engineer Ã‚Â· Developer Ã‚Â· Software Engineer Ã‚Â· Software Architect
+AI Engineer · ML Engineer · Developer · Software Engineer · Software Architect
 
 ---
 
@@ -322,7 +322,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer Ã‚Â· Software Architect Ã‚Â· QA Ã‚Â· Cloud & DevOps
+Developer · Software Engineer · Software Architect · QA · Cloud & DevOps
 
 ---
 
@@ -350,7 +350,7 @@ Explore:
 
 **Good for:**
 
-Software Engineer Ã‚Â· Software Architect Ã‚Â· Developer Ã‚Â· Cloud & DevOps Ã‚Â· AI Engineer
+Software Engineer · Software Architect · Developer · Cloud & DevOps · AI Engineer
 
 ---
 
@@ -379,7 +379,7 @@ Explore:
 
 **Good for:**
 
-Software Testing & QA Ã‚Â· Developer Ã‚Â· Software Engineer Ã‚Â· Software Architect
+Software Testing & QA · Developer · Software Engineer · Software Architect
 
 ---
 
@@ -403,14 +403,14 @@ Explore:
 - API Security
 - Cloud Security
 - Container Security
-- Kubernetes Security
+- [Kubernetes](topics/kubernetes.md) Security
 - Zero Trust
 - Threat Modeling
 - Incident Response
 
 **Good for:**
 
-Cybersecurity Ã‚Â· Software Engineer Ã‚Â· Developer Ã‚Â· Cloud & DevOps Ã‚Â· Software Architect
+Cybersecurity · Software Engineer · Developer · Cloud & DevOps · Software Architect
 
 ---
 
@@ -440,7 +440,7 @@ Explore:
 
 **Good for:**
 
-Project Manager Ã‚Â· Project Controls Ã‚Â· Planning & Scheduling Ã‚Â· Cost & Commercial
+Project Manager · Project Controls · Planning & Scheduling · Cost & Commercial
 
 ---
 
@@ -466,7 +466,7 @@ Explore:
 
 **Good for:**
 
-Project Controls Ã‚Â· Project Manager Ã‚Â· Planning & Scheduling Ã‚Â· Cost & Commercial
+Project Controls · Project Manager · Planning & Scheduling · Cost & Commercial
 
 ---
 
@@ -493,7 +493,7 @@ Explore:
 
 **Good for:**
 
-Planning & Scheduling Ã‚Â· Project Controls Ã‚Â· Project Manager
+Planning & Scheduling · Project Controls · Project Manager
 
 ---
 
@@ -521,7 +521,7 @@ Explore:
 
 **Good for:**
 
-Cost & Commercial Ã‚Â· Project Controls Ã‚Â· Project Manager
+Cost & Commercial · Project Controls · Project Manager
 
 ---
 
@@ -533,131 +533,131 @@ Start with your goal.
 
 ### "I want to build software."
 
-Ã¢â€ â€™ Programming
-Ã¢â€ â€™ Git
-Ã¢â€ â€™ Backend / Frontend
-Ã¢â€ â€™ Databases
-Ã¢â€ â€™ Software Engineering
+→ Programming
+→ Git
+→ Backend / Frontend
+→ Databases
+→ Software Engineering
 
 ### "I want to work with data."
 
-Ã¢â€ â€™ Excel
-Ã¢â€ â€™ SQL
-Ã¢â€ â€™ Statistics
-Ã¢â€ â€™ Power BI
-Ã¢â€ â€™ Data Analysis
+→ [Excel](topics/excel.md)
+→ [SQL](topics/sql.md)
+→ Statistics
+→ [Power BI](topics/power-bi.md)
+→ Data Analysis
 
 ### "I want to build data platforms."
 
-Ã¢â€ â€™ SQL
-Ã¢â€ â€™ Python
-Ã¢â€ â€™ Data Modeling
-Ã¢â€ â€™ ETL
-Ã¢â€ â€™ Data Pipelines
-Ã¢â€ â€™ Cloud
+→ [SQL](topics/sql.md)
+→ [Python](topics/python.md)
+→ Data Modeling
+→ ETL
+→ Data Pipelines
+→ Cloud
 
 ### "I want to build AI applications."
 
-Ã¢â€ â€™ Python
-Ã¢â€ â€™ APIs
-Ã¢â€ â€™ AI Fundamentals
-Ã¢â€ â€™ LLMs
-Ã¢â€ â€™ RAG
-Ã¢â€ â€™ Vector Databases
-Ã¢â€ â€™ AI Agents
+→ [Python](topics/python.md)
+→ APIs
+→ AI Fundamentals
+→ LLMs
+→ RAG
+→ Vector Databases
+→ AI Agents
 
 ### "I want to build machine-learning systems."
 
-Ã¢â€ â€™ Python
-Ã¢â€ â€™ Statistics
-Ã¢â€ â€™ Machine Learning
-Ã¢â€ â€™ Model Evaluation
-Ã¢â€ â€™ MLOps
-Ã¢â€ â€™ Cloud
+→ [Python](topics/python.md)
+→ Statistics
+→ Machine Learning
+→ Model Evaluation
+→ MLOps
+→ Cloud
 
 ### "I want to build and operate cloud systems."
 
-Ã¢â€ â€™ Linux
-Ã¢â€ â€™ Networking
-Ã¢â€ â€™ Git
-Ã¢â€ â€™ Docker
-Ã¢â€ â€™ Kubernetes
-Ã¢â€ â€™ Cloud
-Ã¢â€ â€™ Terraform
-Ã¢â€ â€™ CI/CD
+→ Linux
+→ Networking
+→ Git
+→ [Docker](topics/docker.md)
+→ [Kubernetes](topics/kubernetes.md)
+→ Cloud
+→ Terraform
+→ CI/CD
 
 ### "I want to protect systems."
 
-Ã¢â€ â€™ Networking
-Ã¢â€ â€™ Linux
-Ã¢â€ â€™ Security Fundamentals
-Ã¢â€ â€™ IAM
-Ã¢â€ â€™ Application Security
-Ã¢â€ â€™ Cloud Security
+→ Networking
+→ Linux
+→ Security Fundamentals
+→ IAM
+→ Application Security
+→ Cloud Security
 
 ### "I want to design software systems."
 
-Ã¢â€ â€™ Programming
-Ã¢â€ â€™ Software Engineering
-Ã¢â€ â€™ APIs
-Ã¢â€ â€™ Databases
-Ã¢â€ â€™ System Design
-Ã¢â€ â€™ Architecture
-Ã¢â€ â€™ Distributed Systems
+→ Programming
+→ Software Engineering
+→ APIs
+→ Databases
+→ System Design
+→ Architecture
+→ Distributed Systems
 
 ### "I want to become better at testing."
 
-Ã¢â€ â€™ Testing Fundamentals
-Ã¢â€ â€™ Test Types
-Ã¢â€ â€™ API Testing
-Ã¢â€ â€™ UI Testing
-Ã¢â€ â€™ Automation
-Ã¢â€ â€™ Performance
-Ã¢â€ â€™ Security
-Ã¢â€ â€™ Quality Engineering
+→ Testing Fundamentals
+→ Test Types
+→ API Testing
+→ UI Testing
+→ Automation
+→ Performance
+→ Security
+→ Quality Engineering
 
 ### "I want to manage projects."
 
-Ã¢â€ â€™ Project Fundamentals
-Ã¢â€ â€™ Scope
-Ã¢â€ â€™ Planning
-Ã¢â€ â€™ Schedule
-Ã¢â€ â€™ Cost
-Ã¢â€ â€™ Risk
-Ã¢â€ â€™ Stakeholders
-Ã¢â€ â€™ Governance
+→ Project Fundamentals
+→ Scope
+→ Planning
+→ Schedule
+→ Cost
+→ Risk
+→ Stakeholders
+→ Governance
 
 ### "I want to control project performance."
 
-Ã¢â€ â€™ WBS
-Ã¢â€ â€™ Scheduling
-Ã¢â€ â€™ Cost
-Ã¢â€ â€™ Progress
-Ã¢â€ â€™ Baselines
-Ã¢â€ â€™ Variance
-Ã¢â€ â€™ Forecasting
-Ã¢â€ â€™ Reporting
+→ WBS
+→ Scheduling
+→ Cost
+→ Progress
+→ Baselines
+→ Variance
+→ Forecasting
+→ Reporting
 
 ### "I want to specialize in planning."
 
-Ã¢â€ â€™ WBS
-Ã¢â€ â€™ Activities
-Ã¢â€ â€™ Dependencies
-Ã¢â€ â€™ CPM
-Ã¢â€ â€™ Float
-Ã¢â€ â€™ Baselines
-Ã¢â€ â€™ Updates
-Ã¢â€ â€™ Forecasting
+→ WBS
+→ Activities
+→ Dependencies
+→ CPM
+→ Float
+→ Baselines
+→ Updates
+→ Forecasting
 
 ### "I want to specialize in cost."
 
-Ã¢â€ â€™ Estimating
-Ã¢â€ â€™ Budgeting
-Ã¢â€ â€™ Cost Control
-Ã¢â€ â€™ Commitments
-Ã¢â€ â€™ Actuals
-Ã¢â€ â€™ Forecasting
-Ã¢â€ â€™ Contracts
+→ Estimating
+→ Budgeting
+→ Cost Control
+→ Commitments
+→ Actuals
+→ Forecasting
+→ Contracts
 
 ---
 
@@ -667,35 +667,35 @@ A topic is rarely useful for only one career.
 
 For example:
 
-### Python
+### [Python](topics/python.md)
 
 Can support:
 
-**Developer Ã‚Â· Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer**
+**Developer · Data Analyst · Data Engineer · ML Engineer · AI Engineer · Software Engineer**
 
-### SQL
-
-Can support:
-
-**Data Analyst Ã‚Â· Data Engineer Ã‚Â· Developer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer**
-
-### Docker
+### [SQL](topics/sql.md)
 
 Can support:
 
-**Developer Ã‚Â· Software Engineer Ã‚Â· Cloud & DevOps Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Architect**
+**Data Analyst · Data Engineer · Developer · ML Engineer · AI Engineer · Software Engineer**
 
-### Power BI
+### [Docker](topics/docker.md)
 
 Can support:
 
-**Data Analyst Ã‚Â· Data Engineer Ã‚Â· Project Controls Ã‚Â· Project Manager Ã‚Â· Cost & Commercial**
+**Developer · Software Engineer · Cloud & DevOps · ML Engineer · AI Engineer · Software Architect**
+
+### [Power BI](topics/power-bi.md)
+
+Can support:
+
+**Data Analyst · Data Engineer · Project Controls · Project Manager · Cost & Commercial**
 
 ### System Design
 
 Can support:
 
-**Software Engineer Ã‚Â· Software Architect Ã‚Â· Developer Ã‚Â· AI Engineer Ã‚Â· Cloud & DevOps**
+**Software Engineer · Software Architect · Developer · AI Engineer · Cloud & DevOps**
 
 This is why Topic Roadmaps and Career Roadmaps are connected rather than duplicated.
 
@@ -709,7 +709,7 @@ You do not need all of them.
 
 A better approach is:
 
-**Choose a goal Ã¢â€ â€™ Identify required skills Ã¢â€ â€™ Learn the fundamentals Ã¢â€ â€™ Practice Ã¢â€ â€™ Build projects Ã¢â€ â€™ Add advanced topics**
+**Choose a goal → Identify required skills → Learn the fundamentals → Practice → Build projects → Add advanced topics**
 
 Avoid collecting technologies without understanding them.
 
@@ -719,7 +719,7 @@ Avoid collecting technologies without understanding them.
 
 For any topic, follow:
 
-**Understand Ã¢â€ â€™ Follow Along Ã¢â€ â€™ Practice Ã¢â€ â€™ Build Ã¢â€ â€™ Review Ã¢â€ â€™ Apply**
+**Understand → Follow Along → Practice → Build → Review → Apply**
 
 Don't stop at watching tutorials.
 
@@ -749,19 +749,19 @@ The rest of the ecosystem helps you turn that direction into capability.
 
 If you know the career you want:
 
-Ã¢â€ â€™ [Explore Career Roadmaps Ã¢â€ â€™](../index.md)
+→ [Explore Career Roadmaps →](../index.md)
 
 If you know the skill you want:
 
-Ã¢â€ â€™ Continue exploring **Topic Roadmaps**
+→ Continue exploring **Topic Roadmaps**
 
 If you are completely new:
 
-Ã¢â€ â€™ [Start Here Ã¢â€ â€™](../tutorials/start-here/t00-how-to-start-learning-tech.md)
+→ [Start Here →](../tutorials/start-here/t00-how-to-start-learning-tech.md)
 
 If you want to browse everything:
 
-Ã¢â€ â€™ [Back to All Roadmaps Ã¢â€ â€™](../index.md)
+→ [Back to All Roadmaps →](../index.md)
 
 ---
 
@@ -781,4 +781,4 @@ If you want to browse everything:
 
 ---
 
-[Ã¢â€ Â Back to Roadmaps](../index.md)
+[← Back to Roadmaps](../index.md)

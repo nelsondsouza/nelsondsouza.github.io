@@ -1,4 +1,4 @@
-# Learn with Nelson Ã¢â‚¬â€ Topic Roadmaps
+# Learn with Nelson — Topic Roadmaps
 
 **Choose a skill. Learn the technology. Build your capability.**
 
@@ -92,7 +92,7 @@ Explore topics such as:
 
 **Good for:**
 
-Developer Ã‚Â· Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer
+Developer · Data Analyst · Data Engineer · ML Engineer · AI Engineer · Software Engineer
 
 ---
 
@@ -112,7 +112,7 @@ Explore:
 
 **Good for:**
 
-Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Developer Ã‚Â· Software Engineer
+Data Analyst · Data Engineer · ML Engineer · AI Engineer · Developer · Software Engineer
 
 ---
 
@@ -132,7 +132,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer Ã‚Â· Software Architect
+Developer · Data Analyst · Data Engineer · ML Engineer · AI Engineer · Software Engineer · Software Architect
 
 ---
 
@@ -155,7 +155,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer Ã‚Â· AI Engineer Ã‚Â· Data Engineer Ã‚Â· Software Architect
+Developer · Software Engineer · AI Engineer · Data Engineer · Software Architect
 
 ---
 
@@ -176,7 +176,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer
+Developer · Software Engineer
 
 ---
 
@@ -195,7 +195,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer Ã‚Â· Cloud & DevOps Ã‚Â· Cybersecurity Ã‚Â· Software Architect
+Developer · Data Engineer · ML Engineer · AI Engineer · Software Engineer · Cloud & DevOps · Cybersecurity · Software Architect
 
 ---
 
@@ -220,7 +220,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer Ã‚Â· Cloud & DevOps Ã‚Â· Software Architect Ã‚Â· Cybersecurity
+Developer · Software Engineer · Cloud & DevOps · Software Architect · Cybersecurity
 
 ---
 
@@ -247,7 +247,7 @@ Explore:
 
 **Good for:**
 
-Data Engineer Ã‚Â· Data Analyst Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer
+Data Engineer · Data Analyst · ML Engineer · AI Engineer · Software Engineer
 
 ---
 
@@ -268,7 +268,7 @@ Explore:
 
 **Good for:**
 
-ML Engineer Ã‚Â· AI Engineer Ã‚Â· Data Analyst Ã‚Â· Data Engineer
+ML Engineer · AI Engineer · Data Analyst · Data Engineer
 
 ---
 
@@ -295,7 +295,7 @@ Explore:
 
 **Good for:**
 
-AI Engineer Ã‚Â· ML Engineer Ã‚Â· Developer Ã‚Â· Software Engineer Ã‚Â· Software Architect
+AI Engineer · ML Engineer · Developer · Software Engineer · Software Architect
 
 ---
 
@@ -322,7 +322,7 @@ Explore:
 
 **Good for:**
 
-Developer Ã‚Â· Software Engineer Ã‚Â· Software Architect Ã‚Â· QA Ã‚Â· Cloud & DevOps
+Developer · Software Engineer · Software Architect · QA · Cloud & DevOps
 
 ---
 
@@ -350,7 +350,7 @@ Explore:
 
 **Good for:**
 
-Software Engineer Ã‚Â· Software Architect Ã‚Â· Developer Ã‚Â· Cloud & DevOps Ã‚Â· AI Engineer
+Software Engineer · Software Architect · Developer · Cloud & DevOps · AI Engineer
 
 ---
 
@@ -379,7 +379,7 @@ Explore:
 
 **Good for:**
 
-Software Testing & QA Ã‚Â· Developer Ã‚Â· Software Engineer Ã‚Â· Software Architect
+Software Testing & QA · Developer · Software Engineer · Software Architect
 
 ---
 
@@ -410,7 +410,7 @@ Explore:
 
 **Good for:**
 
-Cybersecurity Ã‚Â· Software Engineer Ã‚Â· Developer Ã‚Â· Cloud & DevOps Ã‚Â· Software Architect
+Cybersecurity · Software Engineer · Developer · Cloud & DevOps · Software Architect
 
 ---
 
@@ -440,7 +440,7 @@ Explore:
 
 **Good for:**
 
-Project Manager Ã‚Â· Project Controls Ã‚Â· Planning & Scheduling Ã‚Â· Cost & Commercial
+Project Manager · Project Controls · Planning & Scheduling · Cost & Commercial
 
 ---
 
@@ -466,7 +466,7 @@ Explore:
 
 **Good for:**
 
-Project Controls Ã‚Â· Project Manager Ã‚Â· Planning & Scheduling Ã‚Â· Cost & Commercial
+Project Controls · Project Manager · Planning & Scheduling · Cost & Commercial
 
 ---
 
@@ -493,7 +493,7 @@ Explore:
 
 **Good for:**
 
-Planning & Scheduling Ã‚Â· Project Controls Ã‚Â· Project Manager
+Planning & Scheduling · Project Controls · Project Manager
 
 ---
 
@@ -521,7 +521,7 @@ Explore:
 
 **Good for:**
 
-Cost & Commercial Ã‚Â· Project Controls Ã‚Â· Project Manager
+Cost & Commercial · Project Controls · Project Manager
 
 ---
 
@@ -671,31 +671,31 @@ For example:
 
 Can support:
 
-**Developer Ã‚Â· Data Analyst Ã‚Â· Data Engineer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer**
+**Developer · Data Analyst · Data Engineer · ML Engineer · AI Engineer · Software Engineer**
 
 ### SQL
 
 Can support:
 
-**Data Analyst Ã‚Â· Data Engineer Ã‚Â· Developer Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Engineer**
+**Data Analyst · Data Engineer · Developer · ML Engineer · AI Engineer · Software Engineer**
 
 ### Docker
 
 Can support:
 
-**Developer Ã‚Â· Software Engineer Ã‚Â· Cloud & DevOps Ã‚Â· ML Engineer Ã‚Â· AI Engineer Ã‚Â· Software Architect**
+**Developer · Software Engineer · Cloud & DevOps · ML Engineer · AI Engineer · Software Architect**
 
 ### Power BI
 
 Can support:
 
-**Data Analyst Ã‚Â· Data Engineer Ã‚Â· Project Controls Ã‚Â· Project Manager Ã‚Â· Cost & Commercial**
+**Data Analyst · Data Engineer · Project Controls · Project Manager · Cost & Commercial**
 
 ### System Design
 
 Can support:
 
-**Software Engineer Ã‚Â· Software Architect Ã‚Â· Developer Ã‚Â· AI Engineer Ã‚Â· Cloud & DevOps**
+**Software Engineer · Software Architect · Developer · AI Engineer · Cloud & DevOps**
 
 This is why Topic Roadmaps and Career Roadmaps are connected rather than duplicated.
 
