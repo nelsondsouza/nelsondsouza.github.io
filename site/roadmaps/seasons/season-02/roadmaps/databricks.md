@@ -4,7 +4,7 @@ title: Databricks
 season: 2
 roadmap_number: 20
 source_file: "Season 2/20-Databricks.png"
-image: "../../../assets/roadmap-images/season-02/20-Databricks.png"
+image: "../../../assets/roadmap-images/season-02/20-Databricks.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Databricks
 
-![Databricks Roadmap](../../../assets/roadmap-images/season-02/20-Databricks.png)
+![Databricks Roadmap](../../../assets/roadmap-images/season-02/20-Databricks.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

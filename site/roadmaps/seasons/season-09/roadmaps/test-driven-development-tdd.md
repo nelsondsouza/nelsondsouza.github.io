@@ -3,8 +3,8 @@ id: s09-38-test-driven-development-tdd
 title: Test Driven Development (TDD)
 season: 9
 roadmap_number: 38
-source_file: "Season 9/38-Test-Driven-Development-(TDD).png"
-image: "../../../assets/roadmap-images/season-09/38-Test-Driven-Development-(TDD).png"
+source_file: "Season 9/38-Test-Driven-Development-(TDD).webp"
+image: "../../../assets/roadmap-images/season-09/38-Test-Driven-Development-(TDD).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Test Driven Development (TDD)
 
-![Test Driven Development (TDD) Roadmap](../../../assets/roadmap-images/season-09/38-Test-Driven-Development-(TDD).png)
+![Test Driven Development (TDD) Roadmap](../../../assets/roadmap-images/season-09/38-Test-Driven-Development-(TDD).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

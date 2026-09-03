@@ -4,7 +4,7 @@ title: Layered Architecture
 season: 6
 roadmap_number: 4
 source_file: "Season 6/04-Layered-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/04-Layered-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/04-Layered-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Layered Architecture
 
-![Layered Architecture Roadmap](../../../assets/roadmap-images/season-06/04-Layered-Architecture.png)
+![Layered Architecture Roadmap](../../../assets/roadmap-images/season-06/04-Layered-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

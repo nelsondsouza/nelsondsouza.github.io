@@ -4,7 +4,7 @@ title: Object Oriented Testing
 season: 9
 roadmap_number: 29
 source_file: "Season 9/29-Object-Oriented-Testing.png"
-image: "../../../assets/roadmap-images/season-09/29-Object-Oriented-Testing.png"
+image: "../../../assets/roadmap-images/season-09/29-Object-Oriented-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Object Oriented Testing
 
-![Object Oriented Testing Roadmap](../../../assets/roadmap-images/season-09/29-Object-Oriented-Testing.png)
+![Object Oriented Testing Roadmap](../../../assets/roadmap-images/season-09/29-Object-Oriented-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

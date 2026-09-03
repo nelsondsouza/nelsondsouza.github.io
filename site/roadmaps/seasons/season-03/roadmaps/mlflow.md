@@ -4,7 +4,7 @@ title: MLflow
 season: 3
 roadmap_number: 22
 source_file: "Season 3/22-MLflow.png"
-image: "../../../assets/roadmap-images/season-03/22-MLflow.png"
+image: "../../../assets/roadmap-images/season-03/22-MLflow.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # MLflow
 
-![MLflow Roadmap](../../../assets/roadmap-images/season-03/22-MLflow.png)
+![MLflow Roadmap](../../../assets/roadmap-images/season-03/22-MLflow.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

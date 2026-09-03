@@ -4,7 +4,7 @@ title: Legacy System Modernization
 season: 8
 roadmap_number: 27
 source_file: "Season 8/27-Legacy-System-Modernization.png"
-image: "../../../assets/roadmap-images/season-08/27-Legacy-System-Modernization.png"
+image: "../../../assets/roadmap-images/season-08/27-Legacy-System-Modernization.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Legacy System Modernization
 
-![Legacy System Modernization Roadmap](../../../assets/roadmap-images/season-08/27-Legacy-System-Modernization.png)
+![Legacy System Modernization Roadmap](../../../assets/roadmap-images/season-08/27-Legacy-System-Modernization.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

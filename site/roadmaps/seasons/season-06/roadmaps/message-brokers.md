@@ -4,7 +4,7 @@ title: Message Brokers
 season: 6
 roadmap_number: 31
 source_file: "Season 6/31-Message-Brokers.png"
-image: "../../../assets/roadmap-images/season-06/31-Message-Brokers.png"
+image: "../../../assets/roadmap-images/season-06/31-Message-Brokers.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Message Brokers
 
-![Message Brokers Roadmap](../../../assets/roadmap-images/season-06/31-Message-Brokers.png)
+![Message Brokers Roadmap](../../../assets/roadmap-images/season-06/31-Message-Brokers.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

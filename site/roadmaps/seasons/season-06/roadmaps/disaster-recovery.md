@@ -4,7 +4,7 @@ title: Disaster Recovery
 season: 6
 roadmap_number: 24
 source_file: "Season 6/24-Disaster-Recovery.png"
-image: "../../../assets/roadmap-images/season-06/24-Disaster-Recovery.png"
+image: "../../../assets/roadmap-images/season-06/24-Disaster-Recovery.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Disaster Recovery
 
-![Disaster Recovery Roadmap](../../../assets/roadmap-images/season-06/24-Disaster-Recovery.png)
+![Disaster Recovery Roadmap](../../../assets/roadmap-images/season-06/24-Disaster-Recovery.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Platform Engineering
 season: 6
 roadmap_number: 27
 source_file: "Season 6/27-Platform-Engineering.png"
-image: "../../../assets/roadmap-images/season-06/27-Platform-Engineering.png"
+image: "../../../assets/roadmap-images/season-06/27-Platform-Engineering.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Platform Engineering
 
-![Platform Engineering Roadmap](../../../assets/roadmap-images/season-06/27-Platform-Engineering.png)
+![Platform Engineering Roadmap](../../../assets/roadmap-images/season-06/27-Platform-Engineering.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

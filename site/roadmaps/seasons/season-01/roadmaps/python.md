@@ -4,7 +4,7 @@ title: Python
 season: 1
 roadmap_number: 1
 source_file: "Season 1/01-Python.png"
-image: "../../../assets/roadmap-images/season-01/01-Python.png"
+image: "../../../assets/roadmap-images/season-01/01-Python.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Python
 
-![Python Roadmap](../../../assets/roadmap-images/season-01/01-Python.png)
+![Python Roadmap](../../../assets/roadmap-images/season-01/01-Python.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

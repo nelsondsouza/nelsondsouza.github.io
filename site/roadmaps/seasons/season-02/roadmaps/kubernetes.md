@@ -4,7 +4,7 @@ title: Kubernetes
 season: 2
 roadmap_number: 5
 source_file: "Season 2/05-Kubernetes.png"
-image: "../../../assets/roadmap-images/season-02/05-Kubernetes.png"
+image: "../../../assets/roadmap-images/season-02/05-Kubernetes.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Kubernetes
 
-![Kubernetes Roadmap](../../../assets/roadmap-images/season-02/05-Kubernetes.png)
+![Kubernetes Roadmap](../../../assets/roadmap-images/season-02/05-Kubernetes.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

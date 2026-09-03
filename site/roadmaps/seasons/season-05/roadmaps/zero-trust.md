@@ -4,7 +4,7 @@ title: Zero Trust
 season: 5
 roadmap_number: 23
 source_file: "Season 5/23-Zero-Trust.png"
-image: "../../../assets/roadmap-images/season-05/23-Zero-Trust.png"
+image: "../../../assets/roadmap-images/season-05/23-Zero-Trust.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Zero Trust
 
-![Zero Trust Roadmap](../../../assets/roadmap-images/season-05/23-Zero-Trust.png)
+![Zero Trust Roadmap](../../../assets/roadmap-images/season-05/23-Zero-Trust.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

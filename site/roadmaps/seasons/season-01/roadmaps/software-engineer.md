@@ -4,7 +4,7 @@ title: Software Engineer
 season: 1
 roadmap_number: 20
 source_file: "Season 1/20-Software-Engineer.png"
-image: "../../../assets/roadmap-images/season-01/20-Software-Engineer.png"
+image: "../../../assets/roadmap-images/season-01/20-Software-Engineer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Engineer
 
-![Software Engineer Roadmap](../../../assets/roadmap-images/season-01/20-Software-Engineer.png)
+![Software Engineer Roadmap](../../../assets/roadmap-images/season-01/20-Software-Engineer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

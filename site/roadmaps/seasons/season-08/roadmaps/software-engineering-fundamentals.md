@@ -4,7 +4,7 @@ title: Software Engineering Fundamentals
 season: 8
 roadmap_number: 1
 source_file: "Season 8/01-Software-Engineering-Fundamentals.png"
-image: "../../../assets/roadmap-images/season-08/01-Software-Engineering-Fundamentals.png"
+image: "../../../assets/roadmap-images/season-08/01-Software-Engineering-Fundamentals.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Engineering Fundamentals
 
-![Software Engineering Fundamentals Roadmap](../../../assets/roadmap-images/season-08/01-Software-Engineering-Fundamentals.png)
+![Software Engineering Fundamentals Roadmap](../../../assets/roadmap-images/season-08/01-Software-Engineering-Fundamentals.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

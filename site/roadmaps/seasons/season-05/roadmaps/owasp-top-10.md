@@ -4,7 +4,7 @@ title: OWASP Top 10
 season: 5
 roadmap_number: 13
 source_file: "Season 5/13-OWASP-Top-10.png"
-image: "../../../assets/roadmap-images/season-05/13-OWASP-Top-10.png"
+image: "../../../assets/roadmap-images/season-05/13-OWASP-Top-10.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # OWASP Top 10
 
-![OWASP Top 10 Roadmap](../../../assets/roadmap-images/season-05/13-OWASP-Top-10.png)
+![OWASP Top 10 Roadmap](../../../assets/roadmap-images/season-05/13-OWASP-Top-10.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

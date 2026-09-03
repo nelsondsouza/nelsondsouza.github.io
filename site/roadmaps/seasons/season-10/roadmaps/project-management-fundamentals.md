@@ -4,7 +4,7 @@ title: Project Management Fundamentals
 season: 10
 roadmap_number: 1
 source_file: "Season 10/01-Project-Management-Fundamentals.png"
-image: "../../../assets/roadmap-images/season-10/01-Project-Management-Fundamentals.png"
+image: "../../../assets/roadmap-images/season-10/01-Project-Management-Fundamentals.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Management Fundamentals
 
-![Project Management Fundamentals Roadmap](../../../assets/roadmap-images/season-10/01-Project-Management-Fundamentals.png)
+![Project Management Fundamentals Roadmap](../../../assets/roadmap-images/season-10/01-Project-Management-Fundamentals.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

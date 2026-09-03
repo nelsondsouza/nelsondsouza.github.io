@@ -3,8 +3,8 @@ id: s08-08-extreme-programming-xp
 title: Extreme Programming (XP)
 season: 8
 roadmap_number: 8
-source_file: "Season 8/08-Extreme-Programming-(XP).png"
-image: "../../../assets/roadmap-images/season-08/08-Extreme-Programming-(XP).png"
+source_file: "Season 8/08-Extreme-Programming-(XP).webp"
+image: "../../../assets/roadmap-images/season-08/08-Extreme-Programming-(XP).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Extreme Programming (XP)
 
-![Extreme Programming (XP) Roadmap](../../../assets/roadmap-images/season-08/08-Extreme-Programming-(XP).png)
+![Extreme Programming (XP) Roadmap](../../../assets/roadmap-images/season-08/08-Extreme-Programming-(XP).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

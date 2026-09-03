@@ -4,7 +4,7 @@ title: Digital Forensics
 season: 5
 roadmap_number: 26
 source_file: "Season 5/26-Digital-Forensics.png"
-image: "../../../assets/roadmap-images/season-05/26-Digital-Forensics.png"
+image: "../../../assets/roadmap-images/season-05/26-Digital-Forensics.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Digital Forensics
 
-![Digital Forensics Roadmap](../../../assets/roadmap-images/season-05/26-Digital-Forensics.png)
+![Digital Forensics Roadmap](../../../assets/roadmap-images/season-05/26-Digital-Forensics.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Redis
 season: 3
 roadmap_number: 3
 source_file: "Season 3/03-Redis.png"
-image: "../../../assets/roadmap-images/season-03/03-Redis.png"
+image: "../../../assets/roadmap-images/season-03/03-Redis.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Redis
 
-![Redis Roadmap](../../../assets/roadmap-images/season-03/03-Redis.png)
+![Redis Roadmap](../../../assets/roadmap-images/season-03/03-Redis.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

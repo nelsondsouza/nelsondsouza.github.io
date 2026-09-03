@@ -4,7 +4,7 @@ title: Postman for Testing
 season: 9
 roadmap_number: 36
 source_file: "Season 9/36-Postman-for-Testing.png"
-image: "../../../assets/roadmap-images/season-09/36-Postman-for-Testing.png"
+image: "../../../assets/roadmap-images/season-09/36-Postman-for-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Postman for Testing
 
-![Postman for Testing Roadmap](../../../assets/roadmap-images/season-09/36-Postman-for-Testing.png)
+![Postman for Testing Roadmap](../../../assets/roadmap-images/season-09/36-Postman-for-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Feature Stores
 season: 4
 roadmap_number: 27
 source_file: "Season 4/27-Feature-Stores.png"
-image: "../../../assets/roadmap-images/season-04/27-Feature-Stores.png"
+image: "../../../assets/roadmap-images/season-04/27-Feature-Stores.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Feature Stores
 
-![Feature Stores Roadmap](../../../assets/roadmap-images/season-04/27-Feature-Stores.png)
+![Feature Stores Roadmap](../../../assets/roadmap-images/season-04/27-Feature-Stores.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

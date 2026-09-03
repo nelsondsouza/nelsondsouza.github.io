@@ -4,7 +4,7 @@ title: AI Product Management
 season: 7
 roadmap_number: 27
 source_file: "Season 7/27-AI-Product-Management.png"
-image: "../../../assets/roadmap-images/season-07/27-AI-Product-Management.png"
+image: "../../../assets/roadmap-images/season-07/27-AI-Product-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Product Management
 
-![AI Product Management Roadmap](../../../assets/roadmap-images/season-07/27-AI-Product-Management.png)
+![AI Product Management Roadmap](../../../assets/roadmap-images/season-07/27-AI-Product-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

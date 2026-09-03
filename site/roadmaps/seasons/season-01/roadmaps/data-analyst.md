@@ -4,7 +4,7 @@ title: Data Analyst
 season: 1
 roadmap_number: 7
 source_file: "Season 1/07-Data-Analyst.png"
-image: "../../../assets/roadmap-images/season-01/07-Data-Analyst.png"
+image: "../../../assets/roadmap-images/season-01/07-Data-Analyst.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Analyst
 
-![Data Analyst Roadmap](../../../assets/roadmap-images/season-01/07-Data-Analyst.png)
+![Data Analyst Roadmap](../../../assets/roadmap-images/season-01/07-Data-Analyst.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

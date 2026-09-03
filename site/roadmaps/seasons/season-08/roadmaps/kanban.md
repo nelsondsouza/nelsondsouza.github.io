@@ -4,7 +4,7 @@ title: Kanban
 season: 8
 roadmap_number: 6
 source_file: "Season 8/06-Kanban.png"
-image: "../../../assets/roadmap-images/season-08/06-Kanban.png"
+image: "../../../assets/roadmap-images/season-08/06-Kanban.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Kanban
 
-![Kanban Roadmap](../../../assets/roadmap-images/season-08/06-Kanban.png)
+![Kanban Roadmap](../../../assets/roadmap-images/season-08/06-Kanban.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

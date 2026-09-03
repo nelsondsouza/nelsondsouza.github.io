@@ -4,7 +4,7 @@ title: FastAPI
 season: 3
 roadmap_number: 7
 source_file: "Season 3/07-FastAPI.png"
-image: "../../../assets/roadmap-images/season-03/07-FastAPI.png"
+image: "../../../assets/roadmap-images/season-03/07-FastAPI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # FastAPI
 
-![FastAPI Roadmap](../../../assets/roadmap-images/season-03/07-FastAPI.png)
+![FastAPI Roadmap](../../../assets/roadmap-images/season-03/07-FastAPI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

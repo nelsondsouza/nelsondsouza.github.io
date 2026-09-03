@@ -4,7 +4,7 @@ title: Data Pipelines
 season: 4
 roadmap_number: 18
 source_file: "Season 4/18-Data-Pipelines.png"
-image: "../../../assets/roadmap-images/season-04/18-Data-Pipelines.png"
+image: "../../../assets/roadmap-images/season-04/18-Data-Pipelines.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Pipelines
 
-![Data Pipelines Roadmap](../../../assets/roadmap-images/season-04/18-Data-Pipelines.png)
+![Data Pipelines Roadmap](../../../assets/roadmap-images/season-04/18-Data-Pipelines.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

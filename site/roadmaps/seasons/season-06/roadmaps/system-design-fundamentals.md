@@ -4,7 +4,7 @@ title: System Design Fundamentals
 season: 6
 roadmap_number: 33
 source_file: "Season 6/33-System-Design-Fundamentals.png"
-image: "../../../assets/roadmap-images/season-06/33-System-Design-Fundamentals.png"
+image: "../../../assets/roadmap-images/season-06/33-System-Design-Fundamentals.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # System Design Fundamentals
 
-![System Design Fundamentals Roadmap](../../../assets/roadmap-images/season-06/33-System-Design-Fundamentals.png)
+![System Design Fundamentals Roadmap](../../../assets/roadmap-images/season-06/33-System-Design-Fundamentals.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

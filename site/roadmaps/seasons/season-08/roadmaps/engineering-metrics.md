@@ -4,7 +4,7 @@ title: Engineering Metrics
 season: 8
 roadmap_number: 28
 source_file: "Season 8/28-Engineering-Metrics.png"
-image: "../../../assets/roadmap-images/season-08/28-Engineering-Metrics.png"
+image: "../../../assets/roadmap-images/season-08/28-Engineering-Metrics.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Engineering Metrics
 
-![Engineering Metrics Roadmap](../../../assets/roadmap-images/season-08/28-Engineering-Metrics.png)
+![Engineering Metrics Roadmap](../../../assets/roadmap-images/season-08/28-Engineering-Metrics.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

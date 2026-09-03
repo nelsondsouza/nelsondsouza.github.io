@@ -4,7 +4,7 @@ title: Code Reviews
 season: 8
 roadmap_number: 11
 source_file: "Season 8/11-Code-Reviews.png"
-image: "../../../assets/roadmap-images/season-08/11-Code-Reviews.png"
+image: "../../../assets/roadmap-images/season-08/11-Code-Reviews.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Code Reviews
 
-![Code Reviews Roadmap](../../../assets/roadmap-images/season-08/11-Code-Reviews.png)
+![Code Reviews Roadmap](../../../assets/roadmap-images/season-08/11-Code-Reviews.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

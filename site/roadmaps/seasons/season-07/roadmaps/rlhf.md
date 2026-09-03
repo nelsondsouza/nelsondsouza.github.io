@@ -4,7 +4,7 @@ title: RLHF
 season: 7
 roadmap_number: 21
 source_file: "Season 7/21-RLHF.png"
-image: "../../../assets/roadmap-images/season-07/21-RLHF.png"
+image: "../../../assets/roadmap-images/season-07/21-RLHF.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # RLHF
 
-![RLHF Roadmap](../../../assets/roadmap-images/season-07/21-RLHF.png)
+![RLHF Roadmap](../../../assets/roadmap-images/season-07/21-RLHF.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

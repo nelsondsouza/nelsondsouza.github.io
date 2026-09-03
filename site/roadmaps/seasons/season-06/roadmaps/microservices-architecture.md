@@ -4,7 +4,7 @@ title: Microservices Architecture
 season: 6
 roadmap_number: 28
 source_file: "Season 6/28-Microservices-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/28-Microservices-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/28-Microservices-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Microservices Architecture
 
-![Microservices Architecture Roadmap](../../../assets/roadmap-images/season-06/28-Microservices-Architecture.png)
+![Microservices Architecture Roadmap](../../../assets/roadmap-images/season-06/28-Microservices-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Consistency Models
 season: 6
 roadmap_number: 19
 source_file: "Season 6/19-Consistency-Models.png"
-image: "../../../assets/roadmap-images/season-06/19-Consistency-Models.png"
+image: "../../../assets/roadmap-images/season-06/19-Consistency-Models.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Consistency Models
 
-![Consistency Models Roadmap](../../../assets/roadmap-images/season-06/19-Consistency-Models.png)
+![Consistency Models Roadmap](../../../assets/roadmap-images/season-06/19-Consistency-Models.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Hexagonal Architecture
 season: 6
 roadmap_number: 2
 source_file: "Season 6/02-Hexagonal-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/02-Hexagonal-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/02-Hexagonal-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Hexagonal Architecture
 
-![Hexagonal Architecture Roadmap](../../../assets/roadmap-images/season-06/02-Hexagonal-Architecture.png)
+![Hexagonal Architecture Roadmap](../../../assets/roadmap-images/season-06/02-Hexagonal-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

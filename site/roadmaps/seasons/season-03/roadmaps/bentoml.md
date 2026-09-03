@@ -4,7 +4,7 @@ title: BentoML
 season: 3
 roadmap_number: 24
 source_file: "Season 3/24-BentoML.png"
-image: "../../../assets/roadmap-images/season-03/24-BentoML.png"
+image: "../../../assets/roadmap-images/season-03/24-BentoML.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # BentoML
 
-![BentoML Roadmap](../../../assets/roadmap-images/season-03/24-BentoML.png)
+![BentoML Roadmap](../../../assets/roadmap-images/season-03/24-BentoML.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

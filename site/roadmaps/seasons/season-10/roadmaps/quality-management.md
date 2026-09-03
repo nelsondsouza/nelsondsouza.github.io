@@ -4,7 +4,7 @@ title: Quality Management
 season: 10
 roadmap_number: 19
 source_file: "Season 10/19-Quality-Management.png"
-image: "../../../assets/roadmap-images/season-10/19-Quality-Management.png"
+image: "../../../assets/roadmap-images/season-10/19-Quality-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Quality Management
 
-![Quality Management Roadmap](../../../assets/roadmap-images/season-10/19-Quality-Management.png)
+![Quality Management Roadmap](../../../assets/roadmap-images/season-10/19-Quality-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

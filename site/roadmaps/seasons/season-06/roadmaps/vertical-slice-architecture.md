@@ -4,7 +4,7 @@ title: Vertical Slice Architecture
 season: 6
 roadmap_number: 5
 source_file: "Season 6/05-Vertical-Slice-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/05-Vertical-Slice-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/05-Vertical-Slice-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Vertical Slice Architecture
 
-![Vertical Slice Architecture Roadmap](../../../assets/roadmap-images/season-06/05-Vertical-Slice-Architecture.png)
+![Vertical Slice Architecture Roadmap](../../../assets/roadmap-images/season-06/05-Vertical-Slice-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

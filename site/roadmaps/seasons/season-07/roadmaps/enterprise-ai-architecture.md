@@ -4,7 +4,7 @@ title: Enterprise AI Architecture
 season: 7
 roadmap_number: 30
 source_file: "Season 7/30-Enterprise-AI-Architecture.png"
-image: "../../../assets/roadmap-images/season-07/30-Enterprise-AI-Architecture.png"
+image: "../../../assets/roadmap-images/season-07/30-Enterprise-AI-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Enterprise AI Architecture
 
-![Enterprise AI Architecture Roadmap](../../../assets/roadmap-images/season-07/30-Enterprise-AI-Architecture.png)
+![Enterprise AI Architecture Roadmap](../../../assets/roadmap-images/season-07/30-Enterprise-AI-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

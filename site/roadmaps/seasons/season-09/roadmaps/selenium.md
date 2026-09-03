@@ -4,7 +4,7 @@ title: Selenium
 season: 9
 roadmap_number: 32
 source_file: "Season 9/32-Selenium.png"
-image: "../../../assets/roadmap-images/season-09/32-Selenium.png"
+image: "../../../assets/roadmap-images/season-09/32-Selenium.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Selenium
 
-![Selenium Roadmap](../../../assets/roadmap-images/season-09/32-Selenium.png)
+![Selenium Roadmap](../../../assets/roadmap-images/season-09/32-Selenium.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

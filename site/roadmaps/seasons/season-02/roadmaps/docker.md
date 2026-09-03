@@ -4,7 +4,7 @@ title: Docker
 season: 2
 roadmap_number: 4
 source_file: "Season 2/04-Docker.png"
-image: "../../../assets/roadmap-images/season-02/04-Docker.png"
+image: "../../../assets/roadmap-images/season-02/04-Docker.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Docker
 
-![Docker Roadmap](../../../assets/roadmap-images/season-02/04-Docker.png)
+![Docker Roadmap](../../../assets/roadmap-images/season-02/04-Docker.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

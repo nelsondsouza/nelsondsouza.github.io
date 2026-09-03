@@ -4,7 +4,7 @@ title: Predictive Waterfall Project Management
 season: 10
 roadmap_number: 4
 source_file: "Season 10/04-Predictive-Waterfall-Project-Management.png"
-image: "../../../assets/roadmap-images/season-10/04-Predictive-Waterfall-Project-Management.png"
+image: "../../../assets/roadmap-images/season-10/04-Predictive-Waterfall-Project-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Predictive Waterfall Project Management
 
-![Predictive Waterfall Project Management Roadmap](../../../assets/roadmap-images/season-10/04-Predictive-Waterfall-Project-Management.png)
+![Predictive Waterfall Project Management Roadmap](../../../assets/roadmap-images/season-10/04-Predictive-Waterfall-Project-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

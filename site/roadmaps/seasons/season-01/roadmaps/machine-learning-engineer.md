@@ -4,7 +4,7 @@ title: Machine Learning Engineer
 season: 1
 roadmap_number: 17
 source_file: "Season 1/17-Machine-Learning-Engineer.png"
-image: "../../../assets/roadmap-images/season-01/17-Machine-Learning-Engineer.png"
+image: "../../../assets/roadmap-images/season-01/17-Machine-Learning-Engineer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Machine Learning Engineer
 
-![Machine Learning Engineer Roadmap](../../../assets/roadmap-images/season-01/17-Machine-Learning-Engineer.png)
+![Machine Learning Engineer Roadmap](../../../assets/roadmap-images/season-01/17-Machine-Learning-Engineer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

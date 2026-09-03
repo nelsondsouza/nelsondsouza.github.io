@@ -4,7 +4,7 @@ title: SIEM
 season: 5
 roadmap_number: 21
 source_file: "Season 5/21-SIEM.png"
-image: "../../../assets/roadmap-images/season-05/21-SIEM.png"
+image: "../../../assets/roadmap-images/season-05/21-SIEM.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # SIEM
 
-![SIEM Roadmap](../../../assets/roadmap-images/season-05/21-SIEM.png)
+![SIEM Roadmap](../../../assets/roadmap-images/season-05/21-SIEM.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

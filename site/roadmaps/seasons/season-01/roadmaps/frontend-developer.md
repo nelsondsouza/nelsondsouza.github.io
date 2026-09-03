@@ -4,7 +4,7 @@ title: Frontend Developer
 season: 1
 roadmap_number: 9
 source_file: "Season 1/09-Frontend-Developer.png"
-image: "../../../assets/roadmap-images/season-01/09-Frontend-Developer.png"
+image: "../../../assets/roadmap-images/season-01/09-Frontend-Developer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Frontend Developer
 
-![Frontend Developer Roadmap](../../../assets/roadmap-images/season-01/09-Frontend-Developer.png)
+![Frontend Developer Roadmap](../../../assets/roadmap-images/season-01/09-Frontend-Developer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

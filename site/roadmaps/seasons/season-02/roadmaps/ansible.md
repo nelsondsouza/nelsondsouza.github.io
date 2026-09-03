@@ -4,7 +4,7 @@ title: Ansible
 season: 2
 roadmap_number: 13
 source_file: "Season 2/13-Ansible.png"
-image: "../../../assets/roadmap-images/season-02/13-Ansible.png"
+image: "../../../assets/roadmap-images/season-02/13-Ansible.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Ansible
 
-![Ansible Roadmap](../../../assets/roadmap-images/season-02/13-Ansible.png)
+![Ansible Roadmap](../../../assets/roadmap-images/season-02/13-Ansible.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

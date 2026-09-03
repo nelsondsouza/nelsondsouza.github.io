@@ -4,7 +4,7 @@ title: Vue js
 season: 3
 roadmap_number: 12
 source_file: "Season 3/12-Vue-js.png"
-image: "../../../assets/roadmap-images/season-03/12-Vue-js.png"
+image: "../../../assets/roadmap-images/season-03/12-Vue-js.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Vue js
 
-![Vue js Roadmap](../../../assets/roadmap-images/season-03/12-Vue-js.png)
+![Vue js Roadmap](../../../assets/roadmap-images/season-03/12-Vue-js.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

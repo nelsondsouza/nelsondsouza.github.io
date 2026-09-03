@@ -4,7 +4,7 @@ title: Apache Iceberg
 season: 4
 roadmap_number: 10
 source_file: "Season 4/10-Apache-Iceberg.png"
-image: "../../../assets/roadmap-images/season-04/10-Apache-Iceberg.png"
+image: "../../../assets/roadmap-images/season-04/10-Apache-Iceberg.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Iceberg
 
-![Apache Iceberg Roadmap](../../../assets/roadmap-images/season-04/10-Apache-Iceberg.png)
+![Apache Iceberg Roadmap](../../../assets/roadmap-images/season-04/10-Apache-Iceberg.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

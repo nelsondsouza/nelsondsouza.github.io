@@ -4,7 +4,7 @@ title: Security Engineer
 season: 5
 roadmap_number: 30
 source_file: "Season 5/30-Security-Engineer.png"
-image: "../../../assets/roadmap-images/season-05/30-Security-Engineer.png"
+image: "../../../assets/roadmap-images/season-05/30-Security-Engineer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Security Engineer
 
-![Security Engineer Roadmap](../../../assets/roadmap-images/season-05/30-Security-Engineer.png)
+![Security Engineer Roadmap](../../../assets/roadmap-images/season-05/30-Security-Engineer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

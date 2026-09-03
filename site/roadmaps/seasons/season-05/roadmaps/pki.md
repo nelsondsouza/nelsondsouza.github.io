@@ -4,7 +4,7 @@ title: PKI
 season: 5
 roadmap_number: 12
 source_file: "Season 5/12-PKI.png"
-image: "../../../assets/roadmap-images/season-05/12-PKI.png"
+image: "../../../assets/roadmap-images/season-05/12-PKI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # PKI
 
-![PKI Roadmap](../../../assets/roadmap-images/season-05/12-PKI.png)
+![PKI Roadmap](../../../assets/roadmap-images/season-05/12-PKI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Shift Left Testing & Quality Engineering
 season: 9
 roadmap_number: 40
 source_file: "Season 9/40-Shift-Left-Testing-&-Quality-Engineering.png"
-image: "../../../assets/roadmap-images/season-09/40-Shift-Left-Testing-&-Quality-Engineering.png"
+image: "../../../assets/roadmap-images/season-09/40-Shift-Left-Testing-&-Quality-Engineering.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Shift Left Testing & Quality Engineering
 
-![Shift Left Testing & Quality Engineering Roadmap](../../../assets/roadmap-images/season-09/40-Shift-Left-Testing-&-Quality-Engineering.png)
+![Shift Left Testing & Quality Engineering Roadmap](../../../assets/roadmap-images/season-09/40-Shift-Left-Testing-&-Quality-Engineering.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

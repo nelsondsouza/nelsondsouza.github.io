@@ -4,7 +4,7 @@ title: Express js
 season: 3
 roadmap_number: 5
 source_file: "Season 3/05-Express-js.png"
-image: "../../../assets/roadmap-images/season-03/05-Express-js.png"
+image: "../../../assets/roadmap-images/season-03/05-Express-js.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Express js
 
-![Express js Roadmap](../../../assets/roadmap-images/season-03/05-Express-js.png)
+![Express js Roadmap](../../../assets/roadmap-images/season-03/05-Express-js.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

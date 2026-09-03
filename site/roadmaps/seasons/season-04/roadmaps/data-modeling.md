@@ -4,7 +4,7 @@ title: Data Modeling
 season: 4
 roadmap_number: 19
 source_file: "Season 4/19-Data-Modeling.png"
-image: "../../../assets/roadmap-images/season-04/19-Data-Modeling.png"
+image: "../../../assets/roadmap-images/season-04/19-Data-Modeling.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Modeling
 
-![Data Modeling Roadmap](../../../assets/roadmap-images/season-04/19-Data-Modeling.png)
+![Data Modeling Roadmap](../../../assets/roadmap-images/season-04/19-Data-Modeling.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

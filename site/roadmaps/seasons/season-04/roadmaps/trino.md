@@ -4,7 +4,7 @@ title: Trino
 season: 4
 roadmap_number: 8
 source_file: "Season 4/08-Trino.png"
-image: "../../../assets/roadmap-images/season-04/08-Trino.png"
+image: "../../../assets/roadmap-images/season-04/08-Trino.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Trino
 
-![Trino Roadmap](../../../assets/roadmap-images/season-04/08-Trino.png)
+![Trino Roadmap](../../../assets/roadmap-images/season-04/08-Trino.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

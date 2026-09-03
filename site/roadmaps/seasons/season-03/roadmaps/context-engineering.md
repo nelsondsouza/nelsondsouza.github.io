@@ -4,7 +4,7 @@ title: Context Engineering
 season: 3
 roadmap_number: 31
 source_file: "Season 3/31-Context-Engineering.png"
-image: "../../../assets/roadmap-images/season-03/31-Context-Engineering.png"
+image: "../../../assets/roadmap-images/season-03/31-Context-Engineering.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Context Engineering
 
-![Context Engineering Roadmap](../../../assets/roadmap-images/season-03/31-Context-Engineering.png)
+![Context Engineering Roadmap](../../../assets/roadmap-images/season-03/31-Context-Engineering.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Project Management Methodologies
 season: 10
 roadmap_number: 3
 source_file: "Season 10/03-Project-Management-Methodologies.png"
-image: "../../../assets/roadmap-images/season-10/03-Project-Management-Methodologies.png"
+image: "../../../assets/roadmap-images/season-10/03-Project-Management-Methodologies.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Management Methodologies
 
-![Project Management Methodologies Roadmap](../../../assets/roadmap-images/season-10/03-Project-Management-Methodologies.png)
+![Project Management Methodologies Roadmap](../../../assets/roadmap-images/season-10/03-Project-Management-Methodologies.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

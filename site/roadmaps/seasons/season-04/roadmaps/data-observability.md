@@ -4,7 +4,7 @@ title: Data Observability
 season: 4
 roadmap_number: 30
 source_file: "Season 4/30-Data-Observability.png"
-image: "../../../assets/roadmap-images/season-04/30-Data-Observability.png"
+image: "../../../assets/roadmap-images/season-04/30-Data-Observability.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Observability
 
-![Data Observability Roadmap](../../../assets/roadmap-images/season-04/30-Data-Observability.png)
+![Data Observability Roadmap](../../../assets/roadmap-images/season-04/30-Data-Observability.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

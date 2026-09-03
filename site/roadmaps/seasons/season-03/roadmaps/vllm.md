@@ -4,7 +4,7 @@ title: vLLM
 season: 3
 roadmap_number: 25
 source_file: "Season 3/25-vLLM.png"
-image: "../../../assets/roadmap-images/season-03/25-vLLM.png"
+image: "../../../assets/roadmap-images/season-03/25-vLLM.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # vLLM
 
-![vLLM Roadmap](../../../assets/roadmap-images/season-03/25-vLLM.png)
+![vLLM Roadmap](../../../assets/roadmap-images/season-03/25-vLLM.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

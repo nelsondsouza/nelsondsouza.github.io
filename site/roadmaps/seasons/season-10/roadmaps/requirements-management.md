@@ -4,7 +4,7 @@ title: Requirements Management
 season: 10
 roadmap_number: 12
 source_file: "Season 10/12-Requirements-Management.png"
-image: "../../../assets/roadmap-images/season-10/12-Requirements-Management.png"
+image: "../../../assets/roadmap-images/season-10/12-Requirements-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Requirements Management
 
-![Requirements Management Roadmap](../../../assets/roadmap-images/season-10/12-Requirements-Management.png)
+![Requirements Management Roadmap](../../../assets/roadmap-images/season-10/12-Requirements-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

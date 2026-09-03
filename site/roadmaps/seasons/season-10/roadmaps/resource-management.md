@@ -4,7 +4,7 @@ title: Resource Management
 season: 10
 roadmap_number: 17
 source_file: "Season 10/17-Resource-Management.png"
-image: "../../../assets/roadmap-images/season-10/17-Resource-Management.png"
+image: "../../../assets/roadmap-images/season-10/17-Resource-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Resource Management
 
-![Resource Management Roadmap](../../../assets/roadmap-images/season-10/17-Resource-Management.png)
+![Resource Management Roadmap](../../../assets/roadmap-images/season-10/17-Resource-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

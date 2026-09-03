@@ -4,7 +4,7 @@ title: Event Sourcing
 season: 6
 roadmap_number: 14
 source_file: "Season 6/14-Event-Sourcing.png"
-image: "../../../assets/roadmap-images/season-06/14-Event-Sourcing.png"
+image: "../../../assets/roadmap-images/season-06/14-Event-Sourcing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Event Sourcing
 
-![Event Sourcing Roadmap](../../../assets/roadmap-images/season-06/14-Event-Sourcing.png)
+![Event Sourcing Roadmap](../../../assets/roadmap-images/season-06/14-Event-Sourcing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

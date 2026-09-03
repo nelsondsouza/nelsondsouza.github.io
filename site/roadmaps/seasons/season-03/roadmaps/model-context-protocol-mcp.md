@@ -3,8 +3,8 @@ id: s03-17-model-context-protocol-mcp
 title: Model Context Protocol (MCP)
 season: 3
 roadmap_number: 17
-source_file: "Season 3/17-Model-Context-Protocol-(MCP).png"
-image: "../../../assets/roadmap-images/season-03/17-Model-Context-Protocol-(MCP).png"
+source_file: "Season 3/17-Model-Context-Protocol-(MCP).webp"
+image: "../../../assets/roadmap-images/season-03/17-Model-Context-Protocol-(MCP).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Model Context Protocol (MCP)
 
-![Model Context Protocol (MCP) Roadmap](../../../assets/roadmap-images/season-03/17-Model-Context-Protocol-(MCP).png)
+![Model Context Protocol (MCP) Roadmap](../../../assets/roadmap-images/season-03/17-Model-Context-Protocol-(MCP).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

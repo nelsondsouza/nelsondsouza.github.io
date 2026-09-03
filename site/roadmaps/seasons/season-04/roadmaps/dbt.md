@@ -4,7 +4,7 @@ title: dbt
 season: 4
 roadmap_number: 7
 source_file: "Season 4/07-dbt.png"
-image: "../../../assets/roadmap-images/season-04/07-dbt.png"
+image: "../../../assets/roadmap-images/season-04/07-dbt.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # dbt
 
-![dbt Roadmap](../../../assets/roadmap-images/season-04/07-dbt.png)
+![dbt Roadmap](../../../assets/roadmap-images/season-04/07-dbt.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

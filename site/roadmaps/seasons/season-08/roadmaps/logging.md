@@ -4,7 +4,7 @@ title: Logging
 season: 8
 roadmap_number: 21
 source_file: "Season 8/21-Logging.png"
-image: "../../../assets/roadmap-images/season-08/21-Logging.png"
+image: "../../../assets/roadmap-images/season-08/21-Logging.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Logging
 
-![Logging Roadmap](../../../assets/roadmap-images/season-08/21-Logging.png)
+![Logging Roadmap](../../../assets/roadmap-images/season-08/21-Logging.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

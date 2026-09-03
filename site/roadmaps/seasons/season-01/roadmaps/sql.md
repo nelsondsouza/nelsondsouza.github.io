@@ -4,7 +4,7 @@ title: SQL
 season: 1
 roadmap_number: 2
 source_file: "Season 1/02-SQL.png"
-image: "../../../assets/roadmap-images/season-01/02-SQL.png"
+image: "../../../assets/roadmap-images/season-01/02-SQL.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # SQL
 
-![SQL Roadmap](../../../assets/roadmap-images/season-01/02-SQL.png)
+![SQL Roadmap](../../../assets/roadmap-images/season-01/02-SQL.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

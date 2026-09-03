@@ -4,7 +4,7 @@ title: Twelve Factor App
 season: 6
 roadmap_number: 35
 source_file: "Season 6/35-Twelve-Factor-App.png"
-image: "../../../assets/roadmap-images/season-06/35-Twelve-Factor-App.png"
+image: "../../../assets/roadmap-images/season-06/35-Twelve-Factor-App.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Twelve Factor App
 
-![Twelve Factor App Roadmap](../../../assets/roadmap-images/season-06/35-Twelve-Factor-App.png)
+![Twelve Factor App Roadmap](../../../assets/roadmap-images/season-06/35-Twelve-Factor-App.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

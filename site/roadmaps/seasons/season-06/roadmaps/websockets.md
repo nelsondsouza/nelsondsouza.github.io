@@ -4,7 +4,7 @@ title: WebSockets
 season: 6
 roadmap_number: 11
 source_file: "Season 6/11-WebSockets.png"
-image: "../../../assets/roadmap-images/season-06/11-WebSockets.png"
+image: "../../../assets/roadmap-images/season-06/11-WebSockets.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # WebSockets
 
-![WebSockets Roadmap](../../../assets/roadmap-images/season-06/11-WebSockets.png)
+![WebSockets Roadmap](../../../assets/roadmap-images/season-06/11-WebSockets.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

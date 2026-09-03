@@ -4,7 +4,7 @@ title: Error Handling
 season: 8
 roadmap_number: 22
 source_file: "Season 8/22-Error-Handling.png"
-image: "../../../assets/roadmap-images/season-08/22-Error-Handling.png"
+image: "../../../assets/roadmap-images/season-08/22-Error-Handling.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Error Handling
 
-![Error Handling Roadmap](../../../assets/roadmap-images/season-08/22-Error-Handling.png)
+![Error Handling Roadmap](../../../assets/roadmap-images/season-08/22-Error-Handling.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

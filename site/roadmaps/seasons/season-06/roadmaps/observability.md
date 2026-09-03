@@ -4,7 +4,7 @@ title: Observability
 season: 6
 roadmap_number: 25
 source_file: "Season 6/25-Observability.png"
-image: "../../../assets/roadmap-images/season-06/25-Observability.png"
+image: "../../../assets/roadmap-images/season-06/25-Observability.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Observability
 
-![Observability Roadmap](../../../assets/roadmap-images/season-06/25-Observability.png)
+![Observability Roadmap](../../../assets/roadmap-images/season-06/25-Observability.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

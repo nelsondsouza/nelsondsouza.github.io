@@ -4,7 +4,7 @@ title: Encryption
 season: 5
 roadmap_number: 11
 source_file: "Season 5/11-Encryption.png"
-image: "../../../assets/roadmap-images/season-05/11-Encryption.png"
+image: "../../../assets/roadmap-images/season-05/11-Encryption.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Encryption
 
-![Encryption Roadmap](../../../assets/roadmap-images/season-05/11-Encryption.png)
+![Encryption Roadmap](../../../assets/roadmap-images/season-05/11-Encryption.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

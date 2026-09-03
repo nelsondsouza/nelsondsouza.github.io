@@ -4,7 +4,7 @@ title: Grafana
 season: 2
 roadmap_number: 15
 source_file: "Season 2/15-Grafana.png"
-image: "../../../assets/roadmap-images/season-02/15-Grafana.png"
+image: "../../../assets/roadmap-images/season-02/15-Grafana.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Grafana
 
-![Grafana Roadmap](../../../assets/roadmap-images/season-02/15-Grafana.png)
+![Grafana Roadmap](../../../assets/roadmap-images/season-02/15-Grafana.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

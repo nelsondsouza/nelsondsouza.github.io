@@ -4,7 +4,7 @@ title: Stream Processing
 season: 4
 roadmap_number: 25
 source_file: "Season 4/25-Stream-Processing.png"
-image: "../../../assets/roadmap-images/season-04/25-Stream-Processing.png"
+image: "../../../assets/roadmap-images/season-04/25-Stream-Processing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Stream Processing
 
-![Stream Processing Roadmap](../../../assets/roadmap-images/season-04/25-Stream-Processing.png)
+![Stream Processing Roadmap](../../../assets/roadmap-images/season-04/25-Stream-Processing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

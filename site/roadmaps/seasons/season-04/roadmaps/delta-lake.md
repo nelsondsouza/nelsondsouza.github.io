@@ -4,7 +4,7 @@ title: Delta Lake
 season: 4
 roadmap_number: 11
 source_file: "Season 4/11-Delta-Lake.png"
-image: "../../../assets/roadmap-images/season-04/11-Delta-Lake.png"
+image: "../../../assets/roadmap-images/season-04/11-Delta-Lake.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Delta Lake
 
-![Delta Lake Roadmap](../../../assets/roadmap-images/season-04/11-Delta-Lake.png)
+![Delta Lake Roadmap](../../../assets/roadmap-images/season-04/11-Delta-Lake.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

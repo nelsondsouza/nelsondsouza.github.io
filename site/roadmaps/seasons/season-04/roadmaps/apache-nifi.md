@@ -4,7 +4,7 @@ title: Apache NiFi
 season: 4
 roadmap_number: 6
 source_file: "Season 4/06-Apache-NiFi.png"
-image: "../../../assets/roadmap-images/season-04/06-Apache-NiFi.png"
+image: "../../../assets/roadmap-images/season-04/06-Apache-NiFi.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache NiFi
 
-![Apache NiFi Roadmap](../../../assets/roadmap-images/season-04/06-Apache-NiFi.png)
+![Apache NiFi Roadmap](../../../assets/roadmap-images/season-04/06-Apache-NiFi.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

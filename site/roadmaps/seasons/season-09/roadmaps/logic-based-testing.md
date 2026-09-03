@@ -4,7 +4,7 @@ title: Logic Based Testing
 season: 9
 roadmap_number: 25
 source_file: "Season 9/25-Logic-Based-Testing.png"
-image: "../../../assets/roadmap-images/season-09/25-Logic-Based-Testing.png"
+image: "../../../assets/roadmap-images/season-09/25-Logic-Based-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Logic Based Testing
 
-![Logic Based Testing Roadmap](../../../assets/roadmap-images/season-09/25-Logic-Based-Testing.png)
+![Logic Based Testing Roadmap](../../../assets/roadmap-images/season-09/25-Logic-Based-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

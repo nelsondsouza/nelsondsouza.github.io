@@ -4,7 +4,7 @@ title: Next js
 season: 3
 roadmap_number: 10
 source_file: "Season 3/10-Next-js.png"
-image: "../../../assets/roadmap-images/season-03/10-Next-js.png"
+image: "../../../assets/roadmap-images/season-03/10-Next-js.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Next js
 
-![Next js Roadmap](../../../assets/roadmap-images/season-03/10-Next-js.png)
+![Next js Roadmap](../../../assets/roadmap-images/season-03/10-Next-js.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

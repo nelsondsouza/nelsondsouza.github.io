@@ -4,7 +4,7 @@ title: Project Charter
 season: 10
 roadmap_number: 9
 source_file: "Season 10/09-Project-Charter.png"
-image: "../../../assets/roadmap-images/season-10/09-Project-Charter.png"
+image: "../../../assets/roadmap-images/season-10/09-Project-Charter.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Charter
 
-![Project Charter Roadmap](../../../assets/roadmap-images/season-10/09-Project-Charter.png)
+![Project Charter Roadmap](../../../assets/roadmap-images/season-10/09-Project-Charter.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

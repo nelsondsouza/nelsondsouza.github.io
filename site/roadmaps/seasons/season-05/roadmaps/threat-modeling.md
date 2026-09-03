@@ -4,7 +4,7 @@ title: Threat Modeling
 season: 5
 roadmap_number: 24
 source_file: "Season 5/24-Threat-Modeling.png"
-image: "../../../assets/roadmap-images/season-05/24-Threat-Modeling.png"
+image: "../../../assets/roadmap-images/season-05/24-Threat-Modeling.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Threat Modeling
 
-![Threat Modeling Roadmap](../../../assets/roadmap-images/season-05/24-Threat-Modeling.png)
+![Threat Modeling Roadmap](../../../assets/roadmap-images/season-05/24-Threat-Modeling.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

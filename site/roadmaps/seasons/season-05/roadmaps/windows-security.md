@@ -4,7 +4,7 @@ title: Windows Security
 season: 5
 roadmap_number: 6
 source_file: "Season 5/06-Windows-Security.png"
-image: "../../../assets/roadmap-images/season-05/06-Windows-Security.png"
+image: "../../../assets/roadmap-images/season-05/06-Windows-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Windows Security
 
-![Windows Security Roadmap](../../../assets/roadmap-images/season-05/06-Windows-Security.png)
+![Windows Security Roadmap](../../../assets/roadmap-images/season-05/06-Windows-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

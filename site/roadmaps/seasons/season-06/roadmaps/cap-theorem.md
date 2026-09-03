@@ -4,7 +4,7 @@ title: CAP Theorem
 season: 6
 roadmap_number: 18
 source_file: "Season 6/18-CAP-Theorem.png"
-image: "../../../assets/roadmap-images/season-06/18-CAP-Theorem.png"
+image: "../../../assets/roadmap-images/season-06/18-CAP-Theorem.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # CAP Theorem
 
-![CAP Theorem Roadmap](../../../assets/roadmap-images/season-06/18-CAP-Theorem.png)
+![CAP Theorem Roadmap](../../../assets/roadmap-images/season-06/18-CAP-Theorem.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

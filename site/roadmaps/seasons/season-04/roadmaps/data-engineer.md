@@ -4,7 +4,7 @@ title: Data Engineer
 season: 4
 roadmap_number: 31
 source_file: "Season 4/31-Data-Engineer.png"
-image: "../../../assets/roadmap-images/season-04/31-Data-Engineer.png"
+image: "../../../assets/roadmap-images/season-04/31-Data-Engineer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Engineer
 
-![Data Engineer Roadmap](../../../assets/roadmap-images/season-04/31-Data-Engineer.png)
+![Data Engineer Roadmap](../../../assets/roadmap-images/season-04/31-Data-Engineer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

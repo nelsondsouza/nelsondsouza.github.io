@@ -4,7 +4,7 @@ title: OAuth2
 season: 5
 roadmap_number: 8
 source_file: "Season 5/08-OAuth2.png"
-image: "../../../assets/roadmap-images/season-05/08-OAuth2.png"
+image: "../../../assets/roadmap-images/season-05/08-OAuth2.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # OAuth2
 
-![OAuth2 Roadmap](../../../assets/roadmap-images/season-05/08-OAuth2.png)
+![OAuth2 Roadmap](../../../assets/roadmap-images/season-05/08-OAuth2.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

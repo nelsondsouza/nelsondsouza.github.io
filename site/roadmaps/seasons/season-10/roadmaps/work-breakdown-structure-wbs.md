@@ -3,8 +3,8 @@ id: s10-13-work-breakdown-structure-wbs
 title: Work Breakdown Structure (WBS)
 season: 10
 roadmap_number: 13
-source_file: "Season 10/13-Work-Breakdown-Structure-(WBS).png"
-image: "../../../assets/roadmap-images/season-10/13-Work-Breakdown-Structure-(WBS).png"
+source_file: "Season 10/13-Work-Breakdown-Structure-(WBS).webp"
+image: "../../../assets/roadmap-images/season-10/13-Work-Breakdown-Structure-(WBS).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Work Breakdown Structure (WBS)
 
-![Work Breakdown Structure (WBS) Roadmap](../../../assets/roadmap-images/season-10/13-Work-Breakdown-Structure-(WBS).png)
+![Work Breakdown Structure (WBS) Roadmap](../../../assets/roadmap-images/season-10/13-Work-Breakdown-Structure-(WBS).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Node js
 season: 3
 roadmap_number: 4
 source_file: "Season 3/04-Node-js.png"
-image: "../../../assets/roadmap-images/season-03/04-Node-js.png"
+image: "../../../assets/roadmap-images/season-03/04-Node-js.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Node js
 
-![Node js Roadmap](../../../assets/roadmap-images/season-03/04-Node-js.png)
+![Node js Roadmap](../../../assets/roadmap-images/season-03/04-Node-js.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

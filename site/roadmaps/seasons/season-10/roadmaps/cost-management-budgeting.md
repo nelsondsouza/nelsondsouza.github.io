@@ -4,7 +4,7 @@ title: Cost Management & Budgeting
 season: 10
 roadmap_number: 16
 source_file: "Season 10/16-Cost-Management-&-Budgeting.png"
-image: "../../../assets/roadmap-images/season-10/16-Cost-Management-&-Budgeting.png"
+image: "../../../assets/roadmap-images/season-10/16-Cost-Management-&-Budgeting.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Cost Management & Budgeting
 
-![Cost Management & Budgeting Roadmap](../../../assets/roadmap-images/season-10/16-Cost-Management-&-Budgeting.png)
+![Cost Management & Budgeting Roadmap](../../../assets/roadmap-images/season-10/16-Cost-Management-&-Budgeting.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

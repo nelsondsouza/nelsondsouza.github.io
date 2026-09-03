@@ -4,7 +4,7 @@ title: Caching Strategies
 season: 6
 roadmap_number: 21
 source_file: "Season 6/21-Caching-Strategies.png"
-image: "../../../assets/roadmap-images/season-06/21-Caching-Strategies.png"
+image: "../../../assets/roadmap-images/season-06/21-Caching-Strategies.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Caching Strategies
 
-![Caching Strategies Roadmap](../../../assets/roadmap-images/season-06/21-Caching-Strategies.png)
+![Caching Strategies Roadmap](../../../assets/roadmap-images/season-06/21-Caching-Strategies.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

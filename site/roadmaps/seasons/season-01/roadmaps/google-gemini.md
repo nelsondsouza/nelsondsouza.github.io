@@ -4,7 +4,7 @@ title: Google Gemini
 season: 1
 roadmap_number: 24
 source_file: "Season 1/24-Google-Gemini.png"
-image: "../../../assets/roadmap-images/season-01/24-Google-Gemini.png"
+image: "../../../assets/roadmap-images/season-01/24-Google-Gemini.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Google Gemini
 
-![Google Gemini Roadmap](../../../assets/roadmap-images/season-01/24-Google-Gemini.png)
+![Google Gemini Roadmap](../../../assets/roadmap-images/season-01/24-Google-Gemini.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

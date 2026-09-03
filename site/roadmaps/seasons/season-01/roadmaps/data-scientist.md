@@ -4,7 +4,7 @@ title: Data Scientist
 season: 1
 roadmap_number: 18
 source_file: "Season 1/18-Data-Scientist.png"
-image: "../../../assets/roadmap-images/season-01/18-Data-Scientist.png"
+image: "../../../assets/roadmap-images/season-01/18-Data-Scientist.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Scientist
 
-![Data Scientist Roadmap](../../../assets/roadmap-images/season-01/18-Data-Scientist.png)
+![Data Scientist Roadmap](../../../assets/roadmap-images/season-01/18-Data-Scientist.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

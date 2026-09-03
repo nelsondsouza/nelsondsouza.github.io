@@ -4,7 +4,7 @@ title: Distributed Transactions
 season: 6
 roadmap_number: 17
 source_file: "Season 6/17-Distributed-Transactions.png"
-image: "../../../assets/roadmap-images/season-06/17-Distributed-Transactions.png"
+image: "../../../assets/roadmap-images/season-06/17-Distributed-Transactions.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Distributed Transactions
 
-![Distributed Transactions Roadmap](../../../assets/roadmap-images/season-06/17-Distributed-Transactions.png)
+![Distributed Transactions Roadmap](../../../assets/roadmap-images/season-06/17-Distributed-Transactions.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

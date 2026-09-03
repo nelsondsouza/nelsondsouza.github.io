@@ -4,7 +4,7 @@ title: Fullstack Developer
 season: 1
 roadmap_number: 11
 source_file: "Season 1/11-Fullstack-Developer.png"
-image: "../../../assets/roadmap-images/season-01/11-Fullstack-Developer.png"
+image: "../../../assets/roadmap-images/season-01/11-Fullstack-Developer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Fullstack Developer
 
-![Fullstack Developer Roadmap](../../../assets/roadmap-images/season-01/11-Fullstack-Developer.png)
+![Fullstack Developer Roadmap](../../../assets/roadmap-images/season-01/11-Fullstack-Developer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

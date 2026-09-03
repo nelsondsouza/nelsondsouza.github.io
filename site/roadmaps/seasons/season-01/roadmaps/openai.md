@@ -4,7 +4,7 @@ title: OpenAI
 season: 1
 roadmap_number: 22
 source_file: "Season 1/22-OpenAI.png"
-image: "../../../assets/roadmap-images/season-01/22-OpenAI.png"
+image: "../../../assets/roadmap-images/season-01/22-OpenAI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # OpenAI
 
-![OpenAI Roadmap](../../../assets/roadmap-images/season-01/22-OpenAI.png)
+![OpenAI Roadmap](../../../assets/roadmap-images/season-01/22-OpenAI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Regression Testing
 season: 9
 roadmap_number: 12
 source_file: "Season 9/12-Regression-Testing.png"
-image: "../../../assets/roadmap-images/season-09/12-Regression-Testing.png"
+image: "../../../assets/roadmap-images/season-09/12-Regression-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Regression Testing
 
-![Regression Testing Roadmap](../../../assets/roadmap-images/season-09/12-Regression-Testing.png)
+![Regression Testing Roadmap](../../../assets/roadmap-images/season-09/12-Regression-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

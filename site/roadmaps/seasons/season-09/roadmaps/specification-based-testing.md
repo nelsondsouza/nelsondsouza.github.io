@@ -4,7 +4,7 @@ title: Specification Based Testing
 season: 9
 roadmap_number: 27
 source_file: "Season 9/27-Specification-Based-Testing.png"
-image: "../../../assets/roadmap-images/season-09/27-Specification-Based-Testing.png"
+image: "../../../assets/roadmap-images/season-09/27-Specification-Based-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Specification Based Testing
 
-![Specification Based Testing Roadmap](../../../assets/roadmap-images/season-09/27-Specification-Based-Testing.png)
+![Specification Based Testing Roadmap](../../../assets/roadmap-images/season-09/27-Specification-Based-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Flutter
 season: 3
 roadmap_number: 13
 source_file: "Season 3/13-Flutter.png"
-image: "../../../assets/roadmap-images/season-03/13-Flutter.png"
+image: "../../../assets/roadmap-images/season-03/13-Flutter.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Flutter
 
-![Flutter Roadmap](../../../assets/roadmap-images/season-03/13-Flutter.png)
+![Flutter Roadmap](../../../assets/roadmap-images/season-03/13-Flutter.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

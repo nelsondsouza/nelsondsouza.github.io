@@ -4,7 +4,7 @@ title: Django
 season: 3
 roadmap_number: 6
 source_file: "Season 3/06-Django.png"
-image: "../../../assets/roadmap-images/season-03/06-Django.png"
+image: "../../../assets/roadmap-images/season-03/06-Django.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Django
 
-![Django Roadmap](../../../assets/roadmap-images/season-03/06-Django.png)
+![Django Roadmap](../../../assets/roadmap-images/season-03/06-Django.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

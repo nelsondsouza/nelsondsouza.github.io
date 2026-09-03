@@ -4,7 +4,7 @@ title: Vector Databases
 season: 3
 roadmap_number: 18
 source_file: "Season 3/18-Vector-Databases.png"
-image: "../../../assets/roadmap-images/season-03/18-Vector-Databases.png"
+image: "../../../assets/roadmap-images/season-03/18-Vector-Databases.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Vector Databases
 
-![Vector Databases Roadmap](../../../assets/roadmap-images/season-03/18-Vector-Databases.png)
+![Vector Databases Roadmap](../../../assets/roadmap-images/season-03/18-Vector-Databases.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

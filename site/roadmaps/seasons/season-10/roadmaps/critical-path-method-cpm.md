@@ -3,8 +3,8 @@ id: s10-15-critical-path-method-cpm
 title: Critical Path Method (CPM)
 season: 10
 roadmap_number: 15
-source_file: "Season 10/15-Critical-Path-Method-(CPM).png"
-image: "../../../assets/roadmap-images/season-10/15-Critical-Path-Method-(CPM).png"
+source_file: "Season 10/15-Critical-Path-Method-(CPM).webp"
+image: "../../../assets/roadmap-images/season-10/15-Critical-Path-Method-(CPM).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Critical Path Method (CPM)
 
-![Critical Path Method (CPM) Roadmap](../../../assets/roadmap-images/season-10/15-Critical-Path-Method-(CPM).png)
+![Critical Path Method (CPM) Roadmap](../../../assets/roadmap-images/season-10/15-Critical-Path-Method-(CPM).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Technical Debt
 season: 8
 roadmap_number: 24
 source_file: "Season 8/24-Technical-Debt.png"
-image: "../../../assets/roadmap-images/season-08/24-Technical-Debt.png"
+image: "../../../assets/roadmap-images/season-08/24-Technical-Debt.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Technical Debt
 
-![Technical Debt Roadmap](../../../assets/roadmap-images/season-08/24-Technical-Debt.png)
+![Technical Debt Roadmap](../../../assets/roadmap-images/season-08/24-Technical-Debt.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

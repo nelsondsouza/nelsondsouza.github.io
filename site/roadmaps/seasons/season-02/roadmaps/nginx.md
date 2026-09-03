@@ -4,7 +4,7 @@ title: Nginx
 season: 2
 roadmap_number: 16
 source_file: "Season 2/16-Nginx.png"
-image: "../../../assets/roadmap-images/season-02/16-Nginx.png"
+image: "../../../assets/roadmap-images/season-02/16-Nginx.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Nginx
 
-![Nginx Roadmap](../../../assets/roadmap-images/season-02/16-Nginx.png)
+![Nginx Roadmap](../../../assets/roadmap-images/season-02/16-Nginx.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

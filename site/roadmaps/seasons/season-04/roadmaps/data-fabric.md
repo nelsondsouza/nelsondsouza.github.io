@@ -4,7 +4,7 @@ title: Data Fabric
 season: 4
 roadmap_number: 29
 source_file: "Season 4/29-Data-Fabric.png"
-image: "../../../assets/roadmap-images/season-04/29-Data-Fabric.png"
+image: "../../../assets/roadmap-images/season-04/29-Data-Fabric.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Fabric
 
-![Data Fabric Roadmap](../../../assets/roadmap-images/season-04/29-Data-Fabric.png)
+![Data Fabric Roadmap](../../../assets/roadmap-images/season-04/29-Data-Fabric.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

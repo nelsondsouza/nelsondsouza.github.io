@@ -4,7 +4,7 @@ title: AI Infrastructure
 season: 7
 roadmap_number: 1
 source_file: "Season 7/01-AI-Infrastructure.png"
-image: "../../../assets/roadmap-images/season-07/01-AI-Infrastructure.png"
+image: "../../../assets/roadmap-images/season-07/01-AI-Infrastructure.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Infrastructure
 
-![AI Infrastructure Roadmap](../../../assets/roadmap-images/season-07/01-AI-Infrastructure.png)
+![AI Infrastructure Roadmap](../../../assets/roadmap-images/season-07/01-AI-Infrastructure.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

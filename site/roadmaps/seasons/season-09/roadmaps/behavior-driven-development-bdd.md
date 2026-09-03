@@ -3,8 +3,8 @@ id: s09-39-behavior-driven-development-bdd
 title: Behavior Driven Development (BDD)
 season: 9
 roadmap_number: 39
-source_file: "Season 9/39-Behavior-Driven-Development-(BDD).png"
-image: "../../../assets/roadmap-images/season-09/39-Behavior-Driven-Development-(BDD).png"
+source_file: "Season 9/39-Behavior-Driven-Development-(BDD).webp"
+image: "../../../assets/roadmap-images/season-09/39-Behavior-Driven-Development-(BDD).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Behavior Driven Development (BDD)
 
-![Behavior Driven Development (BDD) Roadmap](../../../assets/roadmap-images/season-09/39-Behavior-Driven-Development-(BDD).png)
+![Behavior Driven Development (BDD) Roadmap](../../../assets/roadmap-images/season-09/39-Behavior-Driven-Development-(BDD).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

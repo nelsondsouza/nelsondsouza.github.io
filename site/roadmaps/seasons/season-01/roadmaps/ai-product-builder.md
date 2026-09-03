@@ -4,7 +4,7 @@ title: AI Product Builder
 season: 1
 roadmap_number: 14
 source_file: "Season 1/14-AI-Product-Builder.png"
-image: "../../../assets/roadmap-images/season-01/14-AI-Product-Builder.png"
+image: "../../../assets/roadmap-images/season-01/14-AI-Product-Builder.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Product Builder
 
-![AI Product Builder Roadmap](../../../assets/roadmap-images/season-01/14-AI-Product-Builder.png)
+![AI Product Builder Roadmap](../../../assets/roadmap-images/season-01/14-AI-Product-Builder.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Computer Vision
 season: 7
 roadmap_number: 26
 source_file: "Season 7/26-Computer-Vision.png"
-image: "../../../assets/roadmap-images/season-07/26-Computer-Vision.png"
+image: "../../../assets/roadmap-images/season-07/26-Computer-Vision.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Computer Vision
 
-![Computer Vision Roadmap](../../../assets/roadmap-images/season-07/26-Computer-Vision.png)
+![Computer Vision Roadmap](../../../assets/roadmap-images/season-07/26-Computer-Vision.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

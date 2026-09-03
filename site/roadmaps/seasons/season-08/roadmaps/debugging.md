@@ -4,7 +4,7 @@ title: Debugging
 season: 8
 roadmap_number: 20
 source_file: "Season 8/20-Debugging.png"
-image: "../../../assets/roadmap-images/season-08/20-Debugging.png"
+image: "../../../assets/roadmap-images/season-08/20-Debugging.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Debugging
 
-![Debugging Roadmap](../../../assets/roadmap-images/season-08/20-Debugging.png)
+![Debugging Roadmap](../../../assets/roadmap-images/season-08/20-Debugging.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

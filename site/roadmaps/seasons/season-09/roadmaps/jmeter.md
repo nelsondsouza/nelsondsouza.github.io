@@ -4,7 +4,7 @@ title: JMeter
 season: 9
 roadmap_number: 35
 source_file: "Season 9/35-JMeter.png"
-image: "../../../assets/roadmap-images/season-09/35-JMeter.png"
+image: "../../../assets/roadmap-images/season-09/35-JMeter.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # JMeter
 
-![JMeter Roadmap](../../../assets/roadmap-images/season-09/35-JMeter.png)
+![JMeter Roadmap](../../../assets/roadmap-images/season-09/35-JMeter.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

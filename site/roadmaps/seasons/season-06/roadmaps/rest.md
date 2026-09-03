@@ -4,7 +4,7 @@ title: REST
 season: 6
 roadmap_number: 8
 source_file: "Season 6/08-REST.png"
-image: "../../../assets/roadmap-images/season-06/08-REST.png"
+image: "../../../assets/roadmap-images/season-06/08-REST.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # REST
 
-![REST Roadmap](../../../assets/roadmap-images/season-06/08-REST.png)
+![REST Roadmap](../../../assets/roadmap-images/season-06/08-REST.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

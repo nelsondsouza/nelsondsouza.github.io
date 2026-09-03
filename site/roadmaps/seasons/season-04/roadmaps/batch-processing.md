@@ -4,7 +4,7 @@ title: Batch Processing
 season: 4
 roadmap_number: 26
 source_file: "Season 4/26-Batch-Processing.png"
-image: "../../../assets/roadmap-images/season-04/26-Batch-Processing.png"
+image: "../../../assets/roadmap-images/season-04/26-Batch-Processing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Batch Processing
 
-![Batch Processing Roadmap](../../../assets/roadmap-images/season-04/26-Batch-Processing.png)
+![Batch Processing Roadmap](../../../assets/roadmap-images/season-04/26-Batch-Processing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

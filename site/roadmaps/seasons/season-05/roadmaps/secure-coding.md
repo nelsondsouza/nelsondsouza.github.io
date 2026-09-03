@@ -4,7 +4,7 @@ title: Secure Coding
 season: 5
 roadmap_number: 14
 source_file: "Season 5/14-Secure-Coding.png"
-image: "../../../assets/roadmap-images/season-05/14-Secure-Coding.png"
+image: "../../../assets/roadmap-images/season-05/14-Secure-Coding.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Secure Coding
 
-![Secure Coding Roadmap](../../../assets/roadmap-images/season-05/14-Secure-Coding.png)
+![Secure Coding Roadmap](../../../assets/roadmap-images/season-05/14-Secure-Coding.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

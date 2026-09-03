@@ -4,7 +4,7 @@ title: AI Governance Officer
 season: 1
 roadmap_number: 15
 source_file: "Season 1/15-AI-Governance-Officer.png"
-image: "../../../assets/roadmap-images/season-01/15-AI-Governance-Officer.png"
+image: "../../../assets/roadmap-images/season-01/15-AI-Governance-Officer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Governance Officer
 
-![AI Governance Officer Roadmap](../../../assets/roadmap-images/season-01/15-AI-Governance-Officer.png)
+![AI Governance Officer Roadmap](../../../assets/roadmap-images/season-01/15-AI-Governance-Officer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

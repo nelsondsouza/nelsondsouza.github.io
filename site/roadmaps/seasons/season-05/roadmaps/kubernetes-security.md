@@ -4,7 +4,7 @@ title: Kubernetes Security
 season: 5
 roadmap_number: 19
 source_file: "Season 5/19-Kubernetes-Security.png"
-image: "../../../assets/roadmap-images/season-05/19-Kubernetes-Security.png"
+image: "../../../assets/roadmap-images/season-05/19-Kubernetes-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Kubernetes Security
 
-![Kubernetes Security Roadmap](../../../assets/roadmap-images/season-05/19-Kubernetes-Security.png)
+![Kubernetes Security Roadmap](../../../assets/roadmap-images/season-05/19-Kubernetes-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

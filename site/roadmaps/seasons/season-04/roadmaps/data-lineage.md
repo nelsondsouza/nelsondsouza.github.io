@@ -4,7 +4,7 @@ title: Data Lineage
 season: 4
 roadmap_number: 22
 source_file: "Season 4/22-Data-Lineage.png"
-image: "../../../assets/roadmap-images/season-04/22-Data-Lineage.png"
+image: "../../../assets/roadmap-images/season-04/22-Data-Lineage.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Lineage
 
-![Data Lineage Roadmap](../../../assets/roadmap-images/season-04/22-Data-Lineage.png)
+![Data Lineage Roadmap](../../../assets/roadmap-images/season-04/22-Data-Lineage.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Contract Testing
 season: 9
 roadmap_number: 9
 source_file: "Season 9/09-Contract-Testing.png"
-image: "../../../assets/roadmap-images/season-09/09-Contract-Testing.png"
+image: "../../../assets/roadmap-images/season-09/09-Contract-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Contract Testing
 
-![Contract Testing Roadmap](../../../assets/roadmap-images/season-09/09-Contract-Testing.png)
+![Contract Testing Roadmap](../../../assets/roadmap-images/season-09/09-Contract-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

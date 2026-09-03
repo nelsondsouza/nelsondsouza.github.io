@@ -4,7 +4,7 @@ title: AI Cost Optimization
 season: 7
 roadmap_number: 29
 source_file: "Season 7/29-AI-Cost-Optimization.png"
-image: "../../../assets/roadmap-images/season-07/29-AI-Cost-Optimization.png"
+image: "../../../assets/roadmap-images/season-07/29-AI-Cost-Optimization.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Cost Optimization
 
-![AI Cost Optimization Roadmap](../../../assets/roadmap-images/season-07/29-AI-Cost-Optimization.png)
+![AI Cost Optimization Roadmap](../../../assets/roadmap-images/season-07/29-AI-Cost-Optimization.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: CI_CD for Developers
 season: 8
 roadmap_number: 25
 source_file: "Season 8/25-CI_CD-for-Developers.png"
-image: "../../../assets/roadmap-images/season-08/25-CI_CD-for-Developers.png"
+image: "../../../assets/roadmap-images/season-08/25-CI_CD-for-Developers.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # CI_CD for Developers
 
-![CI_CD for Developers Roadmap](../../../assets/roadmap-images/season-08/25-CI_CD-for-Developers.png)
+![CI_CD for Developers Roadmap](../../../assets/roadmap-images/season-08/25-CI_CD-for-Developers.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

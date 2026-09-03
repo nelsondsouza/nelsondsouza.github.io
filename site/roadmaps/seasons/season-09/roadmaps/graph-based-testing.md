@@ -4,7 +4,7 @@ title: Graph Based Testing
 season: 9
 roadmap_number: 24
 source_file: "Season 9/24-Graph-Based-Testing.png"
-image: "../../../assets/roadmap-images/season-09/24-Graph-Based-Testing.png"
+image: "../../../assets/roadmap-images/season-09/24-Graph-Based-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Graph Based Testing
 
-![Graph Based Testing Roadmap](../../../assets/roadmap-images/season-09/24-Graph-Based-Testing.png)
+![Graph Based Testing Roadmap](../../../assets/roadmap-images/season-09/24-Graph-Based-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

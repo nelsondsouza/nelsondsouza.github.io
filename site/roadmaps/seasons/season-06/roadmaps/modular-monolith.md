@@ -4,7 +4,7 @@ title: Modular Monolith
 season: 6
 roadmap_number: 6
 source_file: "Season 6/06-Modular-Monolith.png"
-image: "../../../assets/roadmap-images/season-06/06-Modular-Monolith.png"
+image: "../../../assets/roadmap-images/season-06/06-Modular-Monolith.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Modular Monolith
 
-![Modular Monolith Roadmap](../../../assets/roadmap-images/season-06/06-Modular-Monolith.png)
+![Modular Monolith Roadmap](../../../assets/roadmap-images/season-06/06-Modular-Monolith.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

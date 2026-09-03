@@ -4,7 +4,7 @@ title: Cloud Security
 season: 5
 roadmap_number: 17
 source_file: "Season 5/17-Cloud-Security.png"
-image: "../../../assets/roadmap-images/season-05/17-Cloud-Security.png"
+image: "../../../assets/roadmap-images/season-05/17-Cloud-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Cloud Security
 
-![Cloud Security Roadmap](../../../assets/roadmap-images/season-05/17-Cloud-Security.png)
+![Cloud Security Roadmap](../../../assets/roadmap-images/season-05/17-Cloud-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

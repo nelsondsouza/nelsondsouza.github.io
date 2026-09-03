@@ -4,7 +4,7 @@ title: Cybersecurity Analyst
 season: 5
 roadmap_number: 29
 source_file: "Season 5/29-Cybersecurity-Analyst.png"
-image: "../../../assets/roadmap-images/season-05/29-Cybersecurity-Analyst.png"
+image: "../../../assets/roadmap-images/season-05/29-Cybersecurity-Analyst.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Cybersecurity Analyst
 
-![Cybersecurity Analyst Roadmap](../../../assets/roadmap-images/season-05/29-Cybersecurity-Analyst.png)
+![Cybersecurity Analyst Roadmap](../../../assets/roadmap-images/season-05/29-Cybersecurity-Analyst.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

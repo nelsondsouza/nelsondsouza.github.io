@@ -4,7 +4,7 @@ title: Prometheus
 season: 2
 roadmap_number: 14
 source_file: "Season 2/14-Prometheus.png"
-image: "../../../assets/roadmap-images/season-02/14-Prometheus.png"
+image: "../../../assets/roadmap-images/season-02/14-Prometheus.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Prometheus
 
-![Prometheus Roadmap](../../../assets/roadmap-images/season-02/14-Prometheus.png)
+![Prometheus Roadmap](../../../assets/roadmap-images/season-02/14-Prometheus.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Software Maintenance
 season: 8
 roadmap_number: 26
 source_file: "Season 8/26-Software-Maintenance.png"
-image: "../../../assets/roadmap-images/season-08/26-Software-Maintenance.png"
+image: "../../../assets/roadmap-images/season-08/26-Software-Maintenance.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Maintenance
 
-![Software Maintenance Roadmap](../../../assets/roadmap-images/season-08/26-Software-Maintenance.png)
+![Software Maintenance Roadmap](../../../assets/roadmap-images/season-08/26-Software-Maintenance.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Agile Project Management
 season: 10
 roadmap_number: 5
 source_file: "Season 10/05-Agile-Project-Management.png"
-image: "../../../assets/roadmap-images/season-10/05-Agile-Project-Management.png"
+image: "../../../assets/roadmap-images/season-10/05-Agile-Project-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Agile Project Management
 
-![Agile Project Management Roadmap](../../../assets/roadmap-images/season-10/05-Agile-Project-Management.png)
+![Agile Project Management Roadmap](../../../assets/roadmap-images/season-10/05-Agile-Project-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

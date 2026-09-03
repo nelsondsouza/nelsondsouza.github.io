@@ -4,7 +4,7 @@ title: Project Monitoring & Control
 season: 10
 roadmap_number: 25
 source_file: "Season 10/25-Project-Monitoring-&-Control.png"
-image: "../../../assets/roadmap-images/season-10/25-Project-Monitoring-&-Control.png"
+image: "../../../assets/roadmap-images/season-10/25-Project-Monitoring-&-Control.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Monitoring & Control
 
-![Project Monitoring & Control Roadmap](../../../assets/roadmap-images/season-10/25-Project-Monitoring-&-Control.png)
+![Project Monitoring & Control Roadmap](../../../assets/roadmap-images/season-10/25-Project-Monitoring-&-Control.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

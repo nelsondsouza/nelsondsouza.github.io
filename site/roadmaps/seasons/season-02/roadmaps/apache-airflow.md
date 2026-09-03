@@ -4,7 +4,7 @@ title: Apache Airflow
 season: 2
 roadmap_number: 18
 source_file: "Season 2/18-Apache-Airflow.png"
-image: "../../../assets/roadmap-images/season-02/18-Apache-Airflow.png"
+image: "../../../assets/roadmap-images/season-02/18-Apache-Airflow.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Airflow
 
-![Apache Airflow Roadmap](../../../assets/roadmap-images/season-02/18-Apache-Airflow.png)
+![Apache Airflow Roadmap](../../../assets/roadmap-images/season-02/18-Apache-Airflow.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

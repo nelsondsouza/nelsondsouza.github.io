@@ -4,7 +4,7 @@ title: AWS
 season: 2
 roadmap_number: 1
 source_file: "Season 2/01-AWS.png"
-image: "../../../assets/roadmap-images/season-02/01-AWS.png"
+image: "../../../assets/roadmap-images/season-02/01-AWS.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AWS
 
-![AWS Roadmap](../../../assets/roadmap-images/season-02/01-AWS.png)
+![AWS Roadmap](../../../assets/roadmap-images/season-02/01-AWS.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

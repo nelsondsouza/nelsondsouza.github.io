@@ -4,7 +4,7 @@ title: Project Governance
 season: 10
 roadmap_number: 27
 source_file: "Season 10/27-Project-Governance.png"
-image: "../../../assets/roadmap-images/season-10/27-Project-Governance.png"
+image: "../../../assets/roadmap-images/season-10/27-Project-Governance.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Governance
 
-![Project Governance Roadmap](../../../assets/roadmap-images/season-10/27-Project-Governance.png)
+![Project Governance Roadmap](../../../assets/roadmap-images/season-10/27-Project-Governance.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

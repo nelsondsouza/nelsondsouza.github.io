@@ -4,7 +4,7 @@ title: API Testing
 season: 9
 roadmap_number: 15
 source_file: "Season 9/15-API-Testing.png"
-image: "../../../assets/roadmap-images/season-09/15-API-Testing.png"
+image: "../../../assets/roadmap-images/season-09/15-API-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # API Testing
 
-![API Testing Roadmap](../../../assets/roadmap-images/season-09/15-API-Testing.png)
+![API Testing Roadmap](../../../assets/roadmap-images/season-09/15-API-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

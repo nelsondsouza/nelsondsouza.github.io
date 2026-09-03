@@ -3,8 +3,8 @@ id: s06-32-design-patterns-gof-for-architects
 title: Design Patterns (GoF) for Architects
 season: 6
 roadmap_number: 32
-source_file: "Season 6/32-Design-Patterns-(GoF)-for-Architects.png"
-image: "../../../assets/roadmap-images/season-06/32-Design-Patterns-(GoF)-for-Architects.png"
+source_file: "Season 6/32-Design-Patterns-(GoF)-for-Architects.webp"
+image: "../../../assets/roadmap-images/season-06/32-Design-Patterns-(GoF)-for-Architects.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Design Patterns (GoF) for Architects
 
-![Design Patterns (GoF) for Architects Roadmap](../../../assets/roadmap-images/season-06/32-Design-Patterns-(GoF)-for-Architects.png)
+![Design Patterns (GoF) for Architects Roadmap](../../../assets/roadmap-images/season-06/32-Design-Patterns-(GoF)-for-Architects.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

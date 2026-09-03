@@ -4,7 +4,7 @@ title: Microservices
 season: 3
 roadmap_number: 27
 source_file: "Season 3/27-Microservices.png"
-image: "../../../assets/roadmap-images/season-03/27-Microservices.png"
+image: "../../../assets/roadmap-images/season-03/27-Microservices.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Microservices
 
-![Microservices Roadmap](../../../assets/roadmap-images/season-03/27-Microservices.png)
+![Microservices Roadmap](../../../assets/roadmap-images/season-03/27-Microservices.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: ELT
 season: 4
 roadmap_number: 17
 source_file: "Season 4/17-ELT.png"
-image: "../../../assets/roadmap-images/season-04/17-ELT.png"
+image: "../../../assets/roadmap-images/season-04/17-ELT.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # ELT
 
-![ELT Roadmap](../../../assets/roadmap-images/season-04/17-ELT.png)
+![ELT Roadmap](../../../assets/roadmap-images/season-04/17-ELT.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: OpenID Connect
 season: 5
 roadmap_number: 9
 source_file: "Season 5/09-OpenID-Connect.png"
-image: "../../../assets/roadmap-images/season-05/09-OpenID-Connect.png"
+image: "../../../assets/roadmap-images/season-05/09-OpenID-Connect.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # OpenID Connect
 
-![OpenID Connect Roadmap](../../../assets/roadmap-images/season-05/09-OpenID-Connect.png)
+![OpenID Connect Roadmap](../../../assets/roadmap-images/season-05/09-OpenID-Connect.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

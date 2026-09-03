@@ -4,7 +4,7 @@ title: Incident Response
 season: 5
 roadmap_number: 25
 source_file: "Season 5/25-Incident-Response.png"
-image: "../../../assets/roadmap-images/season-05/25-Incident-Response.png"
+image: "../../../assets/roadmap-images/season-05/25-Incident-Response.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Incident Response
 
-![Incident Response Roadmap](../../../assets/roadmap-images/season-05/25-Incident-Response.png)
+![Incident Response Roadmap](../../../assets/roadmap-images/season-05/25-Incident-Response.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

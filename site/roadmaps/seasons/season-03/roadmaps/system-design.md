@@ -4,7 +4,7 @@ title: System Design
 season: 3
 roadmap_number: 28
 source_file: "Season 3/28-System-Design.png"
-image: "../../../assets/roadmap-images/season-03/28-System-Design.png"
+image: "../../../assets/roadmap-images/season-03/28-System-Design.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # System Design
 
-![System Design Roadmap](../../../assets/roadmap-images/season-03/28-System-Design.png)
+![System Design Roadmap](../../../assets/roadmap-images/season-03/28-System-Design.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

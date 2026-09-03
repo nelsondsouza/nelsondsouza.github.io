@@ -4,7 +4,7 @@ title: Git Workflows
 season: 8
 roadmap_number: 17
 source_file: "Season 8/17-Git-Workflows.png"
-image: "../../../assets/roadmap-images/season-08/17-Git-Workflows.png"
+image: "../../../assets/roadmap-images/season-08/17-Git-Workflows.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Git Workflows
 
-![Git Workflows Roadmap](../../../assets/roadmap-images/season-08/17-Git-Workflows.png)
+![Git Workflows Roadmap](../../../assets/roadmap-images/season-08/17-Git-Workflows.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

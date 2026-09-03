@@ -4,7 +4,7 @@ title: PMO Fundamentals
 season: 10
 roadmap_number: 29
 source_file: "Season 10/29-PMO-Fundamentals.png"
-image: "../../../assets/roadmap-images/season-10/29-PMO-Fundamentals.png"
+image: "../../../assets/roadmap-images/season-10/29-PMO-Fundamentals.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # PMO Fundamentals
 
-![PMO Fundamentals Roadmap](../../../assets/roadmap-images/season-10/29-PMO-Fundamentals.png)
+![PMO Fundamentals Roadmap](../../../assets/roadmap-images/season-10/29-PMO-Fundamentals.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

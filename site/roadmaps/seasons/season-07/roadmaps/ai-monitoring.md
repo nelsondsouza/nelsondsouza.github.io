@@ -4,7 +4,7 @@ title: AI Monitoring
 season: 7
 roadmap_number: 11
 source_file: "Season 7/11-AI-Monitoring.png"
-image: "../../../assets/roadmap-images/season-07/11-AI-Monitoring.png"
+image: "../../../assets/roadmap-images/season-07/11-AI-Monitoring.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Monitoring
 
-![AI Monitoring Roadmap](../../../assets/roadmap-images/season-07/11-AI-Monitoring.png)
+![AI Monitoring Roadmap](../../../assets/roadmap-images/season-07/11-AI-Monitoring.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

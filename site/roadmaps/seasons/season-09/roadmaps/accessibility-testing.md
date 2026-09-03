@@ -4,7 +4,7 @@ title: Accessibility Testing
 season: 9
 roadmap_number: 23
 source_file: "Season 9/23-Accessibility-Testing.png"
-image: "../../../assets/roadmap-images/season-09/23-Accessibility-Testing.png"
+image: "../../../assets/roadmap-images/season-09/23-Accessibility-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Accessibility Testing
 
-![Accessibility Testing Roadmap](../../../assets/roadmap-images/season-09/23-Accessibility-Testing.png)
+![Accessibility Testing Roadmap](../../../assets/roadmap-images/season-09/23-Accessibility-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

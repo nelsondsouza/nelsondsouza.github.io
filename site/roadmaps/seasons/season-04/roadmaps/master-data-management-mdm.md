@@ -3,8 +3,8 @@ id: s04-23-master-data-management-mdm
 title: Master Data Management (MDM)
 season: 4
 roadmap_number: 23
-source_file: "Season 4/23-Master-Data-Management-(MDM).png"
-image: "../../../assets/roadmap-images/season-04/23-Master-Data-Management-(MDM).png"
+source_file: "Season 4/23-Master-Data-Management-(MDM).webp"
+image: "../../../assets/roadmap-images/season-04/23-Master-Data-Management-(MDM).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Master Data Management (MDM)
 
-![Master Data Management (MDM) Roadmap](../../../assets/roadmap-images/season-04/23-Master-Data-Management-(MDM).png)
+![Master Data Management (MDM) Roadmap](../../../assets/roadmap-images/season-04/23-Master-Data-Management-(MDM).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

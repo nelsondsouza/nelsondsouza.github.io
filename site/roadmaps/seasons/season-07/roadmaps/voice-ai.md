@@ -4,7 +4,7 @@ title: Voice AI
 season: 7
 roadmap_number: 24
 source_file: "Season 7/24-Voice-AI.png"
-image: "../../../assets/roadmap-images/season-07/24-Voice-AI.png"
+image: "../../../assets/roadmap-images/season-07/24-Voice-AI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Voice AI
 
-![Voice AI Roadmap](../../../assets/roadmap-images/season-07/24-Voice-AI.png)
+![Voice AI Roadmap](../../../assets/roadmap-images/season-07/24-Voice-AI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

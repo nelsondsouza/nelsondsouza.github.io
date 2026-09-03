@@ -4,7 +4,7 @@ title: Speech AI
 season: 7
 roadmap_number: 25
 source_file: "Season 7/25-Speech-AI.png"
-image: "../../../assets/roadmap-images/season-07/25-Speech-AI.png"
+image: "../../../assets/roadmap-images/season-07/25-Speech-AI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Speech AI
 
-![Speech AI Roadmap](../../../assets/roadmap-images/season-07/25-Speech-AI.png)
+![Speech AI Roadmap](../../../assets/roadmap-images/season-07/25-Speech-AI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

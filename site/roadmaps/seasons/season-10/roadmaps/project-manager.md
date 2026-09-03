@@ -4,7 +4,7 @@ title: Project Manager
 season: 10
 roadmap_number: 30
 source_file: "Season 10/30-Project-Manager.png"
-image: "../../../assets/roadmap-images/season-10/30-Project-Manager.png"
+image: "../../../assets/roadmap-images/season-10/30-Project-Manager.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Manager
 
-![Project Manager Roadmap](../../../assets/roadmap-images/season-10/30-Project-Manager.png)
+![Project Manager Roadmap](../../../assets/roadmap-images/season-10/30-Project-Manager.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

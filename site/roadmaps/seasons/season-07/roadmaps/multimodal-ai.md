@@ -4,7 +4,7 @@ title: Multimodal AI
 season: 7
 roadmap_number: 23
 source_file: "Season 7/23-Multimodal-AI.png"
-image: "../../../assets/roadmap-images/season-07/23-Multimodal-AI.png"
+image: "../../../assets/roadmap-images/season-07/23-Multimodal-AI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Multimodal AI
 
-![Multimodal AI Roadmap](../../../assets/roadmap-images/season-07/23-Multimodal-AI.png)
+![Multimodal AI Roadmap](../../../assets/roadmap-images/season-07/23-Multimodal-AI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

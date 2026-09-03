@@ -4,7 +4,7 @@ title: Communication Management
 season: 10
 roadmap_number: 21
 source_file: "Season 10/21-Communication-Management.png"
-image: "../../../assets/roadmap-images/season-10/21-Communication-Management.png"
+image: "../../../assets/roadmap-images/season-10/21-Communication-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Communication Management
 
-![Communication Management Roadmap](../../../assets/roadmap-images/season-10/21-Communication-Management.png)
+![Communication Management Roadmap](../../../assets/roadmap-images/season-10/21-Communication-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

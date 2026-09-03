@@ -4,7 +4,7 @@ title: Versioning & Semantic Versioning
 season: 8
 roadmap_number: 16
 source_file: "Season 8/16-Versioning-&-Semantic-Versioning.png"
-image: "../../../assets/roadmap-images/season-08/16-Versioning-&-Semantic-Versioning.png"
+image: "../../../assets/roadmap-images/season-08/16-Versioning-&-Semantic-Versioning.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Versioning & Semantic Versioning
 
-![Versioning & Semantic Versioning Roadmap](../../../assets/roadmap-images/season-08/16-Versioning-&-Semantic-Versioning.png)
+![Versioning & Semantic Versioning Roadmap](../../../assets/roadmap-images/season-08/16-Versioning-&-Semantic-Versioning.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Container Security
 season: 5
 roadmap_number: 18
 source_file: "Season 5/18-Container-Security.png"
-image: "../../../assets/roadmap-images/season-05/18-Container-Security.png"
+image: "../../../assets/roadmap-images/season-05/18-Container-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Container Security
 
-![Container Security Roadmap](../../../assets/roadmap-images/season-05/18-Container-Security.png)
+![Container Security Roadmap](../../../assets/roadmap-images/season-05/18-Container-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -3,8 +3,8 @@ id: s01-16-business-intelligence-bi-analyst
 title: Business Intelligence (BI) Analyst
 season: 1
 roadmap_number: 16
-source_file: "Season 1/16-Business-Intelligence-(BI)-Analyst.png"
-image: "../../../assets/roadmap-images/season-01/16-Business-Intelligence-(BI)-Analyst.png"
+source_file: "Season 1/16-Business-Intelligence-(BI)-Analyst.webp"
+image: "../../../assets/roadmap-images/season-01/16-Business-Intelligence-(BI)-Analyst.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Business Intelligence (BI) Analyst
 
-![Business Intelligence (BI) Analyst Roadmap](../../../assets/roadmap-images/season-01/16-Business-Intelligence-(BI)-Analyst.png)
+![Business Intelligence (BI) Analyst Roadmap](../../../assets/roadmap-images/season-01/16-Business-Intelligence-(BI)-Analyst.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

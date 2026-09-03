@@ -4,7 +4,7 @@ title: Angular
 season: 3
 roadmap_number: 11
 source_file: "Season 3/11-Angular.png"
-image: "../../../assets/roadmap-images/season-03/11-Angular.png"
+image: "../../../assets/roadmap-images/season-03/11-Angular.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Angular
 
-![Angular Roadmap](../../../assets/roadmap-images/season-03/11-Angular.png)
+![Angular Roadmap](../../../assets/roadmap-images/season-03/11-Angular.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

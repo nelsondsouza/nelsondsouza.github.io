@@ -4,7 +4,7 @@ title: PEFT
 season: 7
 roadmap_number: 19
 source_file: "Season 7/19-PEFT.png"
-image: "../../../assets/roadmap-images/season-07/19-PEFT.png"
+image: "../../../assets/roadmap-images/season-07/19-PEFT.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # PEFT
 
-![PEFT Roadmap](../../../assets/roadmap-images/season-07/19-PEFT.png)
+![PEFT Roadmap](../../../assets/roadmap-images/season-07/19-PEFT.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

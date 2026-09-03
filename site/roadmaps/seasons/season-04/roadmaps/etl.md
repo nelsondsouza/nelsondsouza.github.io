@@ -4,7 +4,7 @@ title: ETL
 season: 4
 roadmap_number: 16
 source_file: "Season 4/16-ETL.png"
-image: "../../../assets/roadmap-images/season-04/16-ETL.png"
+image: "../../../assets/roadmap-images/season-04/16-ETL.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # ETL
 
-![ETL Roadmap](../../../assets/roadmap-images/season-04/16-ETL.png)
+![ETL Roadmap](../../../assets/roadmap-images/season-04/16-ETL.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Knowledge Graphs
 season: 7
 roadmap_number: 7
 source_file: "Season 7/07-Knowledge-Graphs.png"
-image: "../../../assets/roadmap-images/season-07/07-Knowledge-Graphs.png"
+image: "../../../assets/roadmap-images/season-07/07-Knowledge-Graphs.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Knowledge Graphs
 
-![Knowledge Graphs Roadmap](../../../assets/roadmap-images/season-07/07-Knowledge-Graphs.png)
+![Knowledge Graphs Roadmap](../../../assets/roadmap-images/season-07/07-Knowledge-Graphs.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: PowerBI
 season: 1
 roadmap_number: 6
 source_file: "Season 1/06-PowerBI.png"
-image: "../../../assets/roadmap-images/season-01/06-PowerBI.png"
+image: "../../../assets/roadmap-images/season-01/06-PowerBI.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # PowerBI
 
-![PowerBI Roadmap](../../../assets/roadmap-images/season-01/06-PowerBI.png)
+![PowerBI Roadmap](../../../assets/roadmap-images/season-01/06-PowerBI.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

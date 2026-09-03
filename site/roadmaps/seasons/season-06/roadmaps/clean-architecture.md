@@ -4,7 +4,7 @@ title: Clean Architecture
 season: 6
 roadmap_number: 1
 source_file: "Season 6/01-Clean-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/01-Clean-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/01-Clean-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Clean Architecture
 
-![Clean Architecture Roadmap](../../../assets/roadmap-images/season-06/01-Clean-Architecture.png)
+![Clean Architecture Roadmap](../../../assets/roadmap-images/season-06/01-Clean-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

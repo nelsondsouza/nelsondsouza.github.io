@@ -4,7 +4,7 @@ title: Linux Security
 season: 5
 roadmap_number: 5
 source_file: "Season 5/05-Linux-Security.png"
-image: "../../../assets/roadmap-images/season-05/05-Linux-Security.png"
+image: "../../../assets/roadmap-images/season-05/05-Linux-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Linux Security
 
-![Linux Security Roadmap](../../../assets/roadmap-images/season-05/05-Linux-Security.png)
+![Linux Security Roadmap](../../../assets/roadmap-images/season-05/05-Linux-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

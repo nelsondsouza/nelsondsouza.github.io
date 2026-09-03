@@ -4,7 +4,7 @@ title: Claude Code
 season: 1
 roadmap_number: 23
 source_file: "Season 1/23-Claude-Code.png"
-image: "../../../assets/roadmap-images/season-01/23-Claude-Code.png"
+image: "../../../assets/roadmap-images/season-01/23-Claude-Code.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Claude Code
 
-![Claude Code Roadmap](../../../assets/roadmap-images/season-01/23-Claude-Code.png)
+![Claude Code Roadmap](../../../assets/roadmap-images/season-01/23-Claude-Code.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

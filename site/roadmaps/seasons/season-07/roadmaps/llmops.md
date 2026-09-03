@@ -4,7 +4,7 @@ title: LLMOps
 season: 7
 roadmap_number: 3
 source_file: "Season 7/03-LLMOps.png"
-image: "../../../assets/roadmap-images/season-07/03-LLMOps.png"
+image: "../../../assets/roadmap-images/season-07/03-LLMOps.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # LLMOps
 
-![LLMOps Roadmap](../../../assets/roadmap-images/season-07/03-LLMOps.png)
+![LLMOps Roadmap](../../../assets/roadmap-images/season-07/03-LLMOps.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

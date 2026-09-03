@@ -4,7 +4,7 @@ title: Apache Flink
 season: 4
 roadmap_number: 5
 source_file: "Season 4/05-Apache-Flink.png"
-image: "../../../assets/roadmap-images/season-04/05-Apache-Flink.png"
+image: "../../../assets/roadmap-images/season-04/05-Apache-Flink.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Flink
 
-![Apache Flink Roadmap](../../../assets/roadmap-images/season-04/05-Apache-Flink.png)
+![Apache Flink Roadmap](../../../assets/roadmap-images/season-04/05-Apache-Flink.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

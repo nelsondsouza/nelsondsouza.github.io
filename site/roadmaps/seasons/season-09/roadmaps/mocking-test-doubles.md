@@ -4,7 +4,7 @@ title: Mocking & Test Doubles
 season: 9
 roadmap_number: 37
 source_file: "Season 9/37-Mocking-&-Test-Doubles.png"
-image: "../../../assets/roadmap-images/season-09/37-Mocking-&-Test-Doubles.png"
+image: "../../../assets/roadmap-images/season-09/37-Mocking-&-Test-Doubles.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Mocking & Test Doubles
 
-![Mocking & Test Doubles Roadmap](../../../assets/roadmap-images/season-09/37-Mocking-&-Test-Doubles.png)
+![Mocking & Test Doubles Roadmap](../../../assets/roadmap-images/season-09/37-Mocking-&-Test-Doubles.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

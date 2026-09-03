@@ -4,7 +4,7 @@ title: Apache Hadoop
 season: 4
 roadmap_number: 1
 source_file: "Season 4/01-Apache-Hadoop.png"
-image: "../../../assets/roadmap-images/season-04/01-Apache-Hadoop.png"
+image: "../../../assets/roadmap-images/season-04/01-Apache-Hadoop.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Hadoop
 
-![Apache Hadoop Roadmap](../../../assets/roadmap-images/season-04/01-Apache-Hadoop.png)
+![Apache Hadoop Roadmap](../../../assets/roadmap-images/season-04/01-Apache-Hadoop.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

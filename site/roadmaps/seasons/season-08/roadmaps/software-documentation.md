@@ -4,7 +4,7 @@ title: Software Documentation
 season: 8
 roadmap_number: 14
 source_file: "Season 8/14-Software-Documentation.png"
-image: "../../../assets/roadmap-images/season-08/14-Software-Documentation.png"
+image: "../../../assets/roadmap-images/season-08/14-Software-Documentation.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Documentation
 
-![Software Documentation Roadmap](../../../assets/roadmap-images/season-08/14-Software-Documentation.png)
+![Software Documentation Roadmap](../../../assets/roadmap-images/season-08/14-Software-Documentation.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

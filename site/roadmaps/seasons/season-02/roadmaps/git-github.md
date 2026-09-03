@@ -4,7 +4,7 @@ title: Git GitHub
 season: 2
 roadmap_number: 11
 source_file: "Season 2/11-Git-GitHub.png"
-image: "../../../assets/roadmap-images/season-02/11-Git-GitHub.png"
+image: "../../../assets/roadmap-images/season-02/11-Git-GitHub.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Git GitHub
 
-![Git GitHub Roadmap](../../../assets/roadmap-images/season-02/11-Git-GitHub.png)
+![Git GitHub Roadmap](../../../assets/roadmap-images/season-02/11-Git-GitHub.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

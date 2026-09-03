@@ -4,7 +4,7 @@ title: Service Mesh
 season: 6
 roadmap_number: 20
 source_file: "Season 6/20-Service-Mesh.png"
-image: "../../../assets/roadmap-images/season-06/20-Service-Mesh.png"
+image: "../../../assets/roadmap-images/season-06/20-Service-Mesh.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Service Mesh
 
-![Service Mesh Roadmap](../../../assets/roadmap-images/season-06/20-Service-Mesh.png)
+![Service Mesh Roadmap](../../../assets/roadmap-images/season-06/20-Service-Mesh.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

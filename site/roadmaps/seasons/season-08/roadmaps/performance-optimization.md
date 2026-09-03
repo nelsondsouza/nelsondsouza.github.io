@@ -4,7 +4,7 @@ title: Performance Optimization
 season: 8
 roadmap_number: 23
 source_file: "Season 8/23-Performance-Optimization.png"
-image: "../../../assets/roadmap-images/season-08/23-Performance-Optimization.png"
+image: "../../../assets/roadmap-images/season-08/23-Performance-Optimization.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Performance Optimization
 
-![Performance Optimization Roadmap](../../../assets/roadmap-images/season-08/23-Performance-Optimization.png)
+![Performance Optimization Roadmap](../../../assets/roadmap-images/season-08/23-Performance-Optimization.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

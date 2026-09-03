@@ -4,7 +4,7 @@ title: AI Memory
 season: 7
 roadmap_number: 5
 source_file: "Season 7/05-AI-Memory.png"
-image: "../../../assets/roadmap-images/season-07/05-AI-Memory.png"
+image: "../../../assets/roadmap-images/season-07/05-AI-Memory.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Memory
 
-![AI Memory Roadmap](../../../assets/roadmap-images/season-07/05-AI-Memory.png)
+![AI Memory Roadmap](../../../assets/roadmap-images/season-07/05-AI-Memory.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

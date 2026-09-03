@@ -4,7 +4,7 @@ title: Stress Testing
 season: 9
 roadmap_number: 20
 source_file: "Season 9/20-Stress-Testing.png"
-image: "../../../assets/roadmap-images/season-09/20-Stress-Testing.png"
+image: "../../../assets/roadmap-images/season-09/20-Stress-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Stress Testing
 
-![Stress Testing Roadmap](../../../assets/roadmap-images/season-09/20-Stress-Testing.png)
+![Stress Testing Roadmap](../../../assets/roadmap-images/season-09/20-Stress-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

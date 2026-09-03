@@ -4,7 +4,7 @@ title: Azure
 season: 2
 roadmap_number: 2
 source_file: "Season 2/02-Azure.png"
-image: "../../../assets/roadmap-images/season-02/02-Azure.png"
+image: "../../../assets/roadmap-images/season-02/02-Azure.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Azure
 
-![Azure Roadmap](../../../assets/roadmap-images/season-02/02-Azure.png)
+![Azure Roadmap](../../../assets/roadmap-images/season-02/02-Azure.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

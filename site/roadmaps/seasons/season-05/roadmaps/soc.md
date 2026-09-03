@@ -4,7 +4,7 @@ title: SOC
 season: 5
 roadmap_number: 22
 source_file: "Season 5/22-SOC.png"
-image: "../../../assets/roadmap-images/season-05/22-SOC.png"
+image: "../../../assets/roadmap-images/season-05/22-SOC.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # SOC
 
-![SOC Roadmap](../../../assets/roadmap-images/season-05/22-SOC.png)
+![SOC Roadmap](../../../assets/roadmap-images/season-05/22-SOC.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

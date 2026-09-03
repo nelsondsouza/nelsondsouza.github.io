@@ -4,7 +4,7 @@ title: Penetration Testing
 season: 5
 roadmap_number: 27
 source_file: "Season 5/27-Penetration-Testing.png"
-image: "../../../assets/roadmap-images/season-05/27-Penetration-Testing.png"
+image: "../../../assets/roadmap-images/season-05/27-Penetration-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Penetration Testing
 
-![Penetration Testing Roadmap](../../../assets/roadmap-images/season-05/27-Penetration-Testing.png)
+![Penetration Testing Roadmap](../../../assets/roadmap-images/season-05/27-Penetration-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

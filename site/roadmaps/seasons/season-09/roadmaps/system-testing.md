@@ -4,7 +4,7 @@ title: System Testing
 season: 9
 roadmap_number: 10
 source_file: "Season 9/10-System-Testing.png"
-image: "../../../assets/roadmap-images/season-09/10-System-Testing.png"
+image: "../../../assets/roadmap-images/season-09/10-System-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # System Testing
 
-![System Testing Roadmap](../../../assets/roadmap-images/season-09/10-System-Testing.png)
+![System Testing Roadmap](../../../assets/roadmap-images/season-09/10-System-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

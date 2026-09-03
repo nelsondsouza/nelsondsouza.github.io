@@ -4,7 +4,7 @@ title: Google Cloud Platform
 season: 2
 roadmap_number: 3
 source_file: "Season 2/03-Google-Cloud-Platform.png"
-image: "../../../assets/roadmap-images/season-02/03-Google-Cloud-Platform.png"
+image: "../../../assets/roadmap-images/season-02/03-Google-Cloud-Platform.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Google Cloud Platform
 
-![Google Cloud Platform Roadmap](../../../assets/roadmap-images/season-02/03-Google-Cloud-Platform.png)
+![Google Cloud Platform Roadmap](../../../assets/roadmap-images/season-02/03-Google-Cloud-Platform.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

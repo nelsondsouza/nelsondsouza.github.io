@@ -4,7 +4,7 @@ title: Apache Hudi
 season: 4
 roadmap_number: 12
 source_file: "Season 4/12-Apache-Hudi.png"
-image: "../../../assets/roadmap-images/season-04/12-Apache-Hudi.png"
+image: "../../../assets/roadmap-images/season-04/12-Apache-Hudi.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Hudi
 
-![Apache Hudi Roadmap](../../../assets/roadmap-images/season-04/12-Apache-Hudi.png)
+![Apache Hudi Roadmap](../../../assets/roadmap-images/season-04/12-Apache-Hudi.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

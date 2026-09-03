@@ -4,7 +4,7 @@ title: AI Red Teaming
 season: 7
 roadmap_number: 15
 source_file: "Season 7/15-AI-Red-Teaming.png"
-image: "../../../assets/roadmap-images/season-07/15-AI-Red-Teaming.png"
+image: "../../../assets/roadmap-images/season-07/15-AI-Red-Teaming.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Red Teaming
 
-![AI Red Teaming Roadmap](../../../assets/roadmap-images/season-07/15-AI-Red-Teaming.png)
+![AI Red Teaming Roadmap](../../../assets/roadmap-images/season-07/15-AI-Red-Teaming.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

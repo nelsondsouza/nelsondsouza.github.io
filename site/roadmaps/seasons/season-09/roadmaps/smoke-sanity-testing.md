@@ -4,7 +4,7 @@ title: Smoke & Sanity Testing
 season: 9
 roadmap_number: 13
 source_file: "Season 9/13-Smoke-&-Sanity-Testing.png"
-image: "../../../assets/roadmap-images/season-09/13-Smoke-&-Sanity-Testing.png"
+image: "../../../assets/roadmap-images/season-09/13-Smoke-&-Sanity-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Smoke & Sanity Testing
 
-![Smoke & Sanity Testing Roadmap](../../../assets/roadmap-images/season-09/13-Smoke-&-Sanity-Testing.png)
+![Smoke & Sanity Testing Roadmap](../../../assets/roadmap-images/season-09/13-Smoke-&-Sanity-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

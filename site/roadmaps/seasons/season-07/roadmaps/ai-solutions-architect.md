@@ -4,7 +4,7 @@ title: AI Solutions Architect
 season: 7
 roadmap_number: 28
 source_file: "Season 7/28-AI-Solutions-Architect.png"
-image: "../../../assets/roadmap-images/season-07/28-AI-Solutions-Architect.png"
+image: "../../../assets/roadmap-images/season-07/28-AI-Solutions-Architect.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Solutions Architect
 
-![AI Solutions Architect Roadmap](../../../assets/roadmap-images/season-07/28-AI-Solutions-Architect.png)
+![AI Solutions Architect Roadmap](../../../assets/roadmap-images/season-07/28-AI-Solutions-Architect.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

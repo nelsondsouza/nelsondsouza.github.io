@@ -4,7 +4,7 @@ title: TCP IP
 season: 5
 roadmap_number: 2
 source_file: "Season 5/02-TCP-IP.png"
-image: "../../../assets/roadmap-images/season-05/02-TCP-IP.png"
+image: "../../../assets/roadmap-images/season-05/02-TCP-IP.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # TCP IP
 
-![TCP IP Roadmap](../../../assets/roadmap-images/season-05/02-TCP-IP.png)
+![TCP IP Roadmap](../../../assets/roadmap-images/season-05/02-TCP-IP.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

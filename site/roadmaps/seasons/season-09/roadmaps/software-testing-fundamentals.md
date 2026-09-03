@@ -4,7 +4,7 @@ title: Software Testing Fundamentals
 season: 9
 roadmap_number: 1
 source_file: "Season 9/01-Software-Testing-Fundamentals.png"
-image: "../../../assets/roadmap-images/season-09/01-Software-Testing-Fundamentals.png"
+image: "../../../assets/roadmap-images/season-09/01-Software-Testing-Fundamentals.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Testing Fundamentals
 
-![Software Testing Fundamentals Roadmap](../../../assets/roadmap-images/season-09/01-Software-Testing-Fundamentals.png)
+![Software Testing Fundamentals Roadmap](../../../assets/roadmap-images/season-09/01-Software-Testing-Fundamentals.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

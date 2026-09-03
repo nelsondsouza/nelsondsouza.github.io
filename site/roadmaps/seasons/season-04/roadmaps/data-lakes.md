@@ -4,7 +4,7 @@ title: Data Lakes
 season: 4
 roadmap_number: 14
 source_file: "Season 4/14-Data-Lakes.png"
-image: "../../../assets/roadmap-images/season-04/14-Data-Lakes.png"
+image: "../../../assets/roadmap-images/season-04/14-Data-Lakes.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Lakes
 
-![Data Lakes Roadmap](../../../assets/roadmap-images/season-04/14-Data-Lakes.png)
+![Data Lakes Roadmap](../../../assets/roadmap-images/season-04/14-Data-Lakes.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Onion Architecture
 season: 6
 roadmap_number: 3
 source_file: "Season 6/03-Onion-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/03-Onion-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/03-Onion-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Onion Architecture
 
-![Onion Architecture Roadmap](../../../assets/roadmap-images/season-06/03-Onion-Architecture.png)
+![Onion Architecture Roadmap](../../../assets/roadmap-images/season-06/03-Onion-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

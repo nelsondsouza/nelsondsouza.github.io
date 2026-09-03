@@ -4,7 +4,7 @@ title: Secrets Management
 season: 5
 roadmap_number: 20
 source_file: "Season 5/20-Secrets-Management.png"
-image: "../../../assets/roadmap-images/season-05/20-Secrets-Management.png"
+image: "../../../assets/roadmap-images/season-05/20-Secrets-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Secrets Management
 
-![Secrets Management Roadmap](../../../assets/roadmap-images/season-05/20-Secrets-Management.png)
+![Secrets Management Roadmap](../../../assets/roadmap-images/season-05/20-Secrets-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: LoRA
 season: 7
 roadmap_number: 20
 source_file: "Season 7/20-LoRA.png"
-image: "../../../assets/roadmap-images/season-07/20-LoRA.png"
+image: "../../../assets/roadmap-images/season-07/20-LoRA.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # LoRA
 
-![LoRA Roadmap](../../../assets/roadmap-images/season-07/20-LoRA.png)
+![LoRA Roadmap](../../../assets/roadmap-images/season-07/20-LoRA.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

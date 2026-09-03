@@ -4,7 +4,7 @@ title: AI Security
 season: 7
 roadmap_number: 14
 source_file: "Season 7/14-AI-Security.png"
-image: "../../../assets/roadmap-images/season-07/14-AI-Security.png"
+image: "../../../assets/roadmap-images/season-07/14-AI-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Security
 
-![AI Security Roadmap](../../../assets/roadmap-images/season-07/14-AI-Security.png)
+![AI Security Roadmap](../../../assets/roadmap-images/season-07/14-AI-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -3,8 +3,8 @@ id: s04-24-change-data-capture-cdc
 title: Change Data Capture (CDC)
 season: 4
 roadmap_number: 24
-source_file: "Season 4/24-Change-Data-Capture-(CDC).png"
-image: "../../../assets/roadmap-images/season-04/24-Change-Data-Capture-(CDC).png"
+source_file: "Season 4/24-Change-Data-Capture-(CDC).webp"
+image: "../../../assets/roadmap-images/season-04/24-Change-Data-Capture-(CDC).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Change Data Capture (CDC)
 
-![Change Data Capture (CDC) Roadmap](../../../assets/roadmap-images/season-04/24-Change-Data-Capture-(CDC).png)
+![Change Data Capture (CDC) Roadmap](../../../assets/roadmap-images/season-04/24-Change-Data-Capture-(CDC).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: gRPC
 season: 6
 roadmap_number: 10
 source_file: "Season 6/10-gRPC.png"
-image: "../../../assets/roadmap-images/season-06/10-gRPC.png"
+image: "../../../assets/roadmap-images/season-06/10-gRPC.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # gRPC
 
-![gRPC Roadmap](../../../assets/roadmap-images/season-06/10-gRPC.png)
+![gRPC Roadmap](../../../assets/roadmap-images/season-06/10-gRPC.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

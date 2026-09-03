@@ -4,7 +4,7 @@ title: Issue Management
 season: 10
 roadmap_number: 24
 source_file: "Season 10/24-Issue-Management.png"
-image: "../../../assets/roadmap-images/season-10/24-Issue-Management.png"
+image: "../../../assets/roadmap-images/season-10/24-Issue-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Issue Management
 
-![Issue Management Roadmap](../../../assets/roadmap-images/season-10/24-Issue-Management.png)
+![Issue Management Roadmap](../../../assets/roadmap-images/season-10/24-Issue-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

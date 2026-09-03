@@ -4,7 +4,7 @@ title: Apache Spark
 season: 2
 roadmap_number: 19
 source_file: "Season 2/19-Apache-Spark.png"
-image: "../../../assets/roadmap-images/season-02/19-Apache-Spark.png"
+image: "../../../assets/roadmap-images/season-02/19-Apache-Spark.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Spark
 
-![Apache Spark Roadmap](../../../assets/roadmap-images/season-02/19-Apache-Spark.png)
+![Apache Spark Roadmap](../../../assets/roadmap-images/season-02/19-Apache-Spark.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

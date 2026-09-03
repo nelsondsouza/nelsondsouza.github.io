@@ -4,7 +4,7 @@ title: Outbox Pattern
 season: 6
 roadmap_number: 16
 source_file: "Season 6/16-Outbox-Pattern.png"
-image: "../../../assets/roadmap-images/season-06/16-Outbox-Pattern.png"
+image: "../../../assets/roadmap-images/season-06/16-Outbox-Pattern.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Outbox Pattern
 
-![Outbox Pattern Roadmap](../../../assets/roadmap-images/season-06/16-Outbox-Pattern.png)
+![Outbox Pattern Roadmap](../../../assets/roadmap-images/season-06/16-Outbox-Pattern.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

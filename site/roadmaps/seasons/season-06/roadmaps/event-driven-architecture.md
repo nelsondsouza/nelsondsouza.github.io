@@ -4,7 +4,7 @@ title: Event Driven Architecture
 season: 6
 roadmap_number: 30
 source_file: "Season 6/30-Event-Driven-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/30-Event-Driven-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/30-Event-Driven-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Event Driven Architecture
 
-![Event Driven Architecture Roadmap](../../../assets/roadmap-images/season-06/30-Event-Driven-Architecture.png)
+![Event Driven Architecture Roadmap](../../../assets/roadmap-images/season-06/30-Event-Driven-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

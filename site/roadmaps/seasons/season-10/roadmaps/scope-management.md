@@ -4,7 +4,7 @@ title: Scope Management
 season: 10
 roadmap_number: 11
 source_file: "Season 10/11-Scope-Management.png"
-image: "../../../assets/roadmap-images/season-10/11-Scope-Management.png"
+image: "../../../assets/roadmap-images/season-10/11-Scope-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Scope Management
 
-![Scope Management Roadmap](../../../assets/roadmap-images/season-10/11-Scope-Management.png)
+![Scope Management Roadmap](../../../assets/roadmap-images/season-10/11-Scope-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

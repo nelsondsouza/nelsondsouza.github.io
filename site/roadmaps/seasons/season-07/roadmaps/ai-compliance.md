@@ -4,7 +4,7 @@ title: AI Compliance
 season: 7
 roadmap_number: 17
 source_file: "Season 7/17-AI-Compliance.png"
-image: "../../../assets/roadmap-images/season-07/17-AI-Compliance.png"
+image: "../../../assets/roadmap-images/season-07/17-AI-Compliance.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Compliance
 
-![AI Compliance Roadmap](../../../assets/roadmap-images/season-07/17-AI-Compliance.png)
+![AI Compliance Roadmap](../../../assets/roadmap-images/season-07/17-AI-Compliance.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -3,8 +3,8 @@ id: s03-19-retrieval-augmented-generation-rag
 title: Retrieval Augmented Generation (RAG)
 season: 3
 roadmap_number: 19
-source_file: "Season 3/19-Retrieval-Augmented-Generation-(RAG).png"
-image: "../../../assets/roadmap-images/season-03/19-Retrieval-Augmented-Generation-(RAG).png"
+source_file: "Season 3/19-Retrieval-Augmented-Generation-(RAG).webp"
+image: "../../../assets/roadmap-images/season-03/19-Retrieval-Augmented-Generation-(RAG).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Retrieval Augmented Generation (RAG)
 
-![Retrieval Augmented Generation (RAG) Roadmap](../../../assets/roadmap-images/season-03/19-Retrieval-Augmented-Generation-(RAG).png)
+![Retrieval Augmented Generation (RAG) Roadmap](../../../assets/roadmap-images/season-03/19-Retrieval-Augmented-Generation-(RAG).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Project Closure & Lessons Learned
 season: 10
 roadmap_number: 28
 source_file: "Season 10/28-Project-Closure-&-Lessons-Learned.png"
-image: "../../../assets/roadmap-images/season-10/28-Project-Closure-&-Lessons-Learned.png"
+image: "../../../assets/roadmap-images/season-10/28-Project-Closure-&-Lessons-Learned.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Closure & Lessons Learned
 
-![Project Closure & Lessons Learned Roadmap](../../../assets/roadmap-images/season-10/28-Project-Closure-&-Lessons-Learned.png)
+![Project Closure & Lessons Learned Roadmap](../../../assets/roadmap-images/season-10/28-Project-Closure-&-Lessons-Learned.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

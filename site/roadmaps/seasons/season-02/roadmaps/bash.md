@@ -4,7 +4,7 @@ title: Bash
 season: 2
 roadmap_number: 9
 source_file: "Season 2/09-Bash.png"
-image: "../../../assets/roadmap-images/season-02/09-Bash.png"
+image: "../../../assets/roadmap-images/season-02/09-Bash.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Bash
 
-![Bash Roadmap](../../../assets/roadmap-images/season-02/09-Bash.png)
+![Bash Roadmap](../../../assets/roadmap-images/season-02/09-Bash.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

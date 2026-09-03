@@ -4,7 +4,7 @@ title: Synthetic Data
 season: 7
 roadmap_number: 22
 source_file: "Season 7/22-Synthetic-Data.png"
-image: "../../../assets/roadmap-images/season-07/22-Synthetic-Data.png"
+image: "../../../assets/roadmap-images/season-07/22-Synthetic-Data.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Synthetic Data
 
-![Synthetic Data Roadmap](../../../assets/roadmap-images/season-07/22-Synthetic-Data.png)
+![Synthetic Data Roadmap](../../../assets/roadmap-images/season-07/22-Synthetic-Data.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

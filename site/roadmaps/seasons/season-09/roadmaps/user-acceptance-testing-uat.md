@@ -3,8 +3,8 @@ id: s09-11-user-acceptance-testing-uat
 title: User Acceptance Testing (UAT)
 season: 9
 roadmap_number: 11
-source_file: "Season 9/11-User-Acceptance-Testing-(UAT).png"
-image: "../../../assets/roadmap-images/season-09/11-User-Acceptance-Testing-(UAT).png"
+source_file: "Season 9/11-User-Acceptance-Testing-(UAT).webp"
+image: "../../../assets/roadmap-images/season-09/11-User-Acceptance-Testing-(UAT).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # User Acceptance Testing (UAT)
 
-![User Acceptance Testing (UAT) Roadmap](../../../assets/roadmap-images/season-09/11-User-Acceptance-Testing-(UAT).png)
+![User Acceptance Testing (UAT) Roadmap](../../../assets/roadmap-images/season-09/11-User-Acceptance-Testing-(UAT).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Software Development Methodologies
 season: 8
 roadmap_number: 3
 source_file: "Season 8/03-Software-Development-Methodologies.png"
-image: "../../../assets/roadmap-images/season-08/03-Software-Development-Methodologies.png"
+image: "../../../assets/roadmap-images/season-08/03-Software-Development-Methodologies.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Development Methodologies
 
-![Software Development Methodologies Roadmap](../../../assets/roadmap-images/season-08/03-Software-Development-Methodologies.png)
+![Software Development Methodologies Roadmap](../../../assets/roadmap-images/season-08/03-Software-Development-Methodologies.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

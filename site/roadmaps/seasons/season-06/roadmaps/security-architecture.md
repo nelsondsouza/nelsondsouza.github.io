@@ -4,7 +4,7 @@ title: Security Architecture
 season: 6
 roadmap_number: 37
 source_file: "Season 6/37-Security-Architecture.png"
-image: "../../../assets/roadmap-images/season-06/37-Security-Architecture.png"
+image: "../../../assets/roadmap-images/season-06/37-Security-Architecture.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Security Architecture
 
-![Security Architecture Roadmap](../../../assets/roadmap-images/season-06/37-Security-Architecture.png)
+![Security Architecture Roadmap](../../../assets/roadmap-images/season-06/37-Security-Architecture.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

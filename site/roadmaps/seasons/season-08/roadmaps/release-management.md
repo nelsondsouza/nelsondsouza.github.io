@@ -4,7 +4,7 @@ title: Release Management
 season: 8
 roadmap_number: 19
 source_file: "Season 8/19-Release-Management.png"
-image: "../../../assets/roadmap-images/season-08/19-Release-Management.png"
+image: "../../../assets/roadmap-images/season-08/19-Release-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Release Management
 
-![Release Management Roadmap](../../../assets/roadmap-images/season-08/19-Release-Management.png)
+![Release Management Roadmap](../../../assets/roadmap-images/season-08/19-Release-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

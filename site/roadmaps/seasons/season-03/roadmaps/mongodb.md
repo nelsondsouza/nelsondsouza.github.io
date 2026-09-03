@@ -4,7 +4,7 @@ title: MongoDB
 season: 3
 roadmap_number: 1
 source_file: "Season 3/01-MongoDB.png"
-image: "../../../assets/roadmap-images/season-03/01-MongoDB.png"
+image: "../../../assets/roadmap-images/season-03/01-MongoDB.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # MongoDB
 
-![MongoDB Roadmap](../../../assets/roadmap-images/season-03/01-MongoDB.png)
+![MongoDB Roadmap](../../../assets/roadmap-images/season-03/01-MongoDB.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

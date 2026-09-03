@@ -4,7 +4,7 @@ title: Test Planning & Test Management
 season: 9
 roadmap_number: 4
 source_file: "Season 9/04-Test-Planning-&-Test-Management.png"
-image: "../../../assets/roadmap-images/season-09/04-Test-Planning-&-Test-Management.png"
+image: "../../../assets/roadmap-images/season-09/04-Test-Planning-&-Test-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Test Planning & Test Management
 
-![Test Planning & Test Management Roadmap](../../../assets/roadmap-images/season-09/04-Test-Planning-&-Test-Management.png)
+![Test Planning & Test Management Roadmap](../../../assets/roadmap-images/season-09/04-Test-Planning-&-Test-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

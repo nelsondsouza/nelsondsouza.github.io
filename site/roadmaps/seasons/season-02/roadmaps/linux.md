@@ -4,7 +4,7 @@ title: Linux
 season: 2
 roadmap_number: 8
 source_file: "Season 2/08-Linux.png"
-image: "../../../assets/roadmap-images/season-02/08-Linux.png"
+image: "../../../assets/roadmap-images/season-02/08-Linux.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Linux
 
-![Linux Roadmap](../../../assets/roadmap-images/season-02/08-Linux.png)
+![Linux Roadmap](../../../assets/roadmap-images/season-02/08-Linux.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

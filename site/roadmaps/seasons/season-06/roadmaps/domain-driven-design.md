@@ -4,7 +4,7 @@ title: Domain Driven Design
 season: 6
 roadmap_number: 12
 source_file: "Season 6/12-Domain-Driven-Design.png"
-image: "../../../assets/roadmap-images/season-06/12-Domain-Driven-Design.png"
+image: "../../../assets/roadmap-images/season-06/12-Domain-Driven-Design.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Domain Driven Design
 
-![Domain Driven Design Roadmap](../../../assets/roadmap-images/season-06/12-Domain-Driven-Design.png)
+![Domain Driven Design Roadmap](../../../assets/roadmap-images/season-06/12-Domain-Driven-Design.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

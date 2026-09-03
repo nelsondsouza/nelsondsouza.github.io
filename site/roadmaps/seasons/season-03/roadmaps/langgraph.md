@@ -4,7 +4,7 @@ title: LangGraph
 season: 3
 roadmap_number: 16
 source_file: "Season 3/16-LangGraph.png"
-image: "../../../assets/roadmap-images/season-03/16-LangGraph.png"
+image: "../../../assets/roadmap-images/season-03/16-LangGraph.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # LangGraph
 
-![LangGraph Roadmap](../../../assets/roadmap-images/season-03/16-LangGraph.png)
+![LangGraph Roadmap](../../../assets/roadmap-images/season-03/16-LangGraph.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: LeetCode
 season: 1
 roadmap_number: 26
 source_file: "Season 1/26-LeetCode.png"
-image: "../../../assets/roadmap-images/season-01/26-LeetCode.png"
+image: "../../../assets/roadmap-images/season-01/26-LeetCode.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # LeetCode
 
-![LeetCode Roadmap](../../../assets/roadmap-images/season-01/26-LeetCode.png)
+![LeetCode Roadmap](../../../assets/roadmap-images/season-01/26-LeetCode.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

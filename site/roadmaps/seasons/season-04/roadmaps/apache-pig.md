@@ -4,7 +4,7 @@ title: Apache Pig
 season: 4
 roadmap_number: 3
 source_file: "Season 4/03-Apache-Pig.png"
-image: "../../../assets/roadmap-images/season-04/03-Apache-Pig.png"
+image: "../../../assets/roadmap-images/season-04/03-Apache-Pig.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Pig
 
-![Apache Pig Roadmap](../../../assets/roadmap-images/season-04/03-Apache-Pig.png)
+![Apache Pig Roadmap](../../../assets/roadmap-images/season-04/03-Apache-Pig.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

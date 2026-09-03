@@ -4,7 +4,7 @@ title: HackerRank
 season: 1
 roadmap_number: 27
 source_file: "Season 1/27-HackerRank.png"
-image: "../../../assets/roadmap-images/season-01/27-HackerRank.png"
+image: "../../../assets/roadmap-images/season-01/27-HackerRank.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # HackerRank
 
-![HackerRank Roadmap](../../../assets/roadmap-images/season-01/27-HackerRank.png)
+![HackerRank Roadmap](../../../assets/roadmap-images/season-01/27-HackerRank.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Software Architect
 season: 6
 roadmap_number: 38
 source_file: "Season 6/38-Software-Architect.png"
-image: "../../../assets/roadmap-images/season-06/38-Software-Architect.png"
+image: "../../../assets/roadmap-images/season-06/38-Software-Architect.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Architect
 
-![Software Architect Roadmap](../../../assets/roadmap-images/season-06/38-Software-Architect.png)
+![Software Architect Roadmap](../../../assets/roadmap-images/season-06/38-Software-Architect.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

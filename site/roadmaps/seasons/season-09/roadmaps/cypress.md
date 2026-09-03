@@ -4,7 +4,7 @@ title: Cypress
 season: 9
 roadmap_number: 33
 source_file: "Season 9/33-Cypress.png"
-image: "../../../assets/roadmap-images/season-09/33-Cypress.png"
+image: "../../../assets/roadmap-images/season-09/33-Cypress.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Cypress
 
-![Cypress Roadmap](../../../assets/roadmap-images/season-09/33-Cypress.png)
+![Cypress Roadmap](../../../assets/roadmap-images/season-09/33-Cypress.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

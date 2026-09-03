@@ -4,7 +4,7 @@ title: HDFS
 season: 4
 roadmap_number: 2
 source_file: "Season 4/02-HDFS.png"
-image: "../../../assets/roadmap-images/season-04/02-HDFS.png"
+image: "../../../assets/roadmap-images/season-04/02-HDFS.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # HDFS
 
-![HDFS Roadmap](../../../assets/roadmap-images/season-04/02-HDFS.png)
+![HDFS Roadmap](../../../assets/roadmap-images/season-04/02-HDFS.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

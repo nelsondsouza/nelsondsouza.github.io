@@ -4,7 +4,7 @@ title: HTTP HTTPS
 season: 5
 roadmap_number: 4
 source_file: "Season 5/04-HTTP-HTTPS.png"
-image: "../../../assets/roadmap-images/season-05/04-HTTP-HTTPS.png"
+image: "../../../assets/roadmap-images/season-05/04-HTTP-HTTPS.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # HTTP HTTPS
 
-![HTTP HTTPS Roadmap](../../../assets/roadmap-images/season-05/04-HTTP-HTTPS.png)
+![HTTP HTTPS Roadmap](../../../assets/roadmap-images/season-05/04-HTTP-HTTPS.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

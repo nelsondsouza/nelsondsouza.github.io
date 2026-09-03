@@ -4,7 +4,7 @@ title: Jenkins
 season: 2
 roadmap_number: 10
 source_file: "Season 2/10-Jenkins.png"
-image: "../../../assets/roadmap-images/season-02/10-Jenkins.png"
+image: "../../../assets/roadmap-images/season-02/10-Jenkins.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Jenkins
 
-![Jenkins Roadmap](../../../assets/roadmap-images/season-02/10-Jenkins.png)
+![Jenkins Roadmap](../../../assets/roadmap-images/season-02/10-Jenkins.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

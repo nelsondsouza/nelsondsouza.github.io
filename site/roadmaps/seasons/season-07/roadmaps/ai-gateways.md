@@ -4,7 +4,7 @@ title: AI Gateways
 season: 7
 roadmap_number: 2
 source_file: "Season 7/02-AI-Gateways.png"
-image: "../../../assets/roadmap-images/season-07/02-AI-Gateways.png"
+image: "../../../assets/roadmap-images/season-07/02-AI-Gateways.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Gateways
 
-![AI Gateways Roadmap](../../../assets/roadmap-images/season-07/02-AI-Gateways.png)
+![AI Gateways Roadmap](../../../assets/roadmap-images/season-07/02-AI-Gateways.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

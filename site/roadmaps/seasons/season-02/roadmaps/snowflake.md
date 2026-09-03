@@ -4,7 +4,7 @@ title: Snowflake
 season: 2
 roadmap_number: 21
 source_file: "Season 2/21-Snowflake.png"
-image: "../../../assets/roadmap-images/season-02/21-Snowflake.png"
+image: "../../../assets/roadmap-images/season-02/21-Snowflake.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Snowflake
 
-![Snowflake Roadmap](../../../assets/roadmap-images/season-02/21-Snowflake.png)
+![Snowflake Roadmap](../../../assets/roadmap-images/season-02/21-Snowflake.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

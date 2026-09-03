@@ -4,7 +4,7 @@ title: Test Design Techniques
 season: 9
 roadmap_number: 5
 source_file: "Season 9/05-Test-Design-Techniques.png"
-image: "../../../assets/roadmap-images/season-09/05-Test-Design-Techniques.png"
+image: "../../../assets/roadmap-images/season-09/05-Test-Design-Techniques.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Test Design Techniques
 
-![Test Design Techniques Roadmap](../../../assets/roadmap-images/season-09/05-Test-Design-Techniques.png)
+![Test Design Techniques Roadmap](../../../assets/roadmap-images/season-09/05-Test-Design-Techniques.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

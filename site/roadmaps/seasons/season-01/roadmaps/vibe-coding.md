@@ -4,7 +4,7 @@ title: Vibe Coding
 season: 1
 roadmap_number: 25
 source_file: "Season 1/25-Vibe-Coding.png"
-image: "../../../assets/roadmap-images/season-01/25-Vibe-Coding.png"
+image: "../../../assets/roadmap-images/season-01/25-Vibe-Coding.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Vibe Coding
 
-![Vibe Coding Roadmap](../../../assets/roadmap-images/season-01/25-Vibe-Coding.png)
+![Vibe Coding Roadmap](../../../assets/roadmap-images/season-01/25-Vibe-Coding.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

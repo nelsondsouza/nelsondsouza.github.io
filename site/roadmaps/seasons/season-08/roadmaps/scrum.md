@@ -4,7 +4,7 @@ title: Scrum
 season: 8
 roadmap_number: 5
 source_file: "Season 8/05-Scrum.png"
-image: "../../../assets/roadmap-images/season-08/05-Scrum.png"
+image: "../../../assets/roadmap-images/season-08/05-Scrum.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Scrum
 
-![Scrum Roadmap](../../../assets/roadmap-images/season-08/05-Scrum.png)
+![Scrum Roadmap](../../../assets/roadmap-images/season-08/05-Scrum.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

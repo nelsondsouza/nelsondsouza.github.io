@@ -4,7 +4,7 @@ title: Apache Kafka
 season: 2
 roadmap_number: 17
 source_file: "Season 2/17-Apache-Kafka.png"
-image: "../../../assets/roadmap-images/season-02/17-Apache-Kafka.png"
+image: "../../../assets/roadmap-images/season-02/17-Apache-Kafka.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Kafka
 
-![Apache Kafka Roadmap](../../../assets/roadmap-images/season-02/17-Apache-Kafka.png)
+![Apache Kafka Roadmap](../../../assets/roadmap-images/season-02/17-Apache-Kafka.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

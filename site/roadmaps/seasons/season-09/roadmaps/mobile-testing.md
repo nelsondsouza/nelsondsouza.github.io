@@ -4,7 +4,7 @@ title: Mobile Testing
 season: 9
 roadmap_number: 17
 source_file: "Season 9/17-Mobile-Testing.png"
-image: "../../../assets/roadmap-images/season-09/17-Mobile-Testing.png"
+image: "../../../assets/roadmap-images/season-09/17-Mobile-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Mobile Testing
 
-![Mobile Testing Roadmap](../../../assets/roadmap-images/season-09/17-Mobile-Testing.png)
+![Mobile Testing Roadmap](../../../assets/roadmap-images/season-09/17-Mobile-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

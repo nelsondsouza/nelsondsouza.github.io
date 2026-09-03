@@ -4,7 +4,7 @@ title: Chaos Testing
 season: 9
 roadmap_number: 21
 source_file: "Season 9/21-Chaos-Testing.png"
-image: "../../../assets/roadmap-images/season-09/21-Chaos-Testing.png"
+image: "../../../assets/roadmap-images/season-09/21-Chaos-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Chaos Testing
 
-![Chaos Testing Roadmap](../../../assets/roadmap-images/season-09/21-Chaos-Testing.png)
+![Chaos Testing Roadmap](../../../assets/roadmap-images/season-09/21-Chaos-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Spring Boot
 season: 3
 roadmap_number: 8
 source_file: "Season 3/08-Spring-Boot.png"
-image: "../../../assets/roadmap-images/season-03/08-Spring-Boot.png"
+image: "../../../assets/roadmap-images/season-03/08-Spring-Boot.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Spring Boot
 
-![Spring Boot Roadmap](../../../assets/roadmap-images/season-03/08-Spring-Boot.png)
+![Spring Boot Roadmap](../../../assets/roadmap-images/season-03/08-Spring-Boot.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

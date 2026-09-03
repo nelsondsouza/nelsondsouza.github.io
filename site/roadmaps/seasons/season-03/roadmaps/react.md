@@ -4,7 +4,7 @@ title: React
 season: 3
 roadmap_number: 9
 source_file: "Season 3/09-React.png"
-image: "../../../assets/roadmap-images/season-03/09-React.png"
+image: "../../../assets/roadmap-images/season-03/09-React.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # React
 
-![React Roadmap](../../../assets/roadmap-images/season-03/09-React.png)
+![React Roadmap](../../../assets/roadmap-images/season-03/09-React.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

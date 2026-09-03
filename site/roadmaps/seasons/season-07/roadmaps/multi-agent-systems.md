@@ -4,7 +4,7 @@ title: Multi Agent Systems
 season: 7
 roadmap_number: 8
 source_file: "Season 7/08-Multi-Agent-Systems.png"
-image: "../../../assets/roadmap-images/season-07/08-Multi-Agent-Systems.png"
+image: "../../../assets/roadmap-images/season-07/08-Multi-Agent-Systems.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Multi Agent Systems
 
-![Multi Agent Systems Roadmap](../../../assets/roadmap-images/season-07/08-Multi-Agent-Systems.png)
+![Multi Agent Systems Roadmap](../../../assets/roadmap-images/season-07/08-Multi-Agent-Systems.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

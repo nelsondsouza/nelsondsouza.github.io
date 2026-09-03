@@ -4,7 +4,7 @@ title: Backend Developer
 season: 1
 roadmap_number: 10
 source_file: "Season 1/10-Backend-Developer.png"
-image: "../../../assets/roadmap-images/season-01/10-Backend-Developer.png"
+image: "../../../assets/roadmap-images/season-01/10-Backend-Developer.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Backend Developer
 
-![Backend Developer Roadmap](../../../assets/roadmap-images/season-01/10-Backend-Developer.png)
+![Backend Developer Roadmap](../../../assets/roadmap-images/season-01/10-Backend-Developer.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

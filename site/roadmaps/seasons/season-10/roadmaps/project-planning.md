@@ -4,7 +4,7 @@ title: Project Planning
 season: 10
 roadmap_number: 10
 source_file: "Season 10/10-Project-Planning.png"
-image: "../../../assets/roadmap-images/season-10/10-Project-Planning.png"
+image: "../../../assets/roadmap-images/season-10/10-Project-Planning.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Planning
 
-![Project Planning Roadmap](../../../assets/roadmap-images/season-10/10-Project-Planning.png)
+![Project Planning Roadmap](../../../assets/roadmap-images/season-10/10-Project-Planning.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

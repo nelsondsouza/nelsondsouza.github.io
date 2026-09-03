@@ -4,7 +4,7 @@ title: Change Management & Change Control
 season: 10
 roadmap_number: 23
 source_file: "Season 10/23-Change-Management-&-Change-Control.png"
-image: "../../../assets/roadmap-images/season-10/23-Change-Management-&-Change-Control.png"
+image: "../../../assets/roadmap-images/season-10/23-Change-Management-&-Change-Control.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Change Management & Change Control
 
-![Change Management & Change Control Roadmap](../../../assets/roadmap-images/season-10/23-Change-Management-&-Change-Control.png)
+![Change Management & Change Control Roadmap](../../../assets/roadmap-images/season-10/23-Change-Management-&-Change-Control.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

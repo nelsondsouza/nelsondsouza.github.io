@@ -4,7 +4,7 @@ title: Prompt Engineering
 season: 3
 roadmap_number: 21
 source_file: "Season 3/21-Prompt-Engineering.png"
-image: "../../../assets/roadmap-images/season-03/21-Prompt-Engineering.png"
+image: "../../../assets/roadmap-images/season-03/21-Prompt-Engineering.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Prompt Engineering
 
-![Prompt Engineering Roadmap](../../../assets/roadmap-images/season-03/21-Prompt-Engineering.png)
+![Prompt Engineering Roadmap](../../../assets/roadmap-images/season-03/21-Prompt-Engineering.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

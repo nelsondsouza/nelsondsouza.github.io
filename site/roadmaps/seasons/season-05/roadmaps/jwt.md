@@ -4,7 +4,7 @@ title: JWT
 season: 5
 roadmap_number: 10
 source_file: "Season 5/10-JWT.png"
-image: "../../../assets/roadmap-images/season-05/10-JWT.png"
+image: "../../../assets/roadmap-images/season-05/10-JWT.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # JWT
 
-![JWT Roadmap](../../../assets/roadmap-images/season-05/10-JWT.png)
+![JWT Roadmap](../../../assets/roadmap-images/season-05/10-JWT.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -3,8 +3,8 @@ id: s09-03-software-testing-process-stlc
 title: Software Testing Process (STLC)
 season: 9
 roadmap_number: 3
-source_file: "Season 9/03-Software-Testing-Process-(STLC).png"
-image: "../../../assets/roadmap-images/season-09/03-Software-Testing-Process-(STLC).png"
+source_file: "Season 9/03-Software-Testing-Process-(STLC).webp"
+image: "../../../assets/roadmap-images/season-09/03-Software-Testing-Process-(STLC).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Software Testing Process (STLC)
 
-![Software Testing Process (STLC) Roadmap](../../../assets/roadmap-images/season-09/03-Software-Testing-Process-(STLC).png)
+![Software Testing Process (STLC) Roadmap](../../../assets/roadmap-images/season-09/03-Software-Testing-Process-(STLC).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

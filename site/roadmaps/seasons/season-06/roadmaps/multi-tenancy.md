@@ -4,7 +4,7 @@ title: Multi Tenancy
 season: 6
 roadmap_number: 36
 source_file: "Season 6/36-Multi-Tenancy.png"
-image: "../../../assets/roadmap-images/season-06/36-Multi-Tenancy.png"
+image: "../../../assets/roadmap-images/season-06/36-Multi-Tenancy.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Multi Tenancy
 
-![Multi Tenancy Roadmap](../../../assets/roadmap-images/season-06/36-Multi-Tenancy.png)
+![Multi Tenancy Roadmap](../../../assets/roadmap-images/season-06/36-Multi-Tenancy.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

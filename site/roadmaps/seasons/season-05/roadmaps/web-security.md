@@ -4,7 +4,7 @@ title: Web Security
 season: 5
 roadmap_number: 15
 source_file: "Season 5/15-Web-Security.png"
-image: "../../../assets/roadmap-images/season-05/15-Web-Security.png"
+image: "../../../assets/roadmap-images/season-05/15-Web-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Web Security
 
-![Web Security Roadmap](../../../assets/roadmap-images/season-05/15-Web-Security.png)
+![Web Security Roadmap](../../../assets/roadmap-images/season-05/15-Web-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

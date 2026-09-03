@@ -4,7 +4,7 @@ title: Chaos Engineering
 season: 6
 roadmap_number: 26
 source_file: "Season 6/26-Chaos-Engineering.png"
-image: "../../../assets/roadmap-images/season-06/26-Chaos-Engineering.png"
+image: "../../../assets/roadmap-images/season-06/26-Chaos-Engineering.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Chaos Engineering
 
-![Chaos Engineering Roadmap](../../../assets/roadmap-images/season-06/26-Chaos-Engineering.png)
+![Chaos Engineering Roadmap](../../../assets/roadmap-images/season-06/26-Chaos-Engineering.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

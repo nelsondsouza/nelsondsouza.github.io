@@ -4,7 +4,7 @@ title: Ethical Hacking
 season: 5
 roadmap_number: 28
 source_file: "Season 5/28-Ethical-Hacking.png"
-image: "../../../assets/roadmap-images/season-05/28-Ethical-Hacking.png"
+image: "../../../assets/roadmap-images/season-05/28-Ethical-Hacking.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Ethical Hacking
 
-![Ethical Hacking Roadmap](../../../assets/roadmap-images/season-05/28-Ethical-Hacking.png)
+![Ethical Hacking Roadmap](../../../assets/roadmap-images/season-05/28-Ethical-Hacking.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

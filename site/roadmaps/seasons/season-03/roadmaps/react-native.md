@@ -4,7 +4,7 @@ title: React Native
 season: 3
 roadmap_number: 14
 source_file: "Season 3/14-React-Native.png"
-image: "../../../assets/roadmap-images/season-03/14-React-Native.png"
+image: "../../../assets/roadmap-images/season-03/14-React-Native.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # React Native
 
-![React Native Roadmap](../../../assets/roadmap-images/season-03/14-React-Native.png)
+![React Native Roadmap](../../../assets/roadmap-images/season-03/14-React-Native.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

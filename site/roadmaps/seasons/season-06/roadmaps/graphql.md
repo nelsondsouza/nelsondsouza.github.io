@@ -4,7 +4,7 @@ title: GraphQL
 season: 6
 roadmap_number: 9
 source_file: "Season 6/09-GraphQL.png"
-image: "../../../assets/roadmap-images/season-06/09-GraphQL.png"
+image: "../../../assets/roadmap-images/season-06/09-GraphQL.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # GraphQL
 
-![GraphQL Roadmap](../../../assets/roadmap-images/season-06/09-GraphQL.png)
+![GraphQL Roadmap](../../../assets/roadmap-images/season-06/09-GraphQL.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Monolith vs Microservices
 season: 6
 roadmap_number: 29
 source_file: "Season 6/29-Monolith-vs-Microservices.png"
-image: "../../../assets/roadmap-images/season-06/29-Monolith-vs-Microservices.png"
+image: "../../../assets/roadmap-images/season-06/29-Monolith-vs-Microservices.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Monolith vs Microservices
 
-![Monolith vs Microservices Roadmap](../../../assets/roadmap-images/season-06/29-Monolith-vs-Microservices.png)
+![Monolith vs Microservices Roadmap](../../../assets/roadmap-images/season-06/29-Monolith-vs-Microservices.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

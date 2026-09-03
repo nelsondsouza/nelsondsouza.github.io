@@ -4,7 +4,7 @@ title: Agile Software Development
 season: 8
 roadmap_number: 4
 source_file: "Season 8/04-Agile-Software-Development.png"
-image: "../../../assets/roadmap-images/season-08/04-Agile-Software-Development.png"
+image: "../../../assets/roadmap-images/season-08/04-Agile-Software-Development.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Agile Software Development
 
-![Agile Software Development Roadmap](../../../assets/roadmap-images/season-08/04-Agile-Software-Development.png)
+![Agile Software Development Roadmap](../../../assets/roadmap-images/season-08/04-Agile-Software-Development.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

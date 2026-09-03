@@ -4,7 +4,7 @@ title: AI Agents
 season: 3
 roadmap_number: 20
 source_file: "Season 3/20-AI-Agents.png"
-image: "../../../assets/roadmap-images/season-03/20-AI-Agents.png"
+image: "../../../assets/roadmap-images/season-03/20-AI-Agents.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Agents
 
-![AI Agents Roadmap](../../../assets/roadmap-images/season-03/20-AI-Agents.png)
+![AI Agents Roadmap](../../../assets/roadmap-images/season-03/20-AI-Agents.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

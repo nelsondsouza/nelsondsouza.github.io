@@ -4,7 +4,7 @@ title: AI Workflow Automation
 season: 7
 roadmap_number: 4
 source_file: "Season 7/04-AI-Workflow-Automation.png"
-image: "../../../assets/roadmap-images/season-07/04-AI-Workflow-Automation.png"
+image: "../../../assets/roadmap-images/season-07/04-AI-Workflow-Automation.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # AI Workflow Automation
 
-![AI Workflow Automation Roadmap](../../../assets/roadmap-images/season-07/04-AI-Workflow-Automation.png)
+![AI Workflow Automation Roadmap](../../../assets/roadmap-images/season-07/04-AI-Workflow-Automation.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

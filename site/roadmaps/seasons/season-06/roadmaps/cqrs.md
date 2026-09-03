@@ -4,7 +4,7 @@ title: CQRS
 season: 6
 roadmap_number: 13
 source_file: "Season 6/13-CQRS.png"
-image: "../../../assets/roadmap-images/season-06/13-CQRS.png"
+image: "../../../assets/roadmap-images/season-06/13-CQRS.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # CQRS
 
-![CQRS Roadmap](../../../assets/roadmap-images/season-06/13-CQRS.png)
+![CQRS Roadmap](../../../assets/roadmap-images/season-06/13-CQRS.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

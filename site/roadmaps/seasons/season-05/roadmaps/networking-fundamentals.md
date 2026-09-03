@@ -4,7 +4,7 @@ title: Networking Fundamentals
 season: 5
 roadmap_number: 1
 source_file: "Season 5/01-Networking-Fundamentals.png"
-image: "../../../assets/roadmap-images/season-05/01-Networking-Fundamentals.png"
+image: "../../../assets/roadmap-images/season-05/01-Networking-Fundamentals.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Networking Fundamentals
 
-![Networking Fundamentals Roadmap](../../../assets/roadmap-images/season-05/01-Networking-Fundamentals.png)
+![Networking Fundamentals Roadmap](../../../assets/roadmap-images/season-05/01-Networking-Fundamentals.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

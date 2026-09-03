@@ -4,7 +4,7 @@ title: Apache Hive
 season: 4
 roadmap_number: 4
 source_file: "Season 4/04-Apache-Hive.png"
-image: "../../../assets/roadmap-images/season-04/04-Apache-Hive.png"
+image: "../../../assets/roadmap-images/season-04/04-Apache-Hive.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Apache Hive
 
-![Apache Hive Roadmap](../../../assets/roadmap-images/season-04/04-Apache-Hive.png)
+![Apache Hive Roadmap](../../../assets/roadmap-images/season-04/04-Apache-Hive.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

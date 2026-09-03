@@ -4,7 +4,7 @@ title: Build Systems & Dependency Management
 season: 8
 roadmap_number: 15
 source_file: "Season 8/15-Build-Systems-&-Dependency-Management.png"
-image: "../../../assets/roadmap-images/season-08/15-Build-Systems-&-Dependency-Management.png"
+image: "../../../assets/roadmap-images/season-08/15-Build-Systems-&-Dependency-Management.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Build Systems & Dependency Management
 
-![Build Systems & Dependency Management Roadmap](../../../assets/roadmap-images/season-08/15-Build-Systems-&-Dependency-Management.png)
+![Build Systems & Dependency Management Roadmap](../../../assets/roadmap-images/season-08/15-Build-Systems-&-Dependency-Management.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

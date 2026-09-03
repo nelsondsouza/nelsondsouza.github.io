@@ -4,7 +4,7 @@ title: IAM
 season: 5
 roadmap_number: 7
 source_file: "Season 5/07-IAM.png"
-image: "../../../assets/roadmap-images/season-05/07-IAM.png"
+image: "../../../assets/roadmap-images/season-05/07-IAM.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # IAM
 
-![IAM Roadmap](../../../assets/roadmap-images/season-05/07-IAM.png)
+![IAM Roadmap](../../../assets/roadmap-images/season-05/07-IAM.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

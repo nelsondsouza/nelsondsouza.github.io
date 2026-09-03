@@ -4,7 +4,7 @@ title: Load Balancing
 season: 6
 roadmap_number: 22
 source_file: "Season 6/22-Load-Balancing.png"
-image: "../../../assets/roadmap-images/season-06/22-Load-Balancing.png"
+image: "../../../assets/roadmap-images/season-06/22-Load-Balancing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Load Balancing
 
-![Load Balancing Roadmap](../../../assets/roadmap-images/season-06/22-Load-Balancing.png)
+![Load Balancing Roadmap](../../../assets/roadmap-images/season-06/22-Load-Balancing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

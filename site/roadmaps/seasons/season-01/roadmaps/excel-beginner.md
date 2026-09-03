@@ -4,7 +4,7 @@ title: Excel Beginner
 season: 1
 roadmap_number: 3
 source_file: "Season 1/03-Excel-Beginner.png"
-image: "../../../assets/roadmap-images/season-01/03-Excel-Beginner.png"
+image: "../../../assets/roadmap-images/season-01/03-Excel-Beginner.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Excel Beginner
 
-![Excel Beginner Roadmap](../../../assets/roadmap-images/season-01/03-Excel-Beginner.png)
+![Excel Beginner Roadmap](../../../assets/roadmap-images/season-01/03-Excel-Beginner.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

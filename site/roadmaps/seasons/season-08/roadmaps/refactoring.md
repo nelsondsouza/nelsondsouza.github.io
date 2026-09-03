@@ -4,7 +4,7 @@ title: Refactoring
 season: 8
 roadmap_number: 10
 source_file: "Season 8/10-Refactoring.png"
-image: "../../../assets/roadmap-images/season-08/10-Refactoring.png"
+image: "../../../assets/roadmap-images/season-08/10-Refactoring.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Refactoring
 
-![Refactoring Roadmap](../../../assets/roadmap-images/season-08/10-Refactoring.png)
+![Refactoring Roadmap](../../../assets/roadmap-images/season-08/10-Refactoring.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

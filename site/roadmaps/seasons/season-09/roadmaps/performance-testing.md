@@ -4,7 +4,7 @@ title: Performance Testing
 season: 9
 roadmap_number: 18
 source_file: "Season 9/18-Performance-Testing.png"
-image: "../../../assets/roadmap-images/season-09/18-Performance-Testing.png"
+image: "../../../assets/roadmap-images/season-09/18-Performance-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Performance Testing
 
-![Performance Testing Roadmap](../../../assets/roadmap-images/season-09/18-Performance-Testing.png)
+![Performance Testing Roadmap](../../../assets/roadmap-images/season-09/18-Performance-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

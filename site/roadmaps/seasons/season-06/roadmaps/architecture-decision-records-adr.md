@@ -3,8 +3,8 @@ id: s06-34-architecture-decision-records-adr
 title: Architecture Decision Records (ADR)
 season: 6
 roadmap_number: 34
-source_file: "Season 6/34-Architecture-Decision-Records-(ADR).png"
-image: "../../../assets/roadmap-images/season-06/34-Architecture-Decision-Records-(ADR).png"
+source_file: "Season 6/34-Architecture-Decision-Records-(ADR).webp"
+image: "../../../assets/roadmap-images/season-06/34-Architecture-Decision-Records-(ADR).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Architecture Decision Records (ADR)
 
-![Architecture Decision Records (ADR) Roadmap](../../../assets/roadmap-images/season-06/34-Architecture-Decision-Records-(ADR).png)
+![Architecture Decision Records (ADR) Roadmap](../../../assets/roadmap-images/season-06/34-Architecture-Decision-Records-(ADR).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

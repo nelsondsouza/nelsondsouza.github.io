@@ -4,7 +4,7 @@ title: DNS
 season: 5
 roadmap_number: 3
 source_file: "Season 5/03-DNS.png"
-image: "../../../assets/roadmap-images/season-05/03-DNS.png"
+image: "../../../assets/roadmap-images/season-05/03-DNS.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # DNS
 
-![DNS Roadmap](../../../assets/roadmap-images/season-05/03-DNS.png)
+![DNS Roadmap](../../../assets/roadmap-images/season-05/03-DNS.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

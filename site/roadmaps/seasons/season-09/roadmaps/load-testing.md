@@ -4,7 +4,7 @@ title: Load Testing
 season: 9
 roadmap_number: 19
 source_file: "Season 9/19-Load-Testing.png"
-image: "../../../assets/roadmap-images/season-09/19-Load-Testing.png"
+image: "../../../assets/roadmap-images/season-09/19-Load-Testing.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Load Testing
 
-![Load Testing Roadmap](../../../assets/roadmap-images/season-09/19-Load-Testing.png)
+![Load Testing Roadmap](../../../assets/roadmap-images/season-09/19-Load-Testing.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

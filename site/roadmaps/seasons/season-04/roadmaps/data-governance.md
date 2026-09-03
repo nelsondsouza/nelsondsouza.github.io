@@ -4,7 +4,7 @@ title: Data Governance
 season: 4
 roadmap_number: 20
 source_file: "Season 4/20-Data-Governance.png"
-image: "../../../assets/roadmap-images/season-04/20-Data-Governance.png"
+image: "../../../assets/roadmap-images/season-04/20-Data-Governance.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Governance
 
-![Data Governance Roadmap](../../../assets/roadmap-images/season-04/20-Data-Governance.png)
+![Data Governance Roadmap](../../../assets/roadmap-images/season-04/20-Data-Governance.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Terraform
 season: 2
 roadmap_number: 6
 source_file: "Season 2/06-Terraform.png"
-image: "../../../assets/roadmap-images/season-02/06-Terraform.png"
+image: "../../../assets/roadmap-images/season-02/06-Terraform.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Terraform
 
-![Terraform Roadmap](../../../assets/roadmap-images/season-02/06-Terraform.png)
+![Terraform Roadmap](../../../assets/roadmap-images/season-02/06-Terraform.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

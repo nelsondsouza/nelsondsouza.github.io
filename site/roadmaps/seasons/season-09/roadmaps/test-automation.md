@@ -4,7 +4,7 @@ title: Test Automation
 season: 9
 roadmap_number: 31
 source_file: "Season 9/31-Test-Automation.png"
-image: "../../../assets/roadmap-images/season-09/31-Test-Automation.png"
+image: "../../../assets/roadmap-images/season-09/31-Test-Automation.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Test Automation
 
-![Test Automation Roadmap](../../../assets/roadmap-images/season-09/31-Test-Automation.png)
+![Test Automation Roadmap](../../../assets/roadmap-images/season-09/31-Test-Automation.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Project Initiation
 season: 10
 roadmap_number: 7
 source_file: "Season 10/07-Project-Initiation.png"
-image: "../../../assets/roadmap-images/season-10/07-Project-Initiation.png"
+image: "../../../assets/roadmap-images/season-10/07-Project-Initiation.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Project Initiation
 
-![Project Initiation Roadmap](../../../assets/roadmap-images/season-10/07-Project-Initiation.png)
+![Project Initiation Roadmap](../../../assets/roadmap-images/season-10/07-Project-Initiation.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Excel Intermediate
 season: 1
 roadmap_number: 4
 source_file: "Season 1/04-Excel-Intermediate.png"
-image: "../../../assets/roadmap-images/season-01/04-Excel-Intermediate.png"
+image: "../../../assets/roadmap-images/season-01/04-Excel-Intermediate.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Excel Intermediate
 
-![Excel Intermediate Roadmap](../../../assets/roadmap-images/season-01/04-Excel-Intermediate.png)
+![Excel Intermediate Roadmap](../../../assets/roadmap-images/season-01/04-Excel-Intermediate.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

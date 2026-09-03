@@ -4,7 +4,7 @@ title: Cyber Security
 season: 1
 roadmap_number: 21
 source_file: "Season 1/21-Cyber-Security.png"
-image: "../../../assets/roadmap-images/season-01/21-Cyber-Security.png"
+image: "../../../assets/roadmap-images/season-01/21-Cyber-Security.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Cyber Security
 
-![Cyber Security Roadmap](../../../assets/roadmap-images/season-01/21-Cyber-Security.png)
+![Cyber Security Roadmap](../../../assets/roadmap-images/season-01/21-Cyber-Security.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

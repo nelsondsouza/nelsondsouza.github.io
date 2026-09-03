@@ -4,7 +4,7 @@ title: Saga Pattern
 season: 6
 roadmap_number: 15
 source_file: "Season 6/15-Saga-Pattern.png"
-image: "../../../assets/roadmap-images/season-06/15-Saga-Pattern.png"
+image: "../../../assets/roadmap-images/season-06/15-Saga-Pattern.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Saga Pattern
 
-![Saga Pattern Roadmap](../../../assets/roadmap-images/season-06/15-Saga-Pattern.png)
+![Saga Pattern Roadmap](../../../assets/roadmap-images/season-06/15-Saga-Pattern.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

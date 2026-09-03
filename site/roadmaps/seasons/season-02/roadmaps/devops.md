@@ -4,7 +4,7 @@ title: DevOps
 season: 2
 roadmap_number: 7
 source_file: "Season 2/07-DevOps.png"
-image: "../../../assets/roadmap-images/season-02/07-DevOps.png"
+image: "../../../assets/roadmap-images/season-02/07-DevOps.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # DevOps
 
-![DevOps Roadmap](../../../assets/roadmap-images/season-02/07-DevOps.png)
+![DevOps Roadmap](../../../assets/roadmap-images/season-02/07-DevOps.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

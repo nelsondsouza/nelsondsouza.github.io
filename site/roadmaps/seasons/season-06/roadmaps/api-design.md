@@ -4,7 +4,7 @@ title: API Design
 season: 6
 roadmap_number: 7
 source_file: "Season 6/07-API-Design.png"
-image: "../../../assets/roadmap-images/season-06/07-API-Design.png"
+image: "../../../assets/roadmap-images/season-06/07-API-Design.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # API Design
 
-![API Design Roadmap](../../../assets/roadmap-images/season-06/07-API-Design.png)
+![API Design Roadmap](../../../assets/roadmap-images/season-06/07-API-Design.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

@@ -4,7 +4,7 @@ title: Data Quality
 season: 4
 roadmap_number: 21
 source_file: "Season 4/21-Data-Quality.png"
-image: "../../../assets/roadmap-images/season-04/21-Data-Quality.png"
+image: "../../../assets/roadmap-images/season-04/21-Data-Quality.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Data Quality
 
-![Data Quality Roadmap](../../../assets/roadmap-images/season-04/21-Data-Quality.png)
+![Data Quality Roadmap](../../../assets/roadmap-images/season-04/21-Data-Quality.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

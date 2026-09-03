@@ -4,7 +4,7 @@ title: SDLC
 season: 8
 roadmap_number: 2
 source_file: "Season 8/02-SDLC.png"
-image: "../../../assets/roadmap-images/season-08/02-SDLC.png"
+image: "../../../assets/roadmap-images/season-08/02-SDLC.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # SDLC
 
-![SDLC Roadmap](../../../assets/roadmap-images/season-08/02-SDLC.png)
+![SDLC Roadmap](../../../assets/roadmap-images/season-08/02-SDLC.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

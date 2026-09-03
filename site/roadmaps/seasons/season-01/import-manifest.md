@@ -87,7 +87,7 @@
 
 ## 15 — AI Governance Officer
 - Source: `Season 1/15-AI-Governance-Officer.png`
-- Image destination: `site/roadmaps/assets/roadmap-images/season-01/15-AI-Governance-Officer.png`
+- Image destination: `site/roadmaps/assets/roadmap-images/season-01/15-AI-Governance-Officer.webp`
 - Page: `site/roadmaps/seasons/season-01/roadmaps/ai-governance-officer.md`
 - Metadata enrichment: pending
 
@@ -159,6 +159,6 @@
 
 ## 27 — HackerRank
 - Source: `Season 1/27-HackerRank.png`
-- Image destination: `site/roadmaps/assets/roadmap-images/season-01/27-HackerRank.png`
+- Image destination: `site/roadmaps/assets/roadmap-images/season-01/27-HackerRank.webp`
 - Page: `site/roadmaps/seasons/season-01/roadmaps/hackerrank.md`
 - Metadata enrichment: pending

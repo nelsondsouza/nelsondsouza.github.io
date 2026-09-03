@@ -3,8 +3,8 @@ id: s08-29-developer-experience-devex
 title: Developer Experience (DevEx)
 season: 8
 roadmap_number: 29
-source_file: "Season 8/29-Developer-Experience-(DevEx).png"
-image: "../../../assets/roadmap-images/season-08/29-Developer-Experience-(DevEx).png"
+source_file: "Season 8/29-Developer-Experience-(DevEx).webp"
+image: "../../../assets/roadmap-images/season-08/29-Developer-Experience-(DevEx).webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Developer Experience (DevEx)
 
-![Developer Experience (DevEx) Roadmap](../../../assets/roadmap-images/season-08/29-Developer-Experience-(DevEx).png)
+![Developer Experience (DevEx) Roadmap](../../../assets/roadmap-images/season-08/29-Developer-Experience-(DevEx).webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._

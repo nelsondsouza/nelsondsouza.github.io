@@ -4,7 +4,7 @@ title: Java
 season: 1
 roadmap_number: 8
 source_file: "Season 1/08-Java.png"
-image: "../../../assets/roadmap-images/season-01/08-Java.png"
+image: "../../../assets/roadmap-images/season-01/08-Java.webp"
 career_paths: []
 topics: []
 tutorials: []
@@ -14,7 +14,7 @@ ai_at_work: []
 
 # Java
 
-![Java Roadmap](../../../assets/roadmap-images/season-01/08-Java.png)
+![Java Roadmap](../../../assets/roadmap-images/season-01/08-Java.webp)
 
 ## What this roadmap covers
 _To be completed during metadata/content enrichment._
